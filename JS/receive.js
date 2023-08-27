@@ -157,7 +157,7 @@ async function tableInit() {
   const based_on = document.getElementById('based_on').value ;
 
   try {
-    const response = await fetch('../API/Get_receive/receiveTable.php', {
+    const response = await fetch('../API/Get_Receive/receiveTable.php', {
       method: 'POST' ,
       headers: {
         "Content-Type": "application/x-www-form-urlencoded"
