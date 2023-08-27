@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
   if ($search != '') {
     if ($based == "IDENT_CODE") {
       $query = "SELECT * FROM material WHERE IDENT_CODE LIKE '%$search%'";
-      $connection = conn($user, $pass, $db, 'material');
+      $connection = conn();
       $materialData = mysqli_query($connection, $query);
   
       $temp = [];
@@ -177,18 +177,18 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
       $issued = [] ;
       
       $queryMir = "SELECT DISTINCT spool FROM $table3 WHERE spool LIKE '%$search%'";
-      $connMir = conn(3);
+      $connMir = conn();
       $materialData = mysqli_query($connMir, $queryMir);
   
       $queryRaw = "SELECT * FROM $table3 WHERE spool LIKE '%$search%'";
-      $connRaw = conn(3);
+      $connRaw = conn();
       $allMir = mysqli_query($connRaw, $queryRaw);
   
-      $warehouse = selectAll(4) ;
-      $allDataReservation = selectAll(3) ;
+      $warehouse = selectAll('material') ;
+      $allDataReservation = selectAll('data_mir') ;
   
       $queryIssued = "SELECT * FROM $table2 WHERE spool LIKE '%$search%'";
-      $connIssued = conn(2);
+      $connIssued = conn();
       $issuedRawData = mysqli_query($connIssued, $queryIssued);
   
   
@@ -427,7 +427,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
   } else {
   
     $query = "SELECT * FROM material";
-    $connection = conn($user, $pass, $db, 'material');
+    $connection = conn();
     $materialData = mysqli_query($connection, $query);
   
     $temp = [];

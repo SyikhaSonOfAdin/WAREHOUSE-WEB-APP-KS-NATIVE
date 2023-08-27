@@ -44,8 +44,6 @@ if ( isset($_SESSION["login"]) == "true" ) {
     </div>
   </div>
 
-  <?php include './component/alert.php' ?>
-
   <form id="searchBar" class="search-form"  action="" method="post">
     <div class="relative mt-2 rounded-md shadow-sm">
       <input type="search" id="search" name="search"
