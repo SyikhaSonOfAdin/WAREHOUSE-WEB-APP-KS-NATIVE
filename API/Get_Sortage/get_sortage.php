@@ -44,7 +44,7 @@ if ($search != '' && $based != '') {
         }
     }
     
-    $dataReceive = selectAll($user, $pass, $db, $table2);
+    $dataReceive = selectAll($table2);
 
     $receive = [];
 
@@ -88,7 +88,7 @@ if ($search != '' && $based != '') {
                 '<td class="px-6 py-4">' . $temp[$i]["IDENT_CODE"] . '</td>' .
                 '<td class="px-6 py-4">' . $temp[$i]["mis"] . '</td>' .
                 '<td class="px-6 py-4">' . $temp[$i]["received"] . '</td>' .
-                '<td class="px-6 py-4 text-red-500 font-bold">-' . $temp[$i]["bm_qty"] . '</td>' .
+                '<td class="px-6 py-4 text-red-500 font-bold">-' . round($temp[$i]["bm_qty"], 2) . '</td>' .
                 '</tr>';
         }
     }
@@ -130,7 +130,7 @@ if ($search != '' && $based != '') {
         }
     }
 
-    $dataReceive = selectAll($user, $pass, $db, $table2);
+    $dataReceive = selectAll($table2);
 
     $receive = [];
 
@@ -174,7 +174,7 @@ if ($search != '' && $based != '') {
                 '<td class="px-6 py-4">' . $temp[$i]["IDENT_CODE"] . '</td>' .
                 '<td class="px-6 py-4">' . $temp[$i]["mis"] . '</td>' .
                 '<td class="px-6 py-4">' . $temp[$i]["received"] . '</td>' .
-                '<td class="px-6 py-4 text-red-500 font-bold">-' . $temp[$i]["bm_qty"] . '</td>' .
+                '<td class="px-6 py-4 text-red-500 font-bold">-' . round($temp[$i]["bm_qty"], 2) . '</td>' .
                 '</tr>';
         }
     }

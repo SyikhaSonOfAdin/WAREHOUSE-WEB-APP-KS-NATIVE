@@ -21,7 +21,7 @@ async function get_Table() {
     const what = document.getElementById("search").value ;
 
     try {
-        const response = await fetch( "https://backup.syikha.com/HeinProject/API/Get_NeedRes/get_needRes.php",{
+        const response = await fetch( "../API/Get_NeedRes/get_needRes.php",{
             method: "POST",
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
@@ -40,7 +40,7 @@ async function get_Table() {
 async function update_Table() {
 
     try {
-        const response = await fetch( "https://backup.syikha.com/HeinProject/API/Get_NeedRes/get_Json.php",{
+        const response = await fetch( "../API/Get_NeedRes/get_Json.php",{
             method: "POST",
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
@@ -77,7 +77,7 @@ downloadButton.addEventListener('click', async () => {
     // Lakukan permintaan unduhan ke halaman server yang melakukan pemrosesan data
     try {
         await update_Table() ;
-        const response = await fetch('https://backup.syikha.com/HeinProject/API/Get_NeedRes/get_needRes.php');
+        const response = await fetch('../Report/needresReport.php');
         if (!response.ok) {
             throw new Error('Gagal mengunduh data.');
         }

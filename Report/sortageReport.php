@@ -5,9 +5,6 @@ require '../vendor/autoload.php'; // Lokasi file autoload.php dari library PhpSp
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 
-$user = 'root';
-$pass = '';
-$db = 'kokohsemesta';
 
 $table1 = "data_mir";
 $table2 = "material_receive_hein";
