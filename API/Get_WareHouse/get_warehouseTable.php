@@ -1,5 +1,11 @@
 <?php
 require '../../function.php';
+
+$user = "syih2943_admin";
+$pass = "syikhaakmal19";
+$db = "syih2943_kokohsemesta";
+
+
 $get_material = selectAll($user, $pass, $db, "material");
 $get_MIR = selectAll($user, $pass, $db, "data_mir");
 $receive = selectAll($user, $pass, $db, "material_receive_hein");
@@ -10,9 +16,6 @@ $dataIC = []; // Inisialisasi variabel $dataIC sebagai array kosong
 $y = 0;
 $i = 0;
 
-$user = "syih2943_admin";
-$pass = "syikhaakmal19";
-$db = "syih2943_kokohsemesta";
 
 
 // SEARCHING MECHANISM
