@@ -26,7 +26,7 @@ if ( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
                                     <h1 class="font-semibold text-xl uppercase">'
                                      . $result["IDENT_CODE"] .   
                                     '</h1>
-                                    <img src="../Uploaded/Receive/Images/' . $result["image_id"] . '" alt="">
+                                    <img src="../uploaded/Receive/Images/' . $result["image_id"] . '" alt="">
                                     <div class="">' ;
                                     if ($_SESSION["role"] != 'helper') {
                                     $response .= '<label
