@@ -10,7 +10,7 @@ $based = $_POST["based"] ;
 if ($search != '' && $based != '') {
 
     // Mengambil data dari tabel "data_mir_kine"
-    $queryMir = "SELECT * FROM $table1 WHERE $based LIKE '%$search%' " ;
+    $queryMir = "SELECT * FROM $table1 WHERE $based LIKE '%$search%' ORDER BY batch ASC" ;
     $connMir = conn() ;
     $dataMir = mysqli_query($connMir, $queryMir) ;
 
@@ -97,8 +97,11 @@ if ($search != '' && $based != '') {
         '</table>';
     echo $view;
 } else {
+    $connection = conn() ;
+
     // Mengambil data dari tabel "data_mir_kine"
-    $dataMir = selectAll($table1);
+    $queryMir = "SELECT * FROM $table1 ORDER BY batch ASC" ;
+    $dataMir = mysqli_query($connection, $queryMir) ;
 
     $mir = [];
     while ($row = mysqli_fetch_assoc($dataMir)) {
@@ -130,7 +133,8 @@ if ($search != '' && $based != '') {
         }
     }
 
-    $dataReceive = selectAll($table2);
+    $queryReceive = "SELECT * FROM $table2 ORDER BY mir ASC" ;
+    $dataReceive = mysqli_query($connection, $queryReceive) ;
 
     $receive = [];
 
