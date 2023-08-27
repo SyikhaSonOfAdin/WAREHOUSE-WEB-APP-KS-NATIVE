@@ -12,7 +12,7 @@ if ( isset($_SESSION["login"]) ) {
 }
 
 require "./function.php";
-$conn = conn("root", "", "kokohsemesta", "login");
+$conn = conn("syih2943_admin", "syikhaakmal19", "syih2943_kokohsemesta", "login");
 $display = "hidden";
 $false = "Password yang anda masukkan salah!" ;
 
