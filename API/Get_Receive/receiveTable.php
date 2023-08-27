@@ -95,7 +95,7 @@ while ($mir = mysqli_fetch_assoc($result)) {
   <td class="px-6 py-4">';
   if ($mir["image_id"] != '') {
     $options .= '<input type="hidden" name="changeIndex" value="' . $mir["id"] . '" id="changeIndex">
-                <img class="w-[100px] h-[100px]" src="../Uploaded/Receive/Images/' . $mir["image_id"] . '" onclick="imageButtonReceive(event)">';
+                <img class="w-[100px] h-[100px]" src="../uploaded/Receive/Images/' . $mir["image_id"] . '" onclick="imageButtonReceive(event)">';
   } else {
     $options .= '<input type="hidden" name="changeIndex" value="' . $mir["id"] . '" id="changeIndex">
                 <button name="changeIndexButton" onclick="imageButtonReceive(event)" class="w-max border rounded-2xl font-semibold text-sm py-1 px-3 hover:bg-[#2E3192] hover:text-white hover:border-blue-500 transition-all duration-200">Image</button>';
