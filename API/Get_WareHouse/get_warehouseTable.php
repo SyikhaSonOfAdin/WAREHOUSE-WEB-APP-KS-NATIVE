@@ -19,7 +19,7 @@ $i = 0;
 
 
 // SEARCHING MECHANISM
-$db = "material";
+// $db = "material";
 if ($_POST["search"] != '') {
     $search = $_POST["search"];
     $based_on = $_POST["based_on"];
