@@ -2,9 +2,9 @@
 session_start() ;
 require '../../function.php' ;
 
-$user = 'root' ;
-$pass = '' ;
-$db = 'kokohsemesta' ;
+$user = "syih2943_admin";
+$pass = "syikhaakmal19";
+$db = "syih2943_kokohsemesta";
 $table = 'material_receive_hein' ;
 $connection = conn($user, $pass, $db, $table) ;
 $response = '' ;

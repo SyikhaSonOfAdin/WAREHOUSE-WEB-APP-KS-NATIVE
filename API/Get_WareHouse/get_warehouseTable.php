@@ -1,14 +1,18 @@
 <?php
 require '../../function.php';
-$get_material = selectAll("root", "", "kokohsemesta", "material");
-$get_MIR = selectAll("root", "", "kokohsemesta", "data_mir");
-$receive = selectAll("root", "", "kokohsemesta", "material_receive_hein");
-$issued = selectAll("root", "", "kokohsemesta", "material_used_hein");
+$get_material = selectAll($user, $pass, $db, "material");
+$get_MIR = selectAll($user, $pass, $db, "data_mir");
+$receive = selectAll($user, $pass, $db, "material_receive_hein");
+$issued = selectAll($user, $pass, $db, "material_used_hein");
 
 $limit = 15;
 $dataIC = []; // Inisialisasi variabel $dataIC sebagai array kosong
 $y = 0;
 $i = 0;
+
+$user = "syih2943_admin";
+$pass = "syikhaakmal19";
+$db = "syih2943_kokohsemesta";
 
 
 // SEARCHING MECHANISM
@@ -22,16 +26,16 @@ if ($_POST["search"] != '') {
         $dataIC = []; // Inisialisasi variabel $dataIC sebagai array kosong
 
         $query = "SELECT * FROM `$db` WHERE `$based_on` LIKE '%$search%'";
-        $get_material = mysqli_query(conn("root", "", "kokohsemesta", "material"), $query);
+        $get_material = mysqli_query(conn($user, $pass, $db, "material"), $query);
 
         $query = "SELECT * FROM data_mir";
-        $get_MIR = mysqli_query(conn("root", "", "kokohsemesta", "data_mir"), $query);
+        $get_MIR = mysqli_query(conn($user, $pass, $db, "data_mir"), $query);
 
         $query = "SELECT * FROM material_receive_hein";
-        $receive = mysqli_query(conn("root", "", "kokohsemesta", "material_receive_hein"), $query);
+        $receive = mysqli_query(conn($user, $pass, $db, "material_receive_hein"), $query);
 
         $query = "SELECT * FROM material_used_hein";
-        $issued = mysqli_query(conn("root", "", "kokohsemesta", "material_used_hein"), $query);
+        $issued = mysqli_query(conn($user, $pass, $db, "material_used_hein"), $query);
 
         while ($data = mysqli_fetch_assoc($get_material)) {
             $dataIC[$y]["IDENT_CODE"] = $data["IDENT_CODE"];
@@ -97,16 +101,16 @@ if ($_POST["search"] != '') {
         $dataIC = []; // Inisialisasi variabel $dataIC sebagai array kosong
 
         $query = "SELECT * FROM `$db` WHERE `$based_on` LIKE '%$search%'";
-        $get_material = mysqli_query(conn("root", "", "kokohsemesta", "material"), $query);
+        $get_material = mysqli_query(conn($user, $pass, $db, "material"), $query);
 
         $query = "SELECT * FROM data_mir";
-        $get_MIR = mysqli_query(conn("root", "", "kokohsemesta", "data_mir"), $query);
+        $get_MIR = mysqli_query(conn($user, $pass, $db, "data_mir"), $query);
 
         $query = "SELECT * FROM material_receive_hein";
-        $receive = mysqli_query(conn("root", "", "kokohsemesta", "material_receive_hein"), $query);
+        $receive = mysqli_query(conn($user, $pass, $db, "material_receive_hein"), $query);
 
         $query = "SELECT * FROM material_used_hein";
-        $issued = mysqli_query(conn("root", "", "kokohsemesta", "material_used_hein"), $query);
+        $issued = mysqli_query(conn($user, $pass, $db, "material_used_hein"), $query);
 
         while ($data = mysqli_fetch_assoc($get_material)) {
             $dataIC[$y]["IDENT_CODE"] = $data["IDENT_CODE"];
@@ -170,7 +174,7 @@ if ($_POST["search"] != '') {
     }
 } else {
     $query = "SELECT * FROM material LIMIT $limit";
-    $connMaterial = conn("root", "", "kokohsemesta", "material");
+    $connMaterial = conn($user, $pass, $db, "material");
     $get_material = mysqli_query($connMaterial, $query);
     while ($data = mysqli_fetch_assoc($get_material)) {
         $dataIC[$y]["IDENT_CODE"] = $data["IDENT_CODE"];

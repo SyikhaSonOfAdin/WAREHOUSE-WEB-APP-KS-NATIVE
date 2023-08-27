@@ -1,9 +1,10 @@
 <?php
 require '../function.php';
 $host = 'localhost';
-$db = 'kokohsemesta';
-$user = 'root';
-$password = '';
+$user = "syih2943_admin";
+$password = "syikhaakmal19";
+$db = "syih2943_kokohsemesta";
+
 $mysqli = conn($user, $password, $db, "data_mir");
 
 require '../vendor/autoload.php'; // Lokasi file autoload.php dari library PhpSpreadsheet
