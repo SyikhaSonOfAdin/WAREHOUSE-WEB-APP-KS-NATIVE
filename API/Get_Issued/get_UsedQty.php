@@ -1,11 +1,9 @@
 <?php
 require '../../function.php';
-$user = "root";
-$pass = "";
-$db = "kokohsemesta";
+
 $table = "material";
 
-$connection = conn($user, $pass, $db, $table);
+$connection = conn();
 
 $data = 0;
 
@@ -15,7 +13,7 @@ $selectedSpool = $_POST["selectedSpool"];
 
 if ( isset($_POST["GetReal_Quantity"]) == "active") {
     $table = "data_mir";
-    $connection = conn($user, $pass, $db, $table);
+    $connection = conn();
     $query = "SELECT * FROM $table WHERE IDENT_CODE = '$selectedIdentCode' AND batch = '$selectedMir' AND spool = '$selectedSpool'";
     $result = mysqli_query($connection, $query);
 
@@ -26,7 +24,7 @@ if ( isset($_POST["GetReal_Quantity"]) == "active") {
     }
 
     $table = "material_used_hein";
-    $connection = conn($user, $pass, $db, $table);
+    $connection = conn();
     $query = "SELECT * FROM $table WHERE IDENT_CODE = '$selectedIdentCode' AND mir = '$selectedMir' AND spool = '$selectedSpool'";
     $result = mysqli_query($connection, $query);
 

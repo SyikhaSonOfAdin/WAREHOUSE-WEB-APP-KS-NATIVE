@@ -1,12 +1,10 @@
 <?php 
 
 require '../../function.php';
-$user = "root";
-$pass = "";
-$db = "kokohsemesta";
+
 $table = "material_receive_hein";
 
-$connection = conn($user, $pass, $db, $table);
+$connection = conn();
 
 $indexOf = $_POST["selectedIndex"] ;
 

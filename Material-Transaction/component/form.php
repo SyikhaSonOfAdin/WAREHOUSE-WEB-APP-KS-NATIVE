@@ -1,5 +1,5 @@
 <?php
-$resultNew = selectAll($user, $pass, $db, "material");
+$resultNew = selectAll("material");
 ?>
 
 <div class="fixed z-10 w-full h-full bg-black bg-opacity-40 items-center hidden" id="modalbg">

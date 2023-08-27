@@ -1,12 +1,10 @@
 <?php
 
 require '../../function.php';
-$user = "root";
-$pass = "";
-$db = "kokohsemesta";
+
 $table = "material_used_hein";
 
-$connection = conn($user, $pass, $db, $table);
+$connection = conn();
 
 if ($_POST["selectedSpool"] != '') {
   $id = $_POST["selectedIdentCode"];
@@ -22,7 +20,7 @@ if ($_POST["selectedSpool"] != '') {
 
   if (mysqli_affected_rows($connection) > 0) {
     $updateQuery = "UPDATE material SET stock = stock - $qty WHERE IDENT_CODE = '$id'";
-    mysqli_query(conn($user, $pass, $db, "material"), $updateQuery);
+    mysqli_query(conn(), $updateQuery);
   }
   $query = "SELECT * FROM $table ORDER BY date DESC LIMIT 50";
   $result = mysqli_query($connection, $query);

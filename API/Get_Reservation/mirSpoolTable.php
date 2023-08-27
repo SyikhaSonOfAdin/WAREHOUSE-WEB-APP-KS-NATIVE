@@ -1,11 +1,9 @@
 <?php
 require '../../function.php';
-$user = "root";
-$pass = "";
-$db = "kokohsemesta";
+
 $tableName = "data_mir";
 
-$connection = conn($user, $pass, $db, $tableName);
+$connection = conn();
 
 $tableHTML = ''; // Variabel baru untuk menyimpan hasil pembuatan tabel HTML
 

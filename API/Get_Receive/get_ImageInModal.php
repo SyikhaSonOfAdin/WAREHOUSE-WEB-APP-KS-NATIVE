@@ -2,11 +2,8 @@
 session_start() ;
 require '../../function.php' ;
 
-$user = 'root' ;
-$pass = '' ;
-$db = 'kokohsemesta' ;
 $table = 'material_receive_hein' ;
-$connection = conn($user, $pass, $db, $table) ;
+$connection = conn() ;
 $response = '' ;
 
 if ( $_SERVER['REQUEST_METHOD'] == 'POST' ) {

@@ -1,11 +1,9 @@
 <?php
 require '../../function.php';
-$user = "root";
-$pass = "";
-$db = "kokohsemesta";
+
 $table = "material";
 
-$connection = conn($user, $pass, $db, $table);
+$connection = conn();
 // Dapatkan nilai selectedValue dari JavaScript
 $selectedValue = $_POST["selectedValue"];
 

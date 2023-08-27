@@ -1,21 +1,17 @@
 <?php 
 require '../../function.php';
 
-$user = 'root';
-$pass = '';
-$db = 'kokohsemesta';
-
 $table1 = "data_mir";
 $table2 = "material_used_hein";
 
 $query = "SELECT * FROM $table1";
-$conn = conn($user, $pass, $db, $table1);
+$conn = conn();
 $resultData = mysqli_query($conn, $query);
 
 $tempData = [];
 
 $query1 = "SELECT * FROM $table2";
-$conn1 = conn($user, $pass, $db, $table2);
+$conn1 = conn();
 $resultUsed = mysqli_query($conn1, $query1);
 
 while ($rowData = mysqli_fetch_assoc($resultData)) {

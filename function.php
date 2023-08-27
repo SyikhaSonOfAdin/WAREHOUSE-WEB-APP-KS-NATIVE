@@ -1,27 +1,14 @@
 <?php
-class Connect {
-    private $user = 'root' ;
-    private $password = '' ;
-    private $database = 'kokohsemesta' ;
-
-    // TABLE 
-    private $receiveTable = 'material_receive_hein' ;
-    private $issuedTable = 'material_used_hein' ;
-    
-    public function receive() {
-        return $conn = mysqli_connect("localhost", "$this->user", "$this->password", "$this->database");    
-    }
-}
 
 function conn()
 {
-    return $conn = mysqli_connect("localhost", "syih2943_admin", "syikhaakmal19", "syih2943_kokohsemesta");
+    return $conn = mysqli_connect("localhost", "root", "", "kokohsemesta");
 }
 
-function selectAll($user, $password, $database, $table)
+function selectAll($table)
 {
     //connect to database
-    $conn = mysqli_connect("localhost", "$user", "$password", "$database");
+    $conn = conn() ;
     return $result = mysqli_query($conn, "SELECT * FROM `$table`");
 }
 
@@ -54,7 +41,7 @@ function tryCookie($username, $role)
 
 function getCookie() 
 {
-    $getData = selectAll("root", "", "kokohsemesta", "login") ;
+    $getData = selectAll("login") ;
     while ($data = mysqli_fetch_assoc($getData)) {
         $user = hash("sha256", $data["username"] );
         $level = hash("sha256", $data["role"] ); 

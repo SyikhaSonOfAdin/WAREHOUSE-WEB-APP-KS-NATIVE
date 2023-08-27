@@ -1,9 +1,6 @@
 <?php
 require '../../function.php';
 
-$user = "root";
-$pass = "";
-$db = "kokohsemesta";
 $table = "material_receive_hein";
 $table2 = "material_used_hein";
 $table3 = "data_mir" ;
@@ -14,11 +11,11 @@ $based = $_POST["based"];
 
 
 $queryReceive = "SELECT * FROM $table ORDER BY tanggal DESC";
-$connReceive = conn($user, $pass, $db, $table);
+$connReceive = conn();
 $result = mysqli_query($connReceive, $queryReceive);
 
 $queryIssued = "SELECT * FROM $table2 ORDER BY date DESC";
-$connIssued = conn($user, $pass, $db, $table);
+$connIssued = conn();
 $result2 = mysqli_query($connIssued, $queryIssued);
 
 if ($_SERVER["REQUEST_METHOD"] === 'POST') {
@@ -180,18 +177,18 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
       $issued = [] ;
       
       $queryMir = "SELECT DISTINCT spool FROM $table3 WHERE spool LIKE '%$search%'";
-      $connMir = conn($user, $pass, $db, $table3);
+      $connMir = conn(3);
       $materialData = mysqli_query($connMir, $queryMir);
   
       $queryRaw = "SELECT * FROM $table3 WHERE spool LIKE '%$search%'";
-      $connRaw = conn($user, $pass, $db, $table3);
+      $connRaw = conn(3);
       $allMir = mysqli_query($connRaw, $queryRaw);
   
-      $warehouse = selectAll($user, $pass, $db, $table4) ;
-      $allDataReservation = selectAll($user, $pass, $db, $table3) ;
+      $warehouse = selectAll(4) ;
+      $allDataReservation = selectAll(3) ;
   
       $queryIssued = "SELECT * FROM $table2 WHERE spool LIKE '%$search%'";
-      $connIssued = conn($user, $pass, $db, $table2);
+      $connIssued = conn(2);
       $issuedRawData = mysqli_query($connIssued, $queryIssued);
   
   

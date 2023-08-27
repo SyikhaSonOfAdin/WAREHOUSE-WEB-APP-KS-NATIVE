@@ -1,10 +1,6 @@
 <?php
 require '../../function.php';
 
-$user = 'root';
-$pass = '';
-$db = 'kokohsemesta';
-
 $table1 = "data_mir";
 $table2 = "material_receive_hein";
 
@@ -15,7 +11,7 @@ if ($search != '' && $based != '') {
 
     // Mengambil data dari tabel "data_mir"
     $queryMir = "SELECT * FROM $table1 WHERE $based LIKE '%$search%' " ;
-    $connMir = conn($user, $pass, $db, $table1) ;
+    $connMir = conn() ;
     $dataMir = mysqli_query($connMir, $queryMir) ;
 
     $mir = [];
@@ -102,7 +98,7 @@ if ($search != '' && $based != '') {
     echo $view;
 } else {
     // Mengambil data dari tabel "data_mir"
-    $dataMir = selectAll($user, $pass, $db, $table1);
+    $dataMir = selectAll($table1);
 
     $mir = [];
     while ($row = mysqli_fetch_assoc($dataMir)) {

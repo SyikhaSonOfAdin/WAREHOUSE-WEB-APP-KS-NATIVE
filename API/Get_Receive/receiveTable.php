@@ -3,11 +3,9 @@ session_start();
 $parameter = $_SESSION["role"];
 
 require '../../function.php';
-$user = "root";
-$pass = "";
-$db = "kokohsemesta";
+
 $table = "material_receive_hein";
-$connection = conn($user, $pass, $db, $table);
+$connection = conn();
 $options = '';
 $result = '';
 $i = 1;
@@ -36,7 +34,7 @@ if (isset($_POST["s"])) {
 
     if (mysqli_affected_rows($connection) > 0) {
       $updateQuery = "UPDATE material SET stock = stock + $qty WHERE IDENT_CODE = '$id'";
-      mysqli_query(conn($user, $pass, $db, "material"), $updateQuery);
+      mysqli_query(conn(), $updateQuery);
 
     }
 

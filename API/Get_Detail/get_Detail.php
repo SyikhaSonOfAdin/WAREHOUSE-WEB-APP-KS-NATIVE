@@ -1,8 +1,5 @@
 <?php
 require '../../function.php';
-$user = 'root';
-$pass = '';
-$db = 'kokohsemesta';
 
 $data = '';
 $p = $_POST["p"];
@@ -13,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
     if ($p == 'reservation') {
         $table = "data_mir";
         $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
-        $conn = conn($user, $pass, $db, $table);
+        $conn = conn();
     
     
         $data .= '<table class="w-full text-sm text-left text-gray-500">' .
@@ -45,7 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
     } else if ($p == 'receive') {
         $table = "material_receive_hein";
         $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
-        $conn = conn($user, $pass, $db, $table);
+        $conn = conn();
     
     
         $data .= '<table class="w-full text-sm text-left text-gray-500">' .
@@ -80,7 +77,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
     } else if ($p == 'issued') {
         $table = "material_used_hein";
         $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
-        $conn = conn($user, $pass, $db, $table);
+        $conn = conn();
     
     
         $data .= '<table class="w-full text-sm text-left text-gray-500">' .
@@ -119,14 +116,14 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
     } else if ($p == 'stock') {
         $table = "data_mir";
         $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
-        $conn = conn($user, $pass, $db, $table);
+        $conn = conn();
         $resultData = mysqli_query($conn, $query);
     
         $tempData = [];
     
         $table1 = "material_used_hein";
         $query1 = "SELECT * FROM $table1 WHERE IDENT_CODE = '$ic'";
-        $conn1 = conn($user, $pass, $db, $table1);
+        $conn1 = conn(1);
         $resultUsed = mysqli_query($conn1, $query1);
     
         while ($rowData = mysqli_fetch_assoc($resultData)) {

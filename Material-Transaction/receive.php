@@ -52,7 +52,7 @@ $table = "material_receive_hein";
     </div>
   </div>
 
-  <?php include './component/alert.php' ?>
+  
   <?php include './component/form.php' ?>
 
   <form id="searchBar" class="search-form" action="" method="post">
