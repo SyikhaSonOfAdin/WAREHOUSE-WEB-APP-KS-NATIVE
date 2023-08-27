@@ -28,7 +28,7 @@ if ($_POST["search"] != '') {
         $y = 0;
         $dataIC = []; // Inisialisasi variabel $dataIC sebagai array kosong
 
-        $query = "SELECT * FROM `$db` WHERE `$based_on` LIKE '%$search%'";
+        $query = "SELECT * FROM material WHERE `$based_on` LIKE '%$search%'";
         $get_material = mysqli_query(conn($user, $pass, $db, "material"), $query);
 
         $query = "SELECT * FROM data_mir";
@@ -103,7 +103,7 @@ if ($_POST["search"] != '') {
         $y = 0;
         $dataIC = []; // Inisialisasi variabel $dataIC sebagai array kosong
 
-        $query = "SELECT * FROM `$db` WHERE `$based_on` LIKE '%$search%'";
+        $query = "SELECT * FROM material WHERE `$based_on` LIKE '%$search%'";
         $get_material = mysqli_query(conn($user, $pass, $db, "material"), $query);
 
         $query = "SELECT * FROM data_mir";
