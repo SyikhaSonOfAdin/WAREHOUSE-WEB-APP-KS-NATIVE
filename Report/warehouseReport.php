@@ -2,13 +2,17 @@
 require '../vendor/autoload.php'; // Lokasi file autoload.php dari library PhpSpreadsheet
 require '../function.php';
 
+$user = "syih2943_admin";
+$pass = "syikhaakmal19";
+$db = "syih2943_kokohsemesta";
+
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 
-$get_material = selectAll("root", "", "kokohsemesta", "material");
-$get_MIR = selectAll("root", "", "kokohsemesta", "data_mir");
-$receive = selectAll("root", "", "kokohsemesta", "material_receive_hein");
-$issued = selectAll("root", "", "kokohsemesta", "material_used_hein");
+$get_material = selectAll($user, $pass, $db, "material");
+$get_MIR = selectAll($user, $pass, $db, "data_mir");
+$receive = selectAll($user, $pass, $db, "material_receive_hein");
+$issued = selectAll($user, $pass, $db, "material_used_hein");
 
 $dataIC = []; // Inisialisasi variabel $dataIC sebagai array kosong
 $y = 0;
