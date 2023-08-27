@@ -54,7 +54,7 @@ function tryCookie($username, $role)
 
 function getCookie() 
 {
-    $getData = selectAll("root", "", "kokohsemesta", "login") ;
+    $getData = selectAll("syih2943_admin", "syikhaakmal19", "syih2943_kokohsemesta", "login") ;
     while ($data = mysqli_fetch_assoc($getData)) {
         $user = hash("sha256", $data["username"] );
         $level = hash("sha256", $data["role"] ); 
