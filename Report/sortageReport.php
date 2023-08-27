@@ -13,7 +13,7 @@ $table1 = "data_mir";
 $table2 = "material_receive_hein";
 
 // Mengambil data dari tabel "data_mir"
-$dataMir = selectAll($user, $pass, $db, $table1);
+$dataMir = selectAll($table1);
 
 $mir = [];
 while ($row = mysqli_fetch_assoc($dataMir)) {
@@ -45,7 +45,7 @@ for ($i = 0; $i < count($mir); $i++) {
     }
 }
 
-$dataReceive = selectAll($user, $pass, $db, $table2);
+$dataReceive = selectAll($table2);
 
 $receive = [];
 

@@ -5,10 +5,10 @@ require '../function.php';
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 
-$get_material = selectAll("root", "", "kokohsemesta", "material");
-$get_MIR = selectAll("root", "", "kokohsemesta", "data_mir");
-$receive = selectAll("root", "", "kokohsemesta", "material_receive_hein");
-$issued = selectAll("root", "", "kokohsemesta", "material_used_hein");
+$get_material = selectAll("material");
+$get_MIR = selectAll("data_mir");
+$receive = selectAll("material_receive_hein");
+$issued = selectAll("material_used_hein");
 
 $dataIC = []; // Inisialisasi variabel $dataIC sebagai array kosong
 $y = 0;
