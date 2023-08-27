@@ -92,9 +92,6 @@ if (isset($_SESSION["login"]) == "true") {
   </div>
 
   <div id="footer">
-    <h1 class="text-center">
-      This App is on develop! please report immediately if you found bug!
-    </h1>
     <h3 class="text-center">
       Copyright © 2023 Syikha Creative Production. All Right Reserved
     </h3>

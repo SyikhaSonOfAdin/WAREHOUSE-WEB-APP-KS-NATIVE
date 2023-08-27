@@ -1,8 +1,5 @@
 <?php
 require './function.php';
-$user = 'root';
-$pass = '';
-$db = 'kokohsemesta';
 
 // DECLARATION OF VARIABEL THAT NEEDED
 $data = [];
@@ -11,7 +8,7 @@ $counter = 0;
 
 
 // MATERIAL GET DATA PROCESS 
-$conn_material = conn($user, $pass, $db, 'material');
+$conn_material = conn();
 $queryMaterial = "SELECT * FROM material";
 $material = mysqli_query($conn_material, $queryMaterial);
 
@@ -19,7 +16,7 @@ $material = mysqli_query($conn_material, $queryMaterial);
 
 
 // RECEIVE GET DATA PROCESS
-$conn_receive = conn($user, $pass, $db, 'material_receive_hein');
+$conn_receive = conn();
 $queryReceive = "SELECT * FROM material_receive_hein";
 $receive = mysqli_query($conn_receive, $queryReceive);
 
@@ -27,7 +24,7 @@ $receive = mysqli_query($conn_receive, $queryReceive);
 
 
 // ISSUED GET DATA PROCESS
-$conn_issued = conn($user, $pass, $db, 'material_used_hein');
+$conn_issued = conn();
 $queryIssued = "SELECT * FROM material_used_hein";
 $issued = mysqli_query($conn_issued, $queryIssued);
 

@@ -12,14 +12,12 @@ if (isset($_SESSION["login"]) == "true") {
 }
 
 require '../function.php';
-$user = "root";
-$pass = "";
-$db = "kokohsemesta";
+
 $table = "material_used_hein";
 
 $limit = 50;
 
-$connection = conn($user, $pass, $db, $table);
+$connection = conn();
 
 $get_allData = mysqli_query($connection, "SELECT * FROM $table");
 $totalData = mysqli_num_rows($get_allData);
@@ -197,9 +195,6 @@ if (isset($_POST["search"])) {
   </div>
 
   <div id="footer">
-    <h1 class="text-center">
-      This App is on develop! please report immediately if you found bug!
-    </h1>
     <h3 class="text-center">
       Copyright © 2023 Syikha Creative Production. All Right Reserved
     </h3>
