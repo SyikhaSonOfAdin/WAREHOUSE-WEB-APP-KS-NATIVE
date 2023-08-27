@@ -9,7 +9,7 @@ $ic = $_POST["ic"];
 if ($_SERVER["REQUEST_METHOD"] === 'POST') {
     if ($p == 'reservation') {
         $table = "data_mir_kine";
-        $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
+        $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic' ORDER BY batch DESC";
         $conn = conn();
     
     
@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
         echo $data;
     } else if ($p == 'receive') {
         $table = "material_receive_kine";
-        $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
+        $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic' ORDER BY `mir` DESC, `tanggal` DESC";
         $conn = conn();
     
     
@@ -76,7 +76,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
         echo $data;
     } else if ($p == 'issued') {
         $table = "material_used_kine";
-        $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
+        $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic' ORDER BY `mir` DESC, `date` DESC";
         $conn = conn();
     
     
@@ -115,14 +115,14 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
         echo $data;
     } else if ($p == 'stock') {
         $table = "data_mir_kine";
-        $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
+        $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic' ORDER BY batch DESC";
         $conn = conn();
         $resultData = mysqli_query($conn, $query);
     
         $tempData = [];
     
         $table1 = "material_used_kine";
-        $query1 = "SELECT * FROM $table1 WHERE IDENT_CODE = '$ic'";
+        $query1 = "SELECT * FROM $table1 WHERE IDENT_CODE = '$ic' ORDER BY `mir` DESC, `date` DESC";
         $conn1 = conn();
         $resultUsed = mysqli_query($conn1, $query1);
     
@@ -284,7 +284,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
         }
 
         $receive = [] ;
-        $receiveTable = 'material_receive_hein' ;
+        $receiveTable = 'material_receive_kine' ;
         $receiveConn = conn() ;
         $receiveQuery = "SELECT * FROM $receiveTable WHERE IDENT_CODE = '$ic'" ;
         $receiveResult = mysqli_query($receiveConn, $receiveQuery) ;

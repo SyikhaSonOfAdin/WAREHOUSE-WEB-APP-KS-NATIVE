@@ -1,8 +1,5 @@
 <?php
 require './function.php';
-$user = 'root';
-$pass = '';
-$db = 'kokohsemesta';
 
 // DECLARATION OF VARIABEL THAT NEEDED
 $data = [];
