@@ -15,7 +15,7 @@ async function getReceiveTableContent() {
   var selectedSuratJalan = document.getElementById("by").value;
   var selectedWho = document.getElementById("by_who").value;
 
-  const response = await fetch("../API/Get_receive/receiveTable.php", {
+  const response = await fetch("../API/Get_Receive/receiveTable.php", {
     method: "POST",
     headers: {
       "Content-Type": "application/x-www-form-urlencoded"
@@ -37,7 +37,7 @@ function editButtonReceive(event) {
   const Index = event.target.parentNode.querySelector('[name="changeIndex"]').value;
 
   var xhr1 = new XMLHttpRequest(); 
-  xhr1.open("POST", "../API/Get_receive/get_receivepageEdit.php", true);
+  xhr1.open("POST", "../API/Get_receive/get_ReceivepageEdit.php", true);
   xhr1.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
   xhr1.onreadystatechange = function () {
     if (xhr1.readyState == 4 && xhr1.status == 200) {
@@ -71,7 +71,7 @@ function searchIdentCode() {
 
   // Kirim data selectedValue ke file PHP menggunakan AJAX
   var xhr = new XMLHttpRequest();
-  xhr.open("POST", "../API/Get_receive/get_identCode.php", true);
+  xhr.open("POST", "../API/Get_Receive/get_identCode.php", true);
   xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
   xhr.onreadystatechange = function () {
     if (xhr.readyState == 4 && xhr.status == 200) {
@@ -87,7 +87,7 @@ function getDropdown2Options() {
 
   // Kirim data selectedValue ke file PHP menggunakan AJAX
   var xhr = new XMLHttpRequest();
-  xhr.open("POST", "../API/Get_receive/get_mir.php", true);
+  xhr.open("POST", "../API/Get_Receive/get_mir.php", true);
   xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
   xhr.onreadystatechange = function () {
     if (xhr.readyState == 4 && xhr.status == 200) {
@@ -109,7 +109,7 @@ function getQty() {
   var selectedMIRValue = document.getElementById("Mir").value;
 
   var xhr = new XMLHttpRequest();
-  xhr.open("POST", "../API/Get_receive/get_receiveqty.php", true);
+  xhr.open("POST", "../API/Get_Receive/get_receiveqty.php", true);
   xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
   xhr.onreadystatechange = function () {
     if (xhr.readyState == 4 && xhr.status == 200) {
