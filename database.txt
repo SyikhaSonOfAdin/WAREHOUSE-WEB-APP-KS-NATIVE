@@ -1,0 +1,3 @@
+user : syih2943_admin
+Password : syikhaakmal19
+db : syih2943_kokohsemesta

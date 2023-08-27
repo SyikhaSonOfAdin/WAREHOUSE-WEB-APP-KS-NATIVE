@@ -1,0 +1,5287 @@
+[
+  ["IDENT CODE", "DESCRIPTION", "STOCK", null, null],
+  [null, null, null, null, null],
+  [
+    "M192032905",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "6000",
+    null,
+    null
+  ],
+  [
+    "M192033000",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "100",
+    null,
+    null
+  ],
+  [
+    "M194151971",
+    "Size: 4 S-XS (Size:100mm Thk: 8.56mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "50",
+    null,
+    null
+  ],
+  [
+    "M192034167",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "34",
+    null,
+    null
+  ],
+  [
+    "M192402278",
+    "Size: 6 S-XS (Size:150mm Thk: 10.97mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M197418998",
+    "Size: 4 S-120 (Size:100mm Thk: 11.13mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192043666",
+    "Size: 8 S-STD x 6 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 150mm Thk2: 7.11mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M191102102",
+    "Size: 8 S-STD x 6 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 150mm Thk2: 7.11mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222815726",
+    "Size: 6\" S-STD x 3/4\" (Size1: 168.3mm Sch: 7.11mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M222815875",
+    "Size: 8\" S-STD x 3/4\" (Size1: 219.1mm Sch: 8.18mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "18",
+    null,
+    null
+  ],
+  [
+    "M223961657",
+    "Size: 6\" S-XS x 3/4\" (Size1: 168.3mm Sch: 10.97mm x Size2: 20mm) THREDOLET, CS A105 CL6000 BE x FTE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222738145",
+    "Size: 8\" S-STD x 3/4\" (Size1: 219.1mm Sch: 8.18mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M223866466",
+    "Size: 6\" S-XS x 3/4\" (Size1: 168.3mm Sch: 10.97mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222737626",
+    "Size: 6\" S-STD x 3/4\" (Size1: 168.3mm Sch: 7.11mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "6",
+    null,
+    null
+  ],
+  [
+    "M191107007",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) WN FLG, CS A105 CL150 RF B16.5",
+    "25",
+    null,
+    null
+  ],
+  [
+    "M191106965",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) WN FLG, CS A105 CL150 RF B16.5",
+    "75",
+    null,
+    null
+  ],
+  [
+    "M197403513",
+    "Size: 4 S-120 (Size: 100mm Thk: 11.13mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "21.6",
+    null,
+    null
+  ],
+  [
+    "M194129309",
+    "Size: 4 S-XS (Size: 100mm Thk: 8.56mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "53.829",
+    null,
+    null
+  ],
+  [
+    "M192381274",
+    "Size: 6 S-XS (Size: 150mm Thk: 10.97mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "37.331",
+    null,
+    null
+  ],
+  [
+    "M191090685",
+    "Size: 6 S-STD (Size: 150mm Thk: 7.11mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "1687.515",
+    null,
+    null
+  ],
+  [
+    "M191090737",
+    "Size: 8 S-STD (Size: 200mm Thk: 8.18mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "1039.43",
+    null,
+    null
+  ],
+  [
+    "M192809156",
+    "Size: 2 S-XS (Size: 50mm Thk: 5.54mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "1216.716",
+    null,
+    null
+  ],
+  [
+    "M191090626",
+    "Size: 4 S-STD (Size: 100mm Thk: 6.02mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "1708.383",
+    null,
+    null
+  ],
+  [
+    "M192657065",
+    "Size: 6 S-STD (Size: 150mm Thk: 7.11mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "386.576",
+    null,
+    null
+  ],
+  [
+    "M192381325",
+    "Size: 8 S-XS (Size: 200mm Thk: 12.7mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "127.91",
+    null,
+    null
+  ],
+  [
+    "M192657115",
+    "Size: 8 S-STD (Size: 200mm Thk: 8.18mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "170.927",
+    null,
+    null
+  ],
+  [
+    "M192380933",
+    "Size: 10 S-XS (Size: 250mm Thk: 12.7mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "91.47",
+    null,
+    null
+  ],
+  [
+    "M211240190",
+    "Size: 10 S-80 (Size: 250mm Thk: 15.09mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "103.256",
+    null,
+    null
+  ],
+  [
+    "M191090337",
+    "Size: 10 S-STD (Size: 250mm Thk: 9.27mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "830.421",
+    null,
+    null
+  ],
+  [
+    "M191090397",
+    "Size: 12 S-STD (Size: 300mm Thk: 9.53mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "922.518",
+    null,
+    null
+  ],
+  [
+    "M191090455",
+    "Size: 14 S-STD (Size: 350mm Thk: 9.53mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "767.578",
+    null,
+    null
+  ],
+  [
+    "M211240318",
+    "Size: 14 S-80 (Size: 350mm Thk: 19.05mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "37.676",
+    null,
+    null
+  ],
+  [
+    "M219715675",
+    "Size: 20\" S-80 (Size: 500mm Thk: 26.19mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "205.712",
+    null,
+    null
+  ],
+  [
+    "M219465282",
+    "Size: 20\" .75 (Size: 500mm Thk: 19.05mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "20.416",
+    null,
+    null
+  ],
+  [
+    "M219465383",
+    "Size: 24\" .812 (Size: 600mm Thk: 20.62mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "114.578",
+    null,
+    null
+  ],
+  [
+    "M192822851",
+    "Size: 2 S-XS (Size:50mm Thk: 5.54mm) WN FLG, CS A105 CL150 RF B16.5",
+    "98",
+    null,
+    null
+  ],
+  [
+    "M192823662",
+    "Size: 2 S-XS (Size:50mm Thk: 5.54mm) WN FLG, CS A105 CL300 RF B16.5",
+    "18",
+    null,
+    null
+  ],
+  [
+    "M192672239",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5",
+    "6",
+    null,
+    null
+  ],
+  [
+    "M191107958",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) WN FLG, CS A105 CL300 RF B16.5",
+    "6",
+    null,
+    null
+  ],
+  [
+    "M191107034",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) WN FLG, CS A105 CL150 RF B16.5",
+    "43",
+    null,
+    null
+  ],
+  [
+    "M191107986",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) WN FLG, CS A105 CL300 RF B16.5",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M191107637",
+    "Size: 10 S-STD (Size:250mm Thk: 9.27mm) WN FLG, CS A105 CL300 RF B16.5",
+    "6",
+    null,
+    null
+  ],
+  [
+    "M191106689",
+    "Size: 10 S-STD (Size:250mm Thk: 9.27mm) WN FLG, CS A105 CL150 RF B16.5",
+    "48",
+    null,
+    null
+  ],
+  [
+    "M191106718",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) WN FLG, CS A105 CL150 RF B16.5",
+    "7",
+    null,
+    null
+  ],
+  [
+    "M191107701",
+    "Size: 14 S-STD (Size:350mm Thk: 9.53mm) WN FLG, CS A105 CL300 RF B16.5",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M191106752",
+    "Size: 14 S-STD (Size:350mm Thk: 9.53mm) WN FLG, CS A105 CL150 RF B16.5",
+    "11",
+    null,
+    null
+  ],
+  [
+    "M191106878",
+    "Size: 20 S-STD (Size:500mm Thk: 9.53mm) WN FLG, CS A105 CL150 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219515625",
+    "Size: 20\" .75 (Size: 500mm Thk: 19.05mm) WN FLG, CS A105 CL300 RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192826736",
+    "Size: 2 S-XS (Size:50mm Thk: 5.54mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "177",
+    null,
+    null
+  ],
+  [
+    "M212475304",
+    "Size: 4\" S-STD x 2\" S-XS (Size1: 100mm Thk1: 6.02mm x Size2: 50mm Thk2: 5.54mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "13",
+    null,
+    null
+  ],
+  [
+    "M192815946",
+    "Size: 4 S-STD x .75 S-XS (Size1: 100mm Thk1: 6.02mm x Size2: 20mm Thk2: 3.91mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "9",
+    null,
+    null
+  ],
+  [
+    "M222815108",
+    "Size: 4\" S-STD x 1 1/2\" (Size1: 114.3mm Sch: 6.02mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "18",
+    null,
+    null
+  ],
+  [
+    "M222815036",
+    "Size: 4\" S-STD x 3/4\" (Size1: 114.3mm Sch: 6.02mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "29",
+    null,
+    null
+  ],
+  [
+    "M192031948",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "17",
+    null,
+    null
+  ],
+  [
+    "M192836131",
+    "Size: 4 S-STD x 2 S-XS (Size1: 100mm Thk1: 6.02mm x Size2: 50mm Thk2: 5.54mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "13",
+    null,
+    null
+  ],
+  [
+    "M212516553",
+    "Size: 4\" S-STD x 1 1/2\" S-XS (Size1: 100mm Thk1: 10.8mm x Size2: 40mm Thk2: 5.08mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M191101642",
+    "Size: 4 S-STD x 3 S-STD (Size1: 100mm Thk1: 6.02mm x Size2: 80mm Thk2: 5.49mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M222815060",
+    "Size: 4\" S-STD x 1\" (Size1: 114.3mm Sch: 6.02mm x Size2: 25mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192831299",
+    "Size: 4 S-STD x 2 S-XS (Size1: 100mm Thk1: 6.02mm x Size2: 50mm Thk2: 5.54mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222815813",
+    "Size: 6\" S-STD x 1 1/2\" (Size1: 168.3mm Sch: 7.11mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222750309",
+    "Size: 6\" S-STD x 3/4\" (Size1: 168.3mm Sch: 7.11mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M222741696",
+    "Size: 6\" S-STD x 3/4\" (Size1: 168.3mm Sch: 7.11mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M234260664",
+    "Size: 6\" S-STD x 1 1/2\" S-XS (Size1: 150mm Thk1: 7.11mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL150 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M234952960",
+    "Size: 6\" S-STD x 1 1/2\" S-XS (Size1: 150mm Thk1: 7.11mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, LTCS A350-LF2 CL.1 CL300 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192677230",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) TEE, LTCS A420-WPL6 SMLS BE B16.9",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M194920769",
+    "Size: 6 S-STD x 2 S-XS (Size1: 150mm Thk1: 7.11mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192032001",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192401197",
+    "Size: 6 S-XS (Size:150mm Thk: 10.97mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192047397",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222815968",
+    "Size: 8\" S-STD x 1 1/2\" (Size1: 219.1mm Sch: 8.18mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "10",
+    null,
+    null
+  ],
+  [
+    "M223864179",
+    "Size: 8\" S-XS x 3/4\" (Size1: 219.1mm Sch: 12.7mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222754268",
+    "Size: 8\" S-STD x 3/4\" (Size1: 219.1mm Sch: 8.18mm x Size2: 20mm) THREDOLET, LTCS A350-LF2 CL.1 CL3000 BE x FTE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192678038",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) 45 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192043547",
+    "Size: 8 S-STD x 4 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 100mm Thk2: 6.02mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222815906",
+    "Size: 8\" S-STD x 1\" (Size1: 219.1mm Sch: 8.18mm x Size2: 25mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192032040",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212475789",
+    "Size: 8\" S-STD x 4\" S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 100mm Thk2: 6.02mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M192047438",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192678874",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "15",
+    null,
+    null
+  ],
+  [
+    "M194921091",
+    "Size: 8 S-STD x 2 S-XS (Size1: 200mm Thk1: 8.18mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "27",
+    null,
+    null
+  ],
+  [
+    "M192402321",
+    "Size: 8 S-XS (Size:200mm Thk: 12.7mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M194921193",
+    "Size: 8 S-STD x 3 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "11",
+    null,
+    null
+  ],
+  [
+    "M194912115",
+    "Size: 10 S-STD x 2 S-XS (Size1: 250mm Thk1: 9.27mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "17",
+    null,
+    null
+  ],
+  [
+    "M192035334",
+    "Size: 10 S-STD x 8 S-STD (Size1: 250mm Thk1: 9.27mm x Size2: 200mm Thk2: 8.18mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212469838",
+    "Size: 10\" S-STD x 4\" S-STD (Size1: 250mm Thk1: 9.27mm x Size2: 100mm Thk2: 6.02mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222812565",
+    "Size: 10\" S-STD x 3/4\" (Size1: 273mm Sch: 9.27mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "19",
+    null,
+    null
+  ],
+  [
+    "M191099688",
+    "Size: 10 S-STD x 8 S-STD (Size1: 250mm Thk1: 9.27mm x Size2: 200mm Thk2: 8.18mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M223861877",
+    "Size: 10\" S-80 x 1\" (Size1: 273mm Sch: 15.09mm x Size2: 25mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192400914",
+    "Size: 10 S-XS (Size:250mm Thk: 12.7mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192031711",
+    "Size: 10 S-STD (Size:250mm Thk: 9.27mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M269732268",
+    "Size: 10\" S-XS x 4\" S-XS (Size1: 250mm Thk1: 12.7mm x Size2: 100mm Thk2: 8.56mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212469969",
+    "Size: 10\" S-STD x 6\" S-STD (Size1: 250mm Thk1: 9.27mm x Size2: 150mm Thk2: 7.11mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M223861847",
+    "Size: 10\" S-80 x 3/4\" (Size1: 273mm Sch: 15.09mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192041279",
+    "Size: 10 S-STD x 8 S-STD (Size1: 250mm Thk1: 9.27mm x Size2: 200mm Thk2: 8.18mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192041124",
+    "Size: 10 S-STD x 6 S-STD (Size1: 250mm Thk1: 9.27mm x Size2: 150mm Thk2: 7.11mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194912210",
+    "Size: 10 S-STD x 3 S-STD (Size1: 250mm Thk1: 9.27mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M211251087",
+    "Size: 10 S-80 (Size:250mm Thk: 15.09mm) CAP, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192035772",
+    "Size: 12 S-STD x 8 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222812724",
+    "Size: 12\" S-STD x 3/4\" (Size1: 323.8mm Sch: 9.53mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "10",
+    null,
+    null
+  ],
+  [
+    "M194913038",
+    "Size: 12 S-STD x 4 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 100mm Thk2: 6.02mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222812823",
+    "Size: 12\" S-STD x 1 1/2\" (Size1: 323.8mm Sch: 9.53mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M234238876",
+    "Size: 12\" S-STD x 1 1/2\" S-XS (Size1: 300mm Thk1: 9.53mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL150 BE x RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222734449",
+    "Size: 12\" S-STD x 3/4\" (Size1: 323.8mm Sch: 9.53mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192041444",
+    "Size: 12 S-STD x 10 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M194912846",
+    "Size: 12 S-STD x 2 S-XS (Size1: 300mm Thk1: 9.53mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M212470615",
+    "Size: 12\" S-STD x 8\" S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222812898",
+    "Size: 14\" S-STD x 3/4\" (Size1: 355.6mm Sch: 9.53mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "11",
+    null,
+    null
+  ],
+  [
+    "M222813009",
+    "Size: 14\" S-STD x 1 1/2\" (Size1: 355.6mm Sch: 9.53mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M194913827",
+    "Size: 14 S-STD x 3 S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212471273",
+    "Size: 14\" S-STD x 8\" S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M211246439",
+    "Size: 14 S-80 (Size:350mm Thk: 19.05mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192041890",
+    "Size: 14 S-STD x 10 S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M192042052",
+    "Size: 14 S-STD x 12 S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 300mm Thk2: 9.53mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M234268319",
+    "Size: 14\" S-STD x 1 1/2\" S-XS (Size1: 350mm Thk1: 9.53mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL300 BE x RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192031802",
+    "Size: 14 S-STD (Size:350mm Thk: 9.53mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M219717659",
+    "Size: 20\" S-80 (Size: 500mm Thk: 26.19mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M223865335",
+    "Size: 20\" S-80 x 3/4\" (Size1: 508mm Sch: 26.19mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219718203",
+    "Size: 20\" S-80 (Size: 500mm Thk: 26.19mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M193016218",
+    "Size: 20 S-STD x 14 S-STD (Size1: 500mm Thk1: 9.53mm x Size2: 350mm Thk2: 9.53mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219469000",
+    "Size: 20\" .75 (Size: 500mm Thk: 19.05mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192825634",
+    "Size: 20 S-STD (Size:500mm Thk: 9.53mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219741004",
+    "Size: 20\" S-80 x 10\" S-80 (Size1: 500mm Thk1: 26.19mm x Size2: 250mm Thk2: 15.09mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219468327",
+    "Size: 24\" .812 (Size: 600mm Thk: 20.62mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219469068",
+    "Size: 24\" .812 (Size: 600mm Thk: 20.62mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M219492327",
+    "Size: 24\" .812 x 16\" .625 (Size1: 600mm Thk1: 20.62mm x Size2: 400mm Thk2: 15.88mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192046927",
+    "Size: 10 S-STD (Size:250mm Thk: 9.27mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192046927",
+    "Size: 10 S-STD (Size:250mm Thk: 9.27mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M234254426",
+    "Size: 4\" S-STD x 1 1/2\" S-XS (Size1: 100mm Thk1: 6.02mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL150 BE x RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M220575022",
+    "Size: 12\" S-160 x 6\" S-160 (Size1: 300mm Thk1: 33.32mm x Size2: 150mm Thk2: 18.26mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222814313",
+    "Size: 3\" S-STD x 3/4\" (Size1: 88.9mm Sch: 5.49mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "12",
+    null,
+    null
+  ],
+  [
+    "M222812596",
+    "Size: 10\" S-STD x 1\" (Size1: 273mm Sch: 9.27mm x Size2: 25mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222812658",
+    "Size: 10\" S-STD x 1 1/2\" (Size1: 273mm Sch: 9.27mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222754034",
+    "Size: 6\" S-STD x 3/4\" (Size1: 168.3mm Sch: 7.11mm x Size2: 20mm) THREDOLET, LTCS A350-LF2 CL.1 CL3000 BE x FTE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222734290",
+    "Size: 10\" S-STD x 3/4\" (Size1: 273mm Sch: 9.27mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M191106931",
+    "Size: 3 S-STD (Size:80mm Thk: 5.49mm) WN FLG, CS A105 CL150 RF B16.5",
+    "26",
+    null,
+    null
+  ],
+  [
+    "M191090585",
+    " Size: 3 S-STD (Size: 80mm Thk: 5.49mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "839.5",
+    null,
+    null
+  ],
+  [
+    "M220552383",
+    " Size: 12\" S-160 (Size: 300mm Thk: 33.32mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "53.048",
+    null,
+    null
+  ],
+  [
+    "M192032658",
+    " Size: 10 S-STD (Size:250mm Thk: 9.27mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192032958",
+    " Size: 6 S-STD (Size:150mm Thk: 7.11mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M192033804",
+    " Size: 10 S-STD (Size:250mm Thk: 9.27mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "15",
+    null,
+    null
+  ],
+  [
+    "M192678832",
+    " Size: 6 S-STD (Size:150mm Thk: 7.11mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "12",
+    null,
+    null
+  ],
+  [
+    "M192037602",
+    "Size: 8 S-STD x 4 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 100mm Thk2: 6.02mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192036368",
+    "Size: 14 S-STD x 8 S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192043375",
+    "Size: 6 S-STD x 4 S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 100mm Thk2: 6.02mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192043177",
+    "Size: 4 S-STD x 3 S-STD (Size1: 100mm Thk1: 6.02mm x Size2: 80mm Thk2: 5.49mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "9",
+    null,
+    null
+  ],
+  [
+    "M191099846",
+    "Size: 12 S-STD x 10 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "-1",
+    null,
+    null
+  ],
+  [
+    "M191101824",
+    "Size: 6 S-STD x 4 S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 100mm Thk2: 6.02mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212994574",
+    "Size: 4\" S-XS x 2\" S-160 (Size1: 100mm Thk1: 8.56mm x Size2: 50mm Thk2: 8.74mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219739111",
+    "Size: 14\" S-80 x 8\" S-XS (Size1: 350mm Thk1: 19.05mm x Size2: 200mm Thk2: 12.7mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223729077",
+    "Size: 24\" .812 x 20\" .75 (Size1: 600mm Thk1: 20.62mm x Size2: 500mm Thk2: 19.05mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212475523",
+    "Size: 6\" S-STD x 3\" S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 80mm Thk2: 5.49mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M192823477",
+    "Size: .75 S-XS (Size:20mm Thk: 3.91mm) WN FLG, CS A105 CL300 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194147822",
+    "Size: 3 S-XS (Size:80mm Thk: 7.62mm) WN FLG, CS A105 CL150 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M194148613",
+    "Size: 3 S-XS (Size:80mm Thk: 7.62mm) WN FLG, CS A105 CL600 RF B16.5",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M191107881",
+    "Size: 3 S-STD (Size:80mm Thk: 5.49mm) WN FLG, CS A105 CL300 RF B16.5",
+    "12",
+    null,
+    null
+  ],
+  [
+    "M194147854",
+    "Size: 4 S-XS (Size:100mm Thk: 8.56mm) WN FLG, CS A105 CL150 RF B16.5",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M194148631",
+    "Size: 4 S-XS (Size:100mm Thk: 8.56mm) WN FLG, CS A105 CL600 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M191107915",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) WN FLG, CS A105 CL300 RF B16.5",
+    "29",
+    null,
+    null
+  ],
+  [
+    "M191108865",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) WN FLG, CS A105 CL600 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194478539",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) WN FLG, CS A105 CL150 RF B16.5 HOT DIP GALV.",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192293201",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) WN FLG, CS A105 CL150 RF B16.5 HOT DIP GALV.",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192398919",
+    "Size: 6 S-XS (Size:150mm Thk: 10.97mm) WN FLG, CS A105 CL600 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192671398",
+    "Size: 10 S-STD (Size:250mm Thk: 9.27mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192034027",
+    "Size: 3 S-STD (Size:80mm Thk: 5.49mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "10",
+    null,
+    null
+  ],
+  [
+    "M194151933",
+    "Size: 3 S-XS (Size:80mm Thk: 7.62mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M234282717",
+    "Size: 4\" S-STD x 1 1/2\" S-XS (Size1: 100mm Thk1: 6.02mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL300 BE x RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M223863803",
+    "Size: 4\" S-XS x 3/4\" (Size1: 114.3mm Sch: 8.56mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222736761",
+    "Size: 4\" S-STD x 3/4\" (Size1: 114.3mm Sch: 6.02mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M224124076",
+    "Size: 4\" S-160 x 3/4\" (Size1: 114.3mm Sch: 13.49mm x Size2: 20mm) SOCKOLET, CS A105 CL9000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194137342",
+    "Size: 4 S-XS x 3 S-XS (Size1: 100mm Thk1: 8.56mm x Size2: 80mm Thk2: 7.62mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192678777",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "28",
+    null,
+    null
+  ],
+  [
+    "M193805913",
+    "Size: 4 S-160 (Size:100mm Thk: 13.49mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192047361",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M220577694",
+    "Size: 4\" S-160 x 2\" S-160 (Size1: 100mm Thk1: 13.49mm x Size2: 50mm Thk2: 8.74mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192037430",
+    "Size: 6 S-STD x 4 S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 100mm Thk2: 6.02mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192816185",
+    "Size: 6 S-STD x .75 S-XS (Size1: 150mm Thk1: 7.11mm x Size2: 20mm Thk2: 3.91mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M192034123",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "44",
+    null,
+    null
+  ],
+  [
+    "M191101824",
+    "Size: 6 S-STD x 4 S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 100mm Thk2: 6.02mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194152595",
+    "Size: 6 S-XS x 3 S-XS (Size1: 150mm Thk1: 10.97mm x Size2: 80mm Thk2: 7.62mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M236228035",
+    "Size: 6\" S-STD x 1 1/2\" S-160 (Size1: 150mm Thk1: 7.11mm x Size2: 40mm Thk2: 7.14mm) NIPO FLG W/150mm, CS A105 CL300 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M267362555",
+    "Size: 6\" S-STD x 2\" S-XS (Size1: 150mm Thk1: 7.11mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97 HOT DIP GALV. ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192130798",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9 HOT DIP GALV.",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192032958",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M192043302",
+    "Size: 6 S-STD x 3 S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 80mm Thk2: 5.49mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M234288986",
+    "Size: 6\" S-STD x 1 1/2\" S-XS (Size1: 150mm Thk1: 7.11mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL300 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212475523",
+    "Size: 6\" S-STD x 3\" S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 80mm Thk2: 5.49mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M192130842",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9 HOT DIP GALV.",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194483513",
+    "Size: 8 S-STD x 4 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 100mm Thk2: 6.02mm) CON RED, CS A234-WPB SMLS BE B16.9 HOT DIP GALV.",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M259348923",
+    "Size: 8\" S-STD x 3/4\" (Size1: 219.1mm Sch: 8.18mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97 HOT DIP GALV. ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222747066",
+    "Size: 10\" S-STD x 1 1/2\" (Size1: 273mm Sch: 9.27mm x Size2: 40mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M241754135",
+    "Size: 10\" S-XS x 3\" S-XS (Size1: 250mm Thk1: 12.7mm x Size2: 80mm Thk2: 7.62mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192679547",
+    "Size: 10 S-STD x 6 S-STD (Size1: 250mm Thk1: 9.27mm x Size2: 150mm Thk2: 7.11mm) CON RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222746973",
+    "Size: 10\" S-STD x 3/4\" (Size1: 273mm Sch: 9.27mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192678518",
+    "Size: 10 S-STD (Size:250mm Thk: 9.27mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192407309",
+    "Size: 10 S-XS x 6 S-XS (Size1: 250mm Thk1: 12.7mm x Size2: 150mm Thk2: 10.97mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M224122520",
+    "Size: 12\" S-160 x 3/4\" (Size1: 323.8mm Sch: 33.32mm x Size2: 20mm) SOCKOLET, CS A105 CL9000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222812757",
+    "Size: 12\" S-STD x 1\" (Size1: 323.8mm Sch: 9.53mm x Size2: 25mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "8",
+    null,
+    null
+  ],
+  [
+    "M192046970",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M220555084",
+    "Size: 12\" S-160 (Size: 300mm Thk: 33.32mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212471094",
+    "Size: 14\" S-STD x 6\" S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "7",
+    null,
+    null
+  ],
+  [
+    "M219132381",
+    "Size: 24\" .625 x 12\" S-STD (Size1: 600mm Thk1: 15.88mm x Size2: 300mm Thk2: 9.53mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194129270",
+    "Size: 3 S-XS (Size: 80mm Thk: 7.62mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "34.5",
+    null,
+    null
+  ],
+  [
+    "M193783823",
+    "Size: 4 S-160 (Size: 100mm Thk: 13.49mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "103.5",
+    null,
+    null
+  ],
+  [
+    "M192657007",
+    "Size: 4 S-STD (Size: 100mm Thk: 6.02mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "213.158",
+    null,
+    null
+  ],
+  [
+    "M192125400",
+    "Size: 6 S-STD (Size: 150mm Thk: 7.11mm) PIPE, CS A106-B SMLS BE B36.10M HOT DIP GALV. ",
+    "5.628",
+    null,
+    null
+  ],
+  [
+    "M192125452",
+    "Size: 8 S-STD (Size: 200mm Thk: 8.18mm) PIPE, CS A106-B SMLS BE B36.10M HOT DIP GALV. ",
+    "172.5",
+    null,
+    null
+  ],
+  [
+    "M192656722",
+    "Size: 10 S-STD (Size: 250mm Thk: 9.27mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "82.283",
+    null,
+    null
+  ],
+  [
+    "M194161181",
+    "Size: 4 S-XS x 3 S-XS (Size1: 100mm Thk1: 8.56mm x Size2: 80mm Thk2: 7.62mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192034067",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "177",
+    null,
+    null
+  ],
+  [
+    "M212470445",
+    "Size: 12\" S-STD x 8\" S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222750396",
+    "Size: 6\" S-STD x 1 1/2\" (Size1: 168.3mm Sch: 7.11mm x Size2: 40mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M222750543",
+    "Size: 8\" S-STD x 3/4\" (Size1: 219.1mm Sch: 8.18mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "7",
+    null,
+    null
+  ],
+  [
+    "M222740831",
+    "Size: 4\" S-STD x 3/4\" (Size1: 114.3mm Sch: 6.02mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M223864034",
+    "Size: 6\" S-XS x 3/4\" (Size1: 168.3mm Sch: 10.97mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222750857",
+    "Size: 12\" S-STD x 3/4\" (Size1: 323.8mm Sch: 9.53mm x Size2: 20mm) THREDOLET, LTCS A350-LF2 CL.1 CL3000 BE x FTE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M263260434",
+    "Size: 10\" S-XS x 3/4\" (Size1: 273mm Sch: 12.7mm x Size2: 20mm) THREDOLET, CS A105 CL6000 BE x FTE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M259060090",
+    "Size: 20\" .75 x 6\" S-XS (Size1: 500mm Thk1: 19.05mm x Size2: 150mm Thk2: 10.97mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222753169",
+    "Size: 4\" S-STD x 3/4\" (Size1: 114.3mm Sch: 6.02mm x Size2: 20mm) THREDOLET, LTCS A350-LF2 CL.1 CL3000 BE x FTE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192855671",
+    "Size: 28 S-STD x 10 S-STD (Size1: 700mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192822661",
+    "Size: .75 S-XS (Size:20mm Thk: 3.91mm) WN FLG, CS A105 CL150 RF B16.5",
+    "10",
+    null,
+    null
+  ],
+  [
+    "M192822691",
+    "Size: 1.5 S-XS (Size:40mm Thk: 5.08mm) WN FLG, CS A105 CL150 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M191106823",
+    "Size: 2 S-160 (Size:50mm Thk: 8.74mm) WN FLG, CS A105 CL150 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192671674",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.5",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M192671716",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192671743",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M245896177",
+    "Size: 76\" .812 (Size: 1900mm Thk: 20.62mm) WN FLG, CS A105 CL150 RF PJT-STD  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192656781",
+    "Size: 12 S-STD (Size: 300mm Thk: 9.53mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "68.419",
+    null,
+    null
+  ],
+  [
+    "M212446178",
+    "Size: 28\" S-STD (Size: 700mm Thk: 9.53mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "98.165",
+    null,
+    null
+  ],
+  [
+    "M192657514",
+    "Size: 30 S-STD (Size: 750mm Thk: 9.53mm) PIPE, LTCS A671-CC60-CL.22 w/S2 EFW BE B36.10M",
+    "39.529",
+    null,
+    null
+  ],
+  [
+    "M212446250",
+    "Size: 30\" S-STD (Size: 750mm Thk: 9.53mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "27.152",
+    null,
+    null
+  ],
+  [
+    "M211201141",
+    "Size: 40\" S-XS (Size: 1000mm Thk: 12.7mm) PIPE, LTCS A671-CC60-CL.22 w/S2 EFW BE B36.10M  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192657744",
+    "Size: 42 S-XS (Size: 1050mm Thk: 12.7mm) PIPE, LTCS A671-CC60-CL.22 w/S2 EFW BE B36.10M",
+    "77.908",
+    null,
+    null
+  ],
+  [
+    "M258314406",
+    "Size: 76\" .812 (Size: 1900mm Thk: 20.62mm) PIPE, LTCS A671-CC60-CL.22 w/S2 EFW BE B36.10M  ",
+    "4.522",
+    null,
+    null
+  ],
+  [
+    "M192687591",
+    "Size: 8 S-STD x 4 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 100mm Thk2: 6.02mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192677267",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) TEE, LTCS A420-WPL6 SMLS BE B16.9",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M222752625",
+    "Size: 30\" S-STD x 3/4\" (Size1: 762mm Sch: 9.53mm x Size2: 20mm) THREDOLET, LTCS A350-LF2 CL.1 CL3000 BE x FTE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192671948",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212440133",
+    "Size: 2\" S-XS (Size:50mm Thk: 5.54mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192681710",
+    "Size: 6 S-STD x 3 S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 80mm Thk2: 5.49mm) CON RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192679349",
+    "Size: 42 S-XS (Size:1050mm Thk: 12.7mm) 90 DEG ELL LR, LTCS A420-WPL6 Welded BE B16.9",
+    "13",
+    null,
+    null
+  ],
+  [
+    "M212423245",
+    "Size: 3\" S-STD x 2\" S-XS (Size1: 80mm Thk1: 5.49mm x Size2: 50mm Thk2: 5.54mm) CON RED, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192681952",
+    "Size: 8 S-STD x 4 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 100mm Thk2: 6.02mm) CON RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192687421",
+    "Size: 6 S-STD x 4 S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 100mm Thk2: 6.02mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M195403132",
+    "Size: 10 S-80 x 8 S-XS (Size1: 250mm Thk1: 15.09mm x Size2: 200mm Thk2: 12.7mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M211246345",
+    "Size: 10 S-80 (Size:250mm Thk: 15.09mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192401424",
+    "Size: 10 S-XS (Size:250mm Thk: 12.7mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192874710",
+    "Size: 26 S-STD (Size:650mm Thk: 9.53mm) 90 DEG ELL LR, CS A234-WPB Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192672162",
+    "Size: 3 S-STD (Size:80mm Thk: 5.49mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5",
+    "12",
+    null,
+    null
+  ],
+  [
+    "M212446111",
+    "Size: 26\" S-STD (Size: 650mm Thk: 9.53mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "10.671",
+    null,
+    null
+  ],
+  [
+    "M192398945",
+    "Size: 8 S-XS (Size:200mm Thk: 12.7mm) WN FLG, CS A105 CL600 RF B16.5",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M192671918",
+    "Size: 10 S-STD (Size:250mm Thk: 9.27mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194148357",
+    "Size: 10 S-80 (Size:250mm Thk: 15.09mm) WN FLG, CS A105 CL600 RF B16.5",
+    "10",
+    null,
+    null
+  ],
+  [
+    "M193802867",
+    "Size: 20 S-XS (Size:500mm Thk: 12.7mm) WN FLG, CS A105 CL300 RF B16.5",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219149295",
+    "Size: 24\" .625 (Size: 600mm Thk: 15.88mm) WN FLG, CS A105 CL300 RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192867805",
+    "Size: 42 S-XS (Size:1050mm Thk: 12.7mm) WN FLG, CS A105 CL150 RF B16.47-SR.A",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192671892",
+    "Size: 42 S-XS (Size:1050mm Thk: 12.7mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.47-SR.A",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M211246581",
+    "Size: 10 S-80 (Size:250mm Thk: 15.09mm) TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192678309",
+    "Size: 30 S-STD (Size:750mm Thk: 9.53mm) 45 DEG ELL LR, LTCS A420-WPL6 Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212413163",
+    "Size: 40\" S-XS (Size:1000mm Thk: 12.7mm) 90 DEG ELL LR, LTCS A420-WPL6 Welded BE B16.9  ",
+    "7",
+    null,
+    null
+  ],
+  [
+    "M192874793",
+    "Size: 30 S-STD (Size:750mm Thk: 9.53mm) 90 DEG ELL LR, CS A234-WPB Welded BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M212476117",
+    "Size: 28\" S-STD x 14\" S-STD (Size1: 700mm Thk1: 9.53mm x Size2: 350mm Thk2: 9.53mm) RED TEE, CS A234-WPB Welded BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212476170",
+    "Size: 28\" S-STD x 18\" S-STD (Size1: 700mm Thk1: 9.53mm x Size2: 450mm Thk2: 9.53mm) RED TEE, CS A234-WPB Welded BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212476144",
+    "Size: 28\" S-STD x 16\" S-STD (Size1: 700mm Thk1: 9.53mm x Size2: 400mm Thk2: 9.53mm) RED TEE, CS A234-WPB Welded BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192679170",
+    "Size: 30 S-STD (Size:750mm Thk: 9.53mm) 90 DEG ELL LR, LTCS A420-WPL6 Welded BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219715777",
+    "Size: 20\" S-80 (Size: 500mm Thk: 26.19mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "69",
+    null,
+    null
+  ],
+  [
+    "M192411983",
+    "Size: 6 S-XS (Size:150mm Thk: 10.97mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192037232",
+    "Size: 4 S-STD x 3 S-STD (Size1: 100mm Thk1: 6.02mm x Size2: 80mm Thk2: 5.49mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M192035619",
+    "Size: 12 S-STD x 6 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192667520",
+    "Size: 8 S-STD x 6 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 150mm Thk2: 7.11mm) RED TEE, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192678478",
+    "Size: 42 S-XS (Size:1050mm Thk: 12.7mm) 45 DEG ELL LR, LTCS A420-WPL6 Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192032705",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192401966",
+    "Size: 10 S-XS (Size:250mm Thk: 12.7mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192037357",
+    "Size: 6 S-STD x 3 S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 80mm Thk2: 5.49mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192037721",
+    "Size: 8 S-STD x 6 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 150mm Thk2: 7.11mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192041717",
+    "Size: 12 S-STD x 8 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192677749",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) 45 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192678569",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192831254",
+    "Size: 4 S-STD x 1.5 S-XS (Size1: 100mm Thk1: 6.02mm x Size2: 40mm Thk2: 5.08mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M194152835",
+    "Size: 8 S-XS x 4 S-XS (Size1: 200mm Thk1: 12.7mm x Size2: 100mm Thk2: 8.56mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192685504",
+    "Size: 12 S-STD x 10 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M241775277",
+    "Size: 10\" S-XS x 6\" S-XS (Size1: 250mm Thk1: 12.7mm x Size2: 150mm Thk2: 10.97mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192667244",
+    "Size: 6 S-STD x 4 S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 100mm Thk2: 6.02mm) RED TEE, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219737834",
+    "Size: 10\" S-80 x 6\" S-XS (Size1: 250mm Thk1: 15.09mm x Size2: 150mm Thk2: 10.97mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192031755",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192874749",
+    "Size: 28 S-STD (Size:700mm Thk: 9.53mm) 90 DEG ELL LR, CS A234-WPB Welded BE B16.9",
+    "11",
+    null,
+    null
+  ],
+  [
+    "M212484223",
+    "Size: 6\" S-STD (Size:150mm Thk: 7.11mm) LATERAL, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192656967",
+    "Size: 3\" S-STD (Size: 80mm Thk: 5.49mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "149.5",
+    null,
+    null
+  ],
+  [
+    "M211197669",
+    "Size: 2\" S-XS (Size: 50mm Thk: 5.54mm) PIPE, LTCS A333-6 SMLS BE B36.10M  ",
+    "34.5",
+    null,
+    null
+  ],
+  [
+    "M191090537",
+    "Size: 2\" S-160 (Size: 50mm Thk: 8.74mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "11.5",
+    null,
+    null
+  ],
+  [
+    "M192836959",
+    "Size: 2 S-XS (Size:50mm Thk: 5.54mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192687225",
+    "Size: 4 S-STD x 3 S-STD (Size1: 100mm Thk1: 6.02mm x Size2: 80mm Thk2: 5.49mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192687349",
+    "Size: 6 S-STD x 3 S-STD (Size1: 150mm Thk1: 7.11mm x Size2: 80mm Thk2: 5.49mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M236223170",
+    "Size: 4\" S-STD x 1 1/2\" S-160 (Size1: 100mm Thk1: 6.02mm x Size2: 40mm Thk2: 7.14mm) NIPO FLG W/150mm, CS A105 CL300 BE x RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192822015",
+    "Size: 3 S-STD x 2 S-XS (Size1: 80mm Thk1: 5.49mm x Size2: 50mm Thk2: 5.54mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "15",
+    null,
+    null
+  ],
+  [
+    "M223575624",
+    "Size: 2\" S-XS x 3/4\" (Size1: 60.3mm Sch: 5.54mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M222813392",
+    "Size: 2\" S-XS x 3/4\" (Size1: 60.3mm Sch: 5.54mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "29",
+    null,
+    null
+  ],
+  [
+    "M222813449",
+    "Size: 2\" S-XS x 1 1/2\" (Size1: 60.3mm Sch: 5.54mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222749444",
+    "Size: 4\" S-STD x 3/4\" (Size1: 114.3mm Sch: 6.02mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M222740903",
+    "Size: 4\" S-STD x 1 1/2\" (Size1: 114.3mm Sch: 6.02mm x Size2: 40mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222749516",
+    "Size: 4\" S-STD x 1 1/2\" (Size1: 114.3mm Sch: 6.02mm x Size2: 40mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222815844",
+    "Size: 8\" S-STD x 1/2\" (Size1: 219.1mm Sch: 8.18mm x Size2: 15mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "6",
+    null,
+    null
+  ],
+  [
+    "M222812935",
+    "Size: 14\" S-STD x 1\" (Size1: 355.6mm Sch: 9.53mm x Size2: 25mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "6",
+    null,
+    null
+  ],
+  [
+    "M222813083",
+    "Size: 16\" S-STD x 3/4\" (Size1: 406.4mm Sch: 9.53mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "6",
+    null,
+    null
+  ],
+  [
+    "M222813120",
+    "Size: 16\" S-STD x 1\" (Size1: 406.4mm Sch: 9.53mm x Size2: 25mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M222747491",
+    "Size: 16\" S-STD x 3/4\" (Size1: 406.4mm Sch: 9.53mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M223399560",
+    "Size: 16\" S-XS x 3/4\" (Size1: 406.4mm Sch: 12.7mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192825579",
+    "Size: 2 S-XS (Size:50mm Thk: 5.54mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "16",
+    null,
+    null
+  ],
+  [
+    "M192677141",
+    "Size: 3 S-STD (Size:80mm Thk: 5.49mm) TEE, LTCS A420-WPL6 SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222816835",
+    "Size: 2\" S-XS x 3/4\" (Size1: 60.3mm Sch: 5.54mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "10",
+    null,
+    null
+  ],
+  [
+    "M222734623",
+    "Size: 14\" S-STD x 3/4\" (Size1: 355.6mm Sch: 9.53mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "7",
+    null,
+    null
+  ],
+  [
+    "M222734808",
+    "Size: 16\" S-STD x 3/4\" (Size1: 406.4mm Sch: 9.53mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192816469",
+    "Size: 8 S-STD x .75 S-XS (Size1: 200mm Thk1: 8.18mm x Size2: 20mm Thk2: 3.91mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191092716",
+    "Size: 16 S-STD x 3 S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M191092813",
+    "Size: 16 S-STD x 4 S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 100mm Thk2: 6.02mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M265415367",
+    "Size: 24\" .812 x 8\" S-XS (Size1: 600mm Thk1: 20.62mm x Size2: 200mm Thk2: 12.7mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192824060",
+    "Size: 2 S-XS (Size:50mm Thk: 5.54mm) WN FLG, CS A105 CL600 RF B16.5",
+    "9",
+    null,
+    null
+  ],
+  [
+    "M212440637",
+    "Size: 2\" S-XS (Size:50mm Thk: 5.54mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M191107667",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) WN FLG, CS A105 CL300 RF B16.5",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192671461",
+    "Size: 14 S-STD (Size:350mm Thk: 9.53mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M191106785",
+    "Size: 16 S-STD (Size:400mm Thk: 9.53mm) WN FLG, CS A105 CL150 RF B16.5",
+    "12",
+    null,
+    null
+  ],
+  [
+    "M192671494",
+    "Size: 16 S-STD (Size:400mm Thk: 9.53mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.5",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M212965422",
+    "Size: 30\" S-30 (Size: 750mm Thk: 15.88mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "92",
+    null,
+    null
+  ],
+  [
+    "M219102645",
+    "Size: 30\" .75 (Size: 750mm Thk: 19.05mm) PIPE, CS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "57.5",
+    null,
+    null
+  ],
+  [
+    "M212658085",
+    "Size: 54\" .625 (Size: 1350mm Thk: 15.88mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "58.5",
+    null,
+    null
+  ],
+  [
+    "M192032805",
+    "Size: 16 S-STD (Size:400mm Thk: 9.53mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192826712",
+    "Size: 18 S-STD (Size:450mm Thk: 9.53mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192834150",
+    "Size: 18 S-STD x 10 S-STD (Size1: 450mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192690043",
+    "Size: 30 S-STD x 24 S-STD (Size1: 750mm Thk1: 9.53mm x Size2: 600mm Thk2: 9.53mm) ECC RED, LTCS A420-WPL6 Welded BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192689928",
+    "Size: 30 S-STD x 20 S-STD (Size1: 750mm Thk1: 9.53mm x Size2: 500mm Thk2: 9.53mm) ECC RED, LTCS A420-WPL6 Welded BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212471459",
+    "Size: 16\" S-STD x 10\" S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212472134",
+    "Size: 16\" S-STD x 8\" S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192677178",
+    "Size: 4 S-STD (Size:100mm Thk: 6.02mm) TEE, LTCS A420-WPL6 SMLS BE B16.9",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M192401235",
+    "Size: 8 S-XS (Size:200mm Thk: 12.7mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192031849",
+    "Size: 16 S-STD (Size:400mm Thk: 9.53mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M191106813",
+    "Size: 18 S-STD (Size:450mm Thk: 9.53mm) WN FLG, CS A105 CL150 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212412767",
+    "Size: 2\" S-XS (Size:50mm Thk: 5.54mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192914973",
+    "Size: 3\" S-STD x 1 S-XS (Size1: 80mm Thk1: 5.49mm x Size2: 25mm Thk2: 4.55mm) CON SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M197471302",
+    "Size: 2\" S-XS x 1 S-160 (Size1: 50mm Thk1: 5.54mm x Size2: 25mm Thk2: 6.35mm) CON SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219385066",
+    "Size: 2\" S-XS x 1\" S-160 (Size1: 50mm Thk1: 5.54mm x Size2: 25mm Thk2: 6.35mm) ECC SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192915886",
+    "Size: 2\" S-XS x 1.5 S-XS (Size1: 50mm Thk1: 5.54mm x Size2: 40mm Thk2: 5.08mm) ECC SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192915871",
+    "Size: 2\" S-XS x 1 S-XS (Size1: 50mm Thk1: 5.54mm x Size2: 25mm Thk2: 4.55mm) ECC SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M212514213",
+    "Size: 2\" S-XS x 3/4\" S-XS (Size1: 50mm Thk1: 5.54mm x Size2: 20mm Thk2: 3.91mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212435087",
+    "Size: 3\" S-STD x 2\" S-XS (Size1: 80mm Thk1: 5.49mm x Size2: 50mm Thk2: 5.54mm) RED TEE, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212514270",
+    "Size: 2\" S-XS x 1 1/2\" S-XS (Size1: 50mm Thk1: 5.54mm x Size2: 40mm Thk2: 5.08mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192031910",
+    "Size: 3\" S-STD (Size:80mm Thk: 5.49mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M212613329",
+    "Size: 30\" S-XS (Size: 750mm Thk: 12.7mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "184",
+    null,
+    null
+  ],
+  [
+    "M194070317",
+    "Size: 30 S-30 (Size: 750mm Thk: 15.88mm) PIPE, LTCS A671-CC60-CL.22 w/S2 EFW BE B36.10M",
+    "57.5",
+    null,
+    null
+  ],
+  [
+    "M219468129",
+    "Size: 16\" .625 (Size: 400mm Thk: 15.88mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M212446489",
+    "Size: 42\" S-XS (Size: 1050mm Thk: 12.7mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "92",
+    null,
+    null
+  ],
+  [
+    "M212446393",
+    "Size: 36\" S-XS (Size: 900mm Thk: 12.7mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "57.5",
+    null,
+    null
+  ],
+  [
+    "M212570749",
+    "Size: 60\" .688 (Size: 1500mm Thk: 17.48mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "11.5",
+    null,
+    null
+  ],
+  [
+    "M212446545",
+    "Size: 48\" .562 (Size: 1200mm Thk: 14.27mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "34.5",
+    null,
+    null
+  ],
+  [
+    "M194659646",
+    "Size: 16 S-XS (Size:400mm Thk: 12.7mm) 45 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219717601",
+    "Size: 18\" S-80 (Size: 450mm Thk: 23.83mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192033909",
+    "Size: 14 S-STD (Size:350mm Thk: 9.53mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "51",
+    null,
+    null
+  ],
+  [
+    "M194922394",
+    "Size: 14 S-STD x 10 S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192032001",
+    "Size: 6\" S-STD (Size:150mm Thk: 7.11mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219125535",
+    "Size: 24\" .625 x 20\" S-XS (Size1: 600mm Thk1: 15.88mm x Size2: 500mm Thk2: 12.7mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M259069582",
+    "Size: 20\" .75 x 8\" S-XS (Size1: 500mm Thk1: 19.05mm x Size2: 200mm Thk2: 12.7mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191090516",
+    "Size: 16 S-STD (Size: 400mm Thk: 9.53mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "379.5",
+    null,
+    null
+  ],
+  [
+    "M192033964",
+    "Size: 16 S-STD (Size:400mm Thk: 9.53mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "10",
+    null,
+    null
+  ],
+  [
+    "M192873832",
+    "Size: 28 S-STD (Size:700mm Thk: 9.53mm) 45 DEG ELL LR, CS A234-WPB Welded BE B16.9",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M212431343",
+    "Size: 16\" S-STD x 10\" S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) RED TEE, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192656898",
+    "Size: 16 S-STD (Size: 400mm Thk: 9.53mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "115",
+    null,
+    null
+  ],
+  [
+    "M192686529",
+    "Size: 16 S-STD x 10 S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192042476",
+    "Size: 16 S-STD x 10 S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "6",
+    null,
+    null
+  ],
+  [
+    "M218169581",
+    "Size: 12\" S-STD x 6\" S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) RED LTL, CS A234-WPB SMLS BE B16.9  ",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M192032755",
+    "Size: 14 S-STD (Size:350mm Thk: 9.53mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192686865",
+    "Size: 16 S-STD x 14 S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 350mm Thk2: 9.53mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M194640905",
+    "Size: 16 S-XS (Size: 400mm Thk: 12.7mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "57.5",
+    null,
+    null
+  ],
+  [
+    "M219468907",
+    "Size: 16\" .625 (Size: 400mm Thk: 15.88mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M219465132",
+    "Size: 16\" .625 (Size: 400mm Thk: 15.88mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "34.5",
+    null,
+    null
+  ],
+  [
+    "M192042313",
+    "Size: 14 S-STD x 8 S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M218174203",
+    "Size: 8\" S-STD x 4\" S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 100mm Thk2: 6.02mm) RED LTL, CS A234-WPB SMLS BE B16.9  ",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M218174308",
+    "Size: 8\" S-STD x 6\" S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 150mm Thk2: 7.11mm) RED LTL, CS A234-WPB SMLS BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M219715594",
+    "Size: 18\" S-80 (Size: 450mm Thk: 23.83mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "80.5",
+    null,
+    null
+  ],
+  [
+    "M223868415",
+    "Size: 18\" S-80 (Size: 450mm Thk: 23.83mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "12",
+    null,
+    null
+  ],
+  [
+    "M219717742",
+    "Size: 24\" S-80 (Size: 600mm Thk: 30.96mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212436448",
+    "Size: 30\" S-STD x 16\" S-STD (Size1: 750mm Thk1: 9.53mm x Size2: 400mm Thk2: 9.53mm) RED TEE, LTCS A420-WPL6 Welded BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194660429",
+    "Size: 16 S-XS (Size:400mm Thk: 12.7mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M192398335",
+    "Size: 16 S-XS (Size:400mm Thk: 12.7mm) WN FLG, CS A105 CL300 RF B16.5",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219075584",
+    "Size: 24\" S-30 x 16\" S-XS (Size1: 600mm Thk1: 14.27mm x Size2: 400mm Thk2: 12.7mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M207188882",
+    "Size: 24 S-30 (Size:600mm Thk: 14.27mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M194655448",
+    "Size: 16 S-XS (Size:400mm Thk: 12.7mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M197486340",
+    "Size: 16 S-XS x 12 S-STD (Size1: 400mm Thk1: 12.7mm x Size2: 300mm Thk2: 9.53mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192676988",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) TEE, LTCS A420-WPL6 SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M194152397",
+    "Size: 4 S-XS x 2 S-XS (Size1: 100mm Thk1: 8.56mm x Size2: 50mm Thk2: 5.54mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M194150745",
+    "Size: 4 S-XS (Size:100mm Thk: 8.56mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212426715",
+    "Size: 20\" S-STD x 14\" S-STD (Size1: 500mm Thk1: 9.53mm x Size2: 350mm Thk2: 9.53mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212436631",
+    "Size: 30\" S-STD x 20\" S-STD (Size1: 750mm Thk1: 9.53mm x Size2: 500mm Thk2: 9.53mm) RED TEE, LTCS A420-WPL6 Welded BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219468065",
+    "Size: 12\" S-60 (Size: 300mm Thk: 14.27mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219465058",
+    "Size: 12\" S-60 (Size: 300mm Thk: 14.27mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "69",
+    null,
+    null
+  ],
+  [
+    "M219468860",
+    "Size: 12\" S-60 (Size: 300mm Thk: 14.27mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M192678738",
+    "Size: 3\" S-STD (Size:80mm Thk: 5.49mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "20",
+    null,
+    null
+  ],
+  [
+    "M194161543",
+    "Size: 8 S-XS x 4 S-XS (Size1: 200mm Thk1: 12.7mm x Size2: 100mm Thk2: 8.56mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212423341",
+    "Size: 4\" S-STD x 2\" S-XS (Size1: 100mm Thk1: 6.02mm x Size2: 50mm Thk2: 5.54mm) CON RED, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222736038",
+    "Size: 3\" S-STD x 3/4\" (Size1: 88.9mm Sch: 5.49mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192836029",
+    "Size: 3\" S-STD x 2 S-XS (Size1: 80mm Thk1: 5.49mm x Size2: 50mm Thk2: 5.54mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M222740108",
+    "Size: 3\" S-STD x 3/4\" (Size1: 88.9mm Sch: 5.49mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "9",
+    null,
+    null
+  ],
+  [
+    "M222814373",
+    "Size: 3\" S-STD x 1 1/2\" (Size1: 88.9mm Sch: 5.49mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192826139",
+    "Size: 2\" S-XS (Size:50mm Thk: 5.54mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222748721",
+    "Size: 3\" S-STD x 3/4\" (Size1: 88.9mm Sch: 5.49mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M222752446",
+    "Size: 3\" S-STD x 3/4\" (Size1: 88.9mm Sch: 5.49mm x Size2: 20mm) THREDOLET, LTCS A350-LF2 CL.1 CL3000 BE x FTE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192032865",
+    "Size: 3\" S-STD (Size:80mm Thk: 5.49mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M191090194",
+    "Size: 1 S-160 (Size:25mm Thk: 6.35mm) SW FLG, CS A105 CL300 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222747800",
+    "Size: 2\" S-XS x 3/4\" (Size1: 60.3mm Sch: 5.54mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192033983",
+    "Size: 2\" S-160 (Size:50mm Thk: 8.74mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M223575642",
+    "Size: 2\" S-XS x 1\" (Size1: 60.3mm Sch: 5.54mm x Size2: 25mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192677907",
+    "Size: 3 S-STD (Size:80mm Thk: 5.49mm) 45 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222813411",
+    "Size: 2\" S-XS x 1\" (Size1: 60.3mm Sch: 5.54mm x Size2: 25mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M258258608",
+    "Size: 30\" S-XS x 16\" S-XS (Size1: 750mm Thk1: 12.7mm x Size2: 400mm Thk2: 12.7mm) RED TEE, LTCS A420-WPL6 Welded BE B16.9  ",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M194659346",
+    "Size: 30 S-XS (Size:750mm Thk: 12.7mm) TEE, LTCS A420-WPL6 Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222736218",
+    "Size: 30\" S-XS x 3/4\" (Size1: 762mm Sch: 12.7mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M194660912",
+    "Size: 30 S-XS (Size:750mm Thk: 12.7mm) 90 DEG ELL LR, LTCS A420-WPL6 Welded BE B16.9",
+    "12",
+    null,
+    null
+  ],
+  [
+    "M194660096",
+    "Size: 30 S-XS (Size:750mm Thk: 12.7mm) 45 DEG ELL LR, LTCS A420-WPL6 Welded BE B16.9",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M192885926",
+    "Size: 28 S-STD x 24 S-STD (Size1: 700mm Thk1: 9.53mm x Size2: 600mm Thk2: 9.53mm) ECC RED, CS A234-WPB Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192042976",
+    "Size: 16 S-STD x 8 S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192835611",
+    "Size: 24 S-STD x 16 S-STD (Size1: 600mm Thk1: 9.53mm x Size2: 400mm Thk2: 9.53mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212967287",
+    "Size: 36\" S-30 (Size:900mm Thk: 15.88mm) 90 DEG ELL LR, CS A234-WPB Welded BE B16.9  ",
+    "35",
+    null,
+    null
+  ],
+  [
+    "M212965560",
+    "Size: 36\" S-30 (Size: 900mm Thk: 15.88mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "126.5",
+    null,
+    null
+  ],
+  [
+    "M191108032",
+    "Size: 30 S-XS (Size:750mm Thk: 12.7mm) WN FLG, CS A105 CL300 RF B16.47-SR.A",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191097226",
+    "Size: 30 S-XS x 4 S-STD (Size1: 750mm Thk1: 12.7mm x Size2: 100mm Thk2: 6.02mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M219759200",
+    "Size: 26\" 1.188 (Size: 650mm Thk: 30.18mm) PIPE, CS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "34.5",
+    null,
+    null
+  ],
+  [
+    "M264578713",
+    "Size: 26\" 1.188 x 10\" S-80 (Size1: 650mm Thk1: 30.18mm x Size2: 250mm Thk2: 15.09mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219761586",
+    "Size: 26\" 1.188 (Size: 650mm Thk: 30.18mm) 90 DEG ELL LR, CS A234-WPB Welded BE B16.9  ",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M272965565",
+    "Size: 26\" 1.188 x 6\" S-XS (Size1: 650mm Thk1: 30.18mm x Size2: 150mm Thk2: 10.97mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M223862201",
+    "Size: 14\" S-80 x 1\" (Size1: 355.6mm Sch: 19.05mm x Size2: 25mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M265796052",
+    "Size: 26\" 1.188 x 14\" S-80 (Size1: 650mm Thk1: 30.18mm x Size2: 350mm Thk2: 19.05mm) RED TEE, CS A234-WPB Welded BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M223862166",
+    "Size: 14\" S-80 x 3/4\" (Size1: 355.6mm Sch: 19.05mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M211251183",
+    "Size: 14 S-80 (Size:350mm Thk: 19.05mm) CAP, CS A234-WPB SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219761078",
+    "Size: 26\" 1.188 (Size: 650mm Thk: 30.18mm) 45 DEG ELL LR, CS A234-WPB Welded BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M264572918",
+    "Size: 26\" 1.188 x 24\" S-80 (Size1: 650mm Thk1: 30.18mm x Size2: 600mm Thk2: 30.96mm) RED TEE, CS A234-WPB Welded BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M194148475",
+    "Size: 18 S-80 (Size:450mm Thk: 23.83mm) WN FLG, CS A105 CL600 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223862510",
+    "Size: 18\" S-80 x 3/4\" (Size1: 457mm Sch: 23.83mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M234240120",
+    "Size: 14\" S-STD x 1 1/2\" S-XS (Size1: 350mm Thk1: 9.53mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL150 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M234954592",
+    "Size: 8\" S-STD x 1 1/2\" S-XS (Size1: 200mm Thk1: 8.18mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, LTCS A350-LF2 CL.1 CL300 BE x RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192672267",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M192858245",
+    "Size: 42 S-XS x 14 S-STD (Size1: 1050mm Thk1: 12.7mm x Size2: 350mm Thk2: 9.53mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222833739",
+    "Size: 42\" S-XS x 10\" S-STD (Size1: 1050mm Thk1: 12.7mm x Size2: 250mm Thk2: 9.27mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M269745087",
+    "Size: 30\" S-30 x 12\" S-60 (Size1: 750mm Thk1: 15.88mm x Size2: 300mm Thk2: 14.27mm) RED TEE, CS A234-WPB Welded BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M269740891",
+    "Size: 30\" S-30 x 24\" .812 (Size1: 750mm Thk1: 15.88mm x Size2: 600mm Thk2: 20.62mm) ECC RED, CS A234-WPB Welded BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212967224",
+    "Size: 30\" S-30 (Size:750mm Thk: 15.88mm) 90 DEG ELL LR, CS A234-WPB Welded BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M269747098",
+    "Size: 30\" S-30 x 18\" .688 (Size1: 750mm Thk1: 15.88mm x Size2: 450mm Thk2: 17.48mm) RED TEE, CS A234-WPB Welded BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219515553",
+    "Size: 18\" .688 (Size: 450mm Thk: 17.48mm) WN FLG, CS A105 CL300 RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223690047",
+    "Size: 18\" .688 x 3/4\" (Size1: 457mm Sch: 17.48mm x Size2: 20mm) SOCKOLET, CS A105 CL9000 BE x SWE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M219465198",
+    "Size: 18\" .688 (Size: 450mm Thk: 17.48mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "23",
+    null,
+    null
+  ],
+  [
+    "M219468951",
+    "Size: 18\" .688 (Size: 450mm Thk: 17.48mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "8",
+    null,
+    null
+  ],
+  [
+    "M192034843",
+    "Size: 54 .625 (Size:1350mm Thk: 15.88mm) 90 DEG ELL LR, LTCS A420-WPL6 Welded BE MSS-SP-75",
+    "6",
+    null,
+    null
+  ],
+  [
+    "M192034873",
+    "Size: 60 .688 (Size:1500mm Thk: 17.48mm) 90 DEG ELL LR, LTCS A420-WPL6 Welded BE MSS-SP-75",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219310012",
+    "Size: 30\" .812 (Size: 750mm Thk: 20.62mm) 90 DEG ELL LR, CS A234-WPB Welded BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M219306462",
+    "Size: 30\" .812 (Size: 750mm Thk: 20.62mm) PIPE, CS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "23",
+    null,
+    null
+  ],
+  [
+    "M222740288",
+    "Size: 30\" S-XS x 3/4\" (Size1: 762mm Sch: 12.7mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M236219390",
+    "Size: 30\" S-XS x 1 1/2\" S-160 (Size1: 750mm Thk1: 12.7mm x Size2: 40mm Thk2: 7.14mm) NIPO FLG W/150mm, CS A105 CL300 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191097284",
+    "Size: 30 S-XS x 6 S-STD (Size1: 750mm Thk1: 12.7mm x Size2: 150mm Thk2: 7.11mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M194654633",
+    "Size: 30 S-XS x 24 S-40 (Size1: 750mm Thk1: 12.7mm x Size2: 600mm Thk2: 17.48mm) RED TEE, LTCS A420-WPL6 Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191107734",
+    "Size: 16 S-STD (Size:400mm Thk: 9.53mm) WN FLG, CS A105 CL300 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212451277",
+    "Size: 16\" S-STD x 2\" S-XS (Size1: 400mm Thk1: 9.53mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M194084058",
+    "Size: 30 S-30 (Size:750mm Thk: 15.88mm) 90 DEG ELL LR, LTCS A420-WPL6 Welded BE B16.9",
+    "11",
+    null,
+    null
+  ],
+  [
+    "M194080412",
+    "Size: 30 S-30 (Size:750mm Thk: 15.88mm) WN FLG, CS A105 CL300 RF B16.47-SR.A",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M223272184",
+    "Size: 30\" S-30 x 3/4\" (Size1: 762mm Sch: 15.88mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M268492663",
+    "Size: 30\" S-30 x 24\" .625 (Size1: 750mm Thk1: 15.88mm x Size2: 600mm Thk2: 15.88mm) ECC RED, LTCS A420-WPL6 Welded BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192856569",
+    "Size: 30 S-STD x 6 S-STD (Size1: 750mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M234250633",
+    "Size: 30\" S-STD x 1 1/2\" S-XS (Size1: 750mm Thk1: 9.53mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL150 BE x RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192868317",
+    "Size: 30 S-STD (Size:750mm Thk: 9.53mm) WN FLG, CS A105 CL300 RF B16.47-SR.A",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219081306",
+    "Size: 20\" S-XS x 10\" S-STD (Size1: 500mm Thk1: 12.7mm x Size2: 250mm Thk2: 9.27mm) RED TEE, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219075205",
+    "Size: 20\" S-XS x 16\" S-XS (Size1: 500mm Thk1: 12.7mm x Size2: 400mm Thk2: 12.7mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M268672688",
+    "Size: 36\" .812 x 30\" S-30 (Size1: 900mm Thk1: 20.62mm x Size2: 750mm Thk2: 14.27mm) RED TEE, LTCS A420-WPL6 Welded BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219049223",
+    "Size: 36\" .812 (Size: 900mm Thk: 20.62mm) PIPE, LTCS A671-CC60-CL.22 w/S2 EFW BE B36.10M  ",
+    "11.5",
+    null,
+    null
+  ],
+  [
+    "M194074369",
+    "Size: 30 S-30 x 6 S-XS (Size1: 750mm Thk1: 15.88mm x Size2: 150mm Thk2: 10.97mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192687709",
+    "Size: 8 S-STD x 6 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 150mm Thk2: 7.11mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192679277",
+    "Size: 36 S-XS (Size:900mm Thk: 12.7mm) 90 DEG ELL LR, LTCS A420-WPL6 Welded BE B16.9",
+    "12",
+    null,
+    null
+  ],
+  [
+    "M192867748",
+    "Size: 36 S-XS (Size:900mm Thk: 12.7mm) WN FLG, CS A105 CL150 RF B16.47-SR.A",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192867847",
+    "Size: 48 .562 (Size:1200mm Thk: 14.27mm) WN FLG, CS A105 CL150 RF B16.47-SR.A",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192822935",
+    "Size: 24 S-STD (Size:600mm Thk: 9.53mm) WN FLG, CS A105 CL150 RF B16.5",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192866904",
+    "Size: 48 .562 x 24 S-STD (Size1: 1200mm Thk1: 14.27mm x Size2: 600mm Thk2: 9.53mm) RED TEE, LTCS A420-WPL6 Welded BE B16.9",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219104011",
+    "Size: 30\" .75 (Size: 750mm Thk: 19.05mm) 45 DEG ELL LR, CS A234-WPB Welded BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219104794",
+    "Size: 30\" .75 (Size: 750mm Thk: 19.05mm) 90 DEG ELL LR, CS A234-WPB Welded BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M247506284",
+    "Size: 30\" S-30 (Size: 750mm Thk: 15.88mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.47-SR.A  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M247537658",
+    "Size: 30\" S-30 x 24\" S-30 (Size1: 750mm Thk1: 15.88mm x Size2: 600mm Thk2: 14.27mm) ECC RED, LTCS A420-WPL6 Welded BE B16.9  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M246315967",
+    "Size: 30\" S-30 x 2\" S-XS (Size1: 750mm Thk1: 15.88mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, LTCS A350-LF2 CL.1  BE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212446450",
+    "Size: 40\" S-XS (Size: 1000mm Thk: 12.7mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "23",
+    null,
+    null
+  ],
+  [
+    "M222747132",
+    "Size: 12\" S-STD x 3/4\" (Size1: 323.8mm Sch: 9.53mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "5",
+    null,
+    null
+  ],
+  [
+    "M192671427",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192679984",
+    "Size: 12 S-STD x 6 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) CON RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M222747231",
+    "Size: 12\" S-STD x 1 1/2\" (Size1: 323.8mm Sch: 9.53mm x Size2: 40mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219150335",
+    "Size: 30\" .75 (Size: 750mm Thk: 19.05mm) WN FLG, CS A105 CL600 RF B16.47-SR.A  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192670267",
+    "Size: 30 S-STD x 24 S-STD (Size1: 750mm Thk1: 9.53mm x Size2: 600mm Thk2: 9.53mm) RED TEE, LTCS A420-WPL6 Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222815755",
+    "Size: 6\" S-STD x 1\" (Size1: 168.3mm Sch: 7.11mm x Size2: 25mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192035179",
+    "Size: 10 S-STD x 6 S-STD (Size1: 250mm Thk1: 9.27mm x Size2: 150mm Thk2: 7.11mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192671640",
+    "Size: 3 S-STD (Size:80mm Thk: 5.49mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.5",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M218127134",
+    "Size: 12\" S-STD x 6\" S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) RED LTL, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212414655",
+    "Size: 12\" S-STD x 3\" S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, LTCS A350-LF2 CL.1  BE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192823505",
+    "Size: 1.5 S-XS (Size:40mm Thk: 5.08mm) WN FLG, CS A105 CL300 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M212965626",
+    "Size: 42\" .625 (Size: 1050mm Thk: 15.88mm) PIPE, LTCS A671-CC60-CL.22 EFW BE B36.10M  ",
+    "48",
+    null,
+    null
+  ],
+  [
+    "M192033856",
+    "Size: 12 S-STD (Size:300mm Thk: 9.53mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "139",
+    null,
+    null
+  ],
+  [
+    "M219718272",
+    "Size: 24\" S-80 (Size: 600mm Thk: 30.96mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M235589390",
+    "Size: 48\" 1 (Size: 1200mm Thk: 25.4mm) PIPE, LTCS A671-CC60-CL.22 w/S2 EFW BE B36.10M  ",
+    "23",
+    null,
+    null
+  ],
+  [
+    "M223575324",
+    "Size: 16\" S-XS x 3/4\" (Size1: 406.4mm Sch: 12.7mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M223575360",
+    "Size: 16\" S-XS x 1\" (Size1: 406.4mm Sch: 12.7mm x Size2: 25mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M194672396",
+    "Size: 16 S-XS (Size:400mm Thk: 12.7mm) CAP, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192855769",
+    "Size: 28 S-STD x 4 S-STD (Size1: 700mm Thk1: 9.53mm x Size2: 100mm Thk2: 6.02mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192855726",
+    "Size: 28 S-STD x 2 S-XS (Size1: 700mm Thk1: 9.53mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192047014",
+    "Size: 14 S-STD (Size:350mm Thk: 9.53mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M193805187",
+    "Size: 20 S-XS (Size:500mm Thk: 12.7mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212992488",
+    "Size: 20\" S-XS x 10\" S-STD (Size1: 500mm Thk1: 12.7mm x Size2: 250mm Thk2: 9.27mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194913731",
+    "Size: 14 S-STD x 2 S-XS (Size1: 350mm Thk1: 9.53mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "7",
+    null,
+    null
+  ],
+  [
+    "M191107208",
+    "Size: 42 .625 (Size:1050mm Thk: 15.88mm) WN FLG, CS A105 CL150 RF B16.47-SR.A",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212967322",
+    "Size: 42\" .625 (Size:1050mm Thk: 15.88mm) 90 DEG ELL LR, CS A234-WPB Welded BE B16.9  ",
+    "14",
+    null,
+    null
+  ],
+  [
+    "M258287521",
+    "Size: 54\" .625 x 42\" .625 (Size1: 1350mm Thk1: 15.88mm x Size2: 1050mm Thk2: 15.88mm) ECC RED, CS A234-WPB Welded BE MSS-SP-75  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223272566",
+    "Size: 36\" S-30 x 1 1/2\" (Size1: 914mm Sch: 15.88mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "7",
+    null,
+    null
+  ],
+  [
+    "M191108098",
+    "Size: 36 S-30 (Size:900mm Thk: 15.88mm) WN FLG, CS A105 CL300 RF B16.47-SR.A",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223272502",
+    "Size: 36\" S-30 x 3/4\" (Size1: 914mm Sch: 15.88mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M191097796",
+    "Size: 36 S-30 x 12 S-STD (Size1: 900mm Thk1: 15.88mm x Size2: 300mm Thk2: 9.53mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M258647868",
+    "Size: 36\" S-30 x 1 1/2\" S-XS (Size1: 900mm Thk1: 15.88mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/200mm, CS A105 CL150 BE x RF B16.5  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M212966590",
+    "Size: 36\" S-30 (Size:900mm Thk: 15.88mm) 45 DEG ELL LR, CS A234-WPB Welded BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M220556568",
+    "Size: 12\" S-160 x 2\" S-160 (Size1: 300mm Thk1: 33.32mm x Size2: 50mm Thk2: 8.74mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M220590936",
+    "Size: 12\" S-160 (Size: 300mm Thk: 33.32mm) WN FLG, CS A105 CL1500 RTJ B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192908900",
+    "Size: 16 S-STD x 2 S-XS (Size1: 400mm Thk1: 9.53mm x Size2: 50mm Thk2: 5.54mm) LATROLET, CS A105  BE MSS-SP-97",
+    "3",
+    null,
+    null
+  ],
+  [
+    "M218170893",
+    "Size: 16\" S-STD x 6\" S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) RED LTL, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222813046",
+    "Size: 16\" S-STD x 1/2\" (Size1: 406.4mm Sch: 9.53mm x Size2: 15mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M218170476",
+    "Size: 16\" S-STD x 10\" S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) RED LTL, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194161374",
+    "Size: 6 S-XS x 4 S-XS (Size1: 150mm Thk1: 10.97mm x Size2: 100mm Thk2: 8.56mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194161303",
+    "Size: 6 S-XS x 3 S-XS (Size1: 150mm Thk1: 10.97mm x Size2: 80mm Thk2: 7.62mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191108891",
+    "Size: 6 S-STD (Size:150mm Thk: 7.11mm) WN FLG, CS A105 CL600 RF B16.5",
+    "8",
+    null,
+    null
+  ],
+  [
+    "M274487082",
+    "Size: 26\" 1.188 x 3/4\" (Size1: 660mm Sch: 30.18mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219718119",
+    "Size: 16\" S-80 (Size: 400mm Thk: 21.44mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219715534",
+    "Size: 16\" S-80 (Size: 400mm Thk: 21.44mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "115",
+    null,
+    null
+  ],
+  [
+    "M196238428",
+    "Size: 16 S-80 x 2 S-XS (Size1: 400mm Thk1: 21.44mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M194148449",
+    "Size: 16 S-80 (Size:400mm Thk: 21.44mm) WN FLG, CS A105 CL600 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219744817",
+    "Size: 18\" S-80 (Size: 450mm Thk: 23.83mm) TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219734792",
+    "Size: 18\" S-80 x 14\" S-80 (Size1: 450mm Thk1: 23.83mm x Size2: 350mm Thk2: 19.05mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219733495",
+    "Size: 14\" S-80 x 8\" S-XS (Size1: 350mm Thk1: 19.05mm x Size2: 200mm Thk2: 12.7mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M211246403",
+    "Size: 12 S-80 (Size:300mm Thk: 17.48mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M211240257",
+    "Size: 12 S-80 (Size: 300mm Thk: 17.48mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M258900233",
+    "Size: 12\" S-80 (Size: 300mm Thk: 17.48mm) WN FLG, CS A105 CL1500 RTJ B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M237038490",
+    "Size: 12\" S-80 x 1 1/2\" S-XS (Size1: 300mm Thk1: 17.48mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/200mm, CS A105 CL600 BE x RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212476089",
+    "Size: 28\" S-STD x 12\" S-STD (Size1: 700mm Thk1: 9.53mm x Size2: 300mm Thk2: 9.53mm) RED TEE, CS A234-WPB Welded BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192867663",
+    "Size: 28 S-STD (Size:700mm Thk: 9.53mm) WN FLG, CS A105 CL150 RF B16.47-SR.A",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M234237786",
+    "Size: 10\" S-STD x 1 1/2\" S-XS (Size1: 250mm Thk1: 9.27mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL150 BE x RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M222812534",
+    "Size: 10\" S-STD x 1/2\" (Size1: 273mm Sch: 9.27mm x Size2: 15mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "4",
+    null,
+    null
+  ],
+  [
+    "M222813194",
+    "Size: 16\" S-STD x 1 1/2\" (Size1: 406.4mm Sch: 9.53mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192915124",
+    "Size: 4 S-STD x 1.5 S-XS (Size1: 100mm Thk1: 6.02mm x Size2: 40mm Thk2: 5.08mm) CON SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192678675",
+    "Size: 16 S-STD (Size:400mm Thk: 9.53mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192858351",
+    "Size: 42 S-XS x 4 S-STD (Size1: 1050mm Thk1: 12.7mm x Size2: 100mm Thk2: 6.02mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192677847",
+    "Size: 16 S-STD (Size:400mm Thk: 9.53mm) 45 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219465117",
+    "Size: 14\" S-60 (Size: 350mm Thk: 15.09mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "69",
+    null,
+    null
+  ],
+  [
+    "M219468115",
+    "Size: 14\" S-60 (Size: 350mm Thk: 15.09mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M241770766",
+    "Size: 14\" S-60 x 8\" S-XS (Size1: 350mm Thk1: 15.09mm x Size2: 200mm Thk2: 12.7mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M195403864",
+    "Size: 14 S-60 x 12 S-60 (Size1: 350mm Thk1: 15.09mm x Size2: 300mm Thk2: 14.27mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223690410",
+    "Size: 20\" .75 x 3/4\" (Size1: 508mm Sch: 19.05mm x Size2: 20mm) SOCKOLET, CS A105 CL9000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M219515517",
+    "Size: 16\" .625 (Size: 400mm Thk: 15.88mm) WN FLG, CS A105 CL300 RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219491882",
+    "Size: 20\" .75 x 16\" .625 (Size1: 500mm Thk1: 19.05mm x Size2: 400mm Thk2: 15.88mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192909064",
+    "Size: 16 S-STD x 4 S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 100mm Thk2: 6.02mm) LATROLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M234406098",
+    "Size: 76\" .812 (Size: 1900mm Thk: 20.62mm) WN FLG W/JACK SCREW, CS A105 CL150 RF PJT-STD  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M274468611",
+    "Size: 76\" .812 x 2\" S-XS (Size1: 1900mm Thk1: 20.62mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M234263390",
+    "Size: 76\" .812 x 1 1/2\" S-XS (Size1: 1900mm Thk1: 20.62mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL150 BE x RF B16.5  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192840838",
+    "Size: 6 S-STD x 2 S-XS (Size1: 150mm Thk1: 7.11mm x Size2: 50mm Thk2: 5.54mm) LATROLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M194672661",
+    "Size: 30 S-XS (Size:750mm Thk: 12.7mm) CAP, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223864328",
+    "Size: 10\" S-80 x 3/4\" (Size1: 273mm Sch: 15.09mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192840517",
+    "Size: 12 S-STD x 3 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 80mm Thk2: 5.49mm) LATROLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192840597",
+    "Size: 12 S-STD x 4 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 100mm Thk2: 6.02mm) LATROLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192909685",
+    "Size: 1.5 S-XS (Size:40mm Thk: 5.08mm) SW FLG, CS A105 CL150 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192885735",
+    "Size: 26 S-STD x 18 S-STD (Size1: 650mm Thk1: 9.53mm x Size2: 450mm Thk2: 9.53mm) ECC RED, CS A234-WPB Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212475953",
+    "Size: 26\" S-STD x 12\" S-STD (Size1: 650mm Thk1: 9.53mm x Size2: 300mm Thk2: 9.53mm) RED TEE, CS A234-WPB Welded BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192834309",
+    "Size: 18 S-STD x 12 S-STD (Size1: 450mm Thk1: 9.53mm x Size2: 300mm Thk2: 9.53mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222751216",
+    "Size: 16\" S-STD x 3/4\" (Size1: 406.4mm Sch: 9.53mm x Size2: 20mm) THREDOLET, LTCS A350-LF2 CL.1 CL3000 BE x FTE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M219079778",
+    "Size: 16\" S-XS x 12\" S-STD (Size1: 400mm Thk1: 12.7mm x Size2: 300mm Thk2: 9.53mm) RED TEE, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194914771",
+    "Size: 16 S-XS x 2 S-XS (Size1: 400mm Thk1: 12.7mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192384044",
+    "Size: 16 S-XS x 4 S-STD (Size1: 400mm Thk1: 12.7mm x Size2: 100mm Thk2: 6.02mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M197486509",
+    "Size: 16 S-XS x 14 S-STD (Size1: 400mm Thk1: 12.7mm x Size2: 350mm Thk2: 9.53mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M259071237",
+    "Size: 6\" S-XS x 4\" S-120 (Size1: 150mm Thk1: 10.97mm x Size2: 100mm Thk2: 11.13mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M265824301",
+    "Size: 6\" S-XS x 4\" S-120 (Size1: 150mm Thk1: 10.97mm x Size2: 100mm Thk2: 11.13mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192041564",
+    "Size: 12 S-STD x 6 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192841098",
+    "Size: 8 S-STD x 3 S-STD (Size1: 200mm Thk1: 8.18mm x Size2: 80mm Thk2: 5.49mm) LATROLET, CS A105  BE MSS-SP-97",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M219744949",
+    "Size: 24\" S-80 (Size: 600mm Thk: 30.96mm) TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219742419",
+    "Size: 24\" S-80 x 14\" S-80 (Size1: 600mm Thk1: 30.96mm x Size2: 350mm Thk2: 19.05mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219736171",
+    "Size: 24\" S-80 x 18\" S-80 (Size1: 600mm Thk1: 30.96mm x Size2: 450mm Thk2: 23.83mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219734252",
+    "Size: 16\" S-80 x 8\" S-XS (Size1: 400mm Thk1: 21.44mm x Size2: 200mm Thk2: 12.7mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219739959",
+    "Size: 16\" S-80 x 8\" S-XS (Size1: 400mm Thk1: 21.44mm x Size2: 200mm Thk2: 12.7mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223864270",
+    "Size: 8\" S-XS x 1 1/2\" (Size1: 219.1mm Sch: 12.7mm x Size2: 40mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M235990383",
+    "Size: 48\" 1 (Size: 1200mm Thk: 25.4mm) WN FLG, CS A105 CL300 RF B16.47-SR.A  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M235802791",
+    "Size: 48\" 1 (Size: 1200mm Thk: 25.4mm) 90 DEG ELL LR, LTCS A420-WPL6 Welded BE B16.9  ",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192672015",
+    "Size: 16 S-STD (Size:400mm Thk: 9.53mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192656838",
+    "Size: 14 S-STD (Size: 350mm Thk: 9.53mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "57.5",
+    null,
+    null
+  ],
+  [
+    "M222747306",
+    "Size: 14\" S-STD x 3/4\" (Size1: 355.6mm Sch: 9.53mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "6",
+    null,
+    null
+  ],
+  [
+    "M192671982",
+    "Size: 14 S-STD (Size:350mm Thk: 9.53mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212431998",
+    "Size: 16\" S-STD x 8\" S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) RED TEE, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192816247",
+    "Size: 6 S-STD x 1.5 S-XS (Size1: 150mm Thk1: 7.11mm x Size2: 40mm Thk2: 5.08mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192036107",
+    "Size: 14 S-STD x 12 S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 300mm Thk2: 9.53mm) CON RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219734434",
+    "Size: 18\" S-80 x 10\" S-80 (Size1: 450mm Thk1: 23.83mm x Size2: 250mm Thk2: 15.09mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192678621",
+    "Size: 14 S-STD (Size:350mm Thk: 9.53mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192677798",
+    "Size: 14 S-STD (Size:350mm Thk: 9.53mm) 45 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192686213",
+    "Size: 14 S-STD x 6 S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212430684",
+    "Size: 14\" S-STD x 10\" S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) RED TEE, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212471947",
+    "Size: 16\" S-STD x 6\" S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212415281",
+    "Size: 14\" S-STD x 3\" S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, LTCS A350-LF2 CL.1  BE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M192680728",
+    "Size: 14 S-STD x 8 S-STD (Size1: 350mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) CON RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192909726",
+    "Size: 1.5 S-XS (Size:40mm Thk: 5.08mm) SW FLG, CS A105 CL300 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191108703",
+    "Size: 2 S-160 (Size:50mm Thk: 8.74mm) WN FLG, CS A105 CL600 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M191106541",
+    "Size: 1.5 S-160 (Size:40mm Thk: 7.14mm) SW FLG, CS A105 CL600 RF B16.5",
+    "2",
+    null,
+    null
+  ],
+  [
+    "M192030474",
+    "Size: 2 S-160 x 1.5 S-160 (Size1: 50mm Thk1: 8.74mm x Size2: 40mm Thk2: 7.14mm) ECC SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222739178",
+    "Size: 2\" S-160 x 3/4\" (Size1: 60.3mm Sch: 8.74mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M212994797",
+    "Size: 6\" S-XS x 3\" S-XS (Size1: 150mm Thk1: 10.97mm x Size2: 80mm Thk2: 7.62mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192381884",
+    "Size: 10 S-XS x 2 S-160 (Size1: 250mm Thk1: 12.7mm x Size2: 50mm Thk2: 8.74mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "1",
+    null,
+    null
+  ],
+  [
+    "M268966627",
+    "Size: 36\" S-30 (Size: 900mm Thk: 15.88mm) WN FLG W/JACK SCREW, CS A105 CL300 RF B16.47-SR.A  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M237046946",
+    "Size: 24\" S-80 x 1 1/2\" S-XS (Size1: 600mm Thk1: 30.96mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/200mm, CS A105 CL600 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219742247",
+    "Size: 24\" S-80 x 12\" S-80 (Size1: 600mm Thk1: 30.96mm x Size2: 300mm Thk2: 17.48mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191091611",
+    "Size: 72 .812 (Size: 1800mm Thk: 20.62mm) PIPE, LTCS A671-CC60-CL.22 w/S2 EFW BE B36.10M",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191099255",
+    "Size: 72 .812 x 14 S-STD (Size1: 1800mm Thk1: 20.62mm x Size2: 350mm Thk2: 9.53mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M269762652",
+    "Size: 72\" .812 x 36\" S-XS (Size1: 1800mm Thk1: 20.62mm x Size2: 900mm Thk2: 12.7mm) RED TEE, LTCS A420-WPL6 Welded BE PJT-STD  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191099250",
+    "Size: 72 .812 x 10 S-STD (Size1: 1800mm Thk1: 20.62mm x Size2: 250mm Thk2: 9.27mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M193802806",
+    "Size: 18 S-XS (Size:450mm Thk: 12.7mm) WN FLG, CS A105 CL300 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M193783570",
+    "Size: 18 S-XS (Size: 450mm Thk: 12.7mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222749703",
+    "Size: 42\" S-XS x 1 1/2\" (Size1: 1067mm Sch: 12.7mm x Size2: 40mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192664693",
+    "Size: 42 S-XS x 3 S-STD (Size1: 1050mm Thk1: 12.7mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, LTCS A350-LF2 CL.1  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212996833",
+    "Size: 42\" .625 x 36\" S-30 (Size1: 1050mm Thk1: 15.88mm x Size2: 1050mm Thk2: 15.88mm) RED TEE, CS A234-WPB Welded BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191107159",
+    "Size: 36 S-30 (Size:900mm Thk: 15.88mm) WN FLG, CS A105 CL150 RF B16.47-SR.A",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M193805691",
+    "Size: 18 S-XS (Size:450mm Thk: 12.7mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222813623",
+    "Size: 20\" S-STD x 3/4\" (Size1: 508mm Sch: 9.53mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222813734",
+    "Size: 20\" S-STD x 1 1/2\" (Size1: 508mm Sch: 9.53mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192835233",
+    "Size: 20 S-STD x 16 S-STD (Size1: 500mm Thk1: 9.53mm x Size2: 400mm Thk2: 9.53mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222813586",
+    "Size: 20\" S-STD x 1/2\" (Size1: 508mm Sch: 9.53mm x Size2: 15mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212473378",
+    "Size: 20\" S-STD x 12\" S-STD (Size1: 500mm Thk1: 9.53mm x Size2: 300mm Thk2: 9.53mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192809232",
+    "Size: 20 S-STD (Size: 500mm Thk: 9.53mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "34.5",
+    null,
+    null
+  ],
+  [
+    "M193783670",
+    "Size: 20 S-XS (Size: 500mm Thk: 12.7mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M193805774",
+    "Size: 20 S-XS (Size:500mm Thk: 12.7mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191094927",
+    "Size: 20 S-STD x 3 S-STD (Size1: 500mm Thk1: 9.53mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222735348",
+    "Size: 20\" S-STD x 3/4\" (Size1: 508mm Sch: 9.53mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192826797",
+    "Size: 20 S-STD (Size:500mm Thk: 9.53mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M218717803",
+    "Size: 20\" S-XS x 1 1/2\" S-XS (Size1: 500mm Thk1: 5.08mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL300 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223271339",
+    "Size: 20\" S-XS x 3/4\" (Size1: 508mm Sch: 12.7mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194916859",
+    "Size: 20 S-XS x 2 S-XS (Size1: 500mm Thk1: 12.7mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M197473509",
+    "Size: 18 S-XS (Size:450mm Thk: 12.7mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M197455927",
+    "Size: 18 S-XS (Size: 450mm Thk: 12.7mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "34.5",
+    null,
+    null
+  ],
+  [
+    "M197473094",
+    "Size: 18 S-XS (Size:450mm Thk: 12.7mm) 45 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212451903",
+    "Size: 18\" S-STD x 2\" S-XS (Size1: 450mm Thk1: 9.53mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191093824",
+    "Size: 18 S-STD x 3 S-STD (Size1: 450mm Thk1: 9.53mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222813226",
+    "Size: 18\" S-STD x 1/2\" (Size1: 457mm Sch: 9.53mm x Size2: 15mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192809130",
+    "Size: 18 S-STD (Size: 450mm Thk: 9.53mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219080611",
+    "Size: 18\" S-XS x 12\" S-STD (Size1: 450mm Thk1: 12.7mm x Size2: 300mm Thk2: 9.53mm) RED TEE, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191107095",
+    "Size: 30 S-XS (Size:750mm Thk: 12.7mm) WN FLG, CS A105 CL150 RF B16.47-SR.A",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223055130",
+    "Size: 30\" S-XS x 3/4\" (Size1: 762mm Sch: 12.7mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M269750432",
+    "Size: 72\" .812 (Size: 1800mm Thk: 20.62mm) WN FLG, CS A105 CL150 RF PJT-STD  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M278364485",
+    "Size: 72\" .812 x 2\" S-XS (Size1: 1800mm Thk1: 20.62mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191099280",
+    "Size: 72 .812 x 6 S-STD (Size1: 1800mm Thk1: 20.62mm x Size2: 150mm Thk2: 7.11mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222813258",
+    "Size: 18\" S-STD x 3/4\" (Size1: 457mm Sch: 9.53mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M234242415",
+    "Size: 18\" S-STD x 1 1/2\" S-XS (Size1: 450mm Thk1: 9.53mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL150 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M258900504",
+    "Size: 24\" S-80 (Size: 600mm Thk: 30.96mm) WN FLG, CS A105 CL1500 RTJ B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M197473508",
+    "Size: 18 S-STD (Size:450mm Thk: 9.53mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M197455926",
+    "Size: 18 S-STD (Size: 450mm Thk: 9.53mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M218173849",
+    "Size: 4\" S-STD x 2\" S-XS (Size1: 100mm Thk1: 6.02mm x Size2: 50mm Thk2: 5.54mm) RED LTL, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212474063",
+    "Size: 20\" S-STD x 8\" S-STD (Size1: 500mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194915869",
+    "Size: 18 S-XS x 3 S-STD (Size1: 450mm Thk1: 12.7mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M197455982",
+    "Size: 20 S-STD (Size: 500mm Thk: 9.53mm) PIPE, LTCS A333-6 SMLS BE B36.10M",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212412828",
+    "Size: 20\" S-STD (Size:500mm Thk: 9.53mm) 90 DEG ELL LR, LTCS A420-WPL6 SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M218717767",
+    "Size: 18\" S-XS x 1 1/2\" S-XS (Size1: 450mm Thk1: 5.08mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL300 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191107762",
+    "Size: 18 S-STD (Size:450mm Thk: 9.53mm) WN FLG, CS A105 CL300 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192826117",
+    "Size: 18 S-STD (Size:450mm Thk: 9.53mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192826198",
+    "Size: 20 S-STD (Size:500mm Thk: 9.53mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212473200",
+    "Size: 20\" S-STD x 10\" S-STD (Size1: 500mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212474640",
+    "Size: 24\" S-STD x 14\" S-STD (Size1: 600mm Thk1: 9.53mm x Size2: 350mm Thk2: 9.53mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192042814",
+    "Size: 16 S-STD x 14 S-STD (Size1: 400mm Thk1: 9.53mm x Size2: 350mm Thk2: 9.53mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212429397",
+    "Size: 42\" S-XS x 40\" S-XS (Size1: 1050mm Thk1: 12.7mm x Size2: 1000mm Thk2: 12.7mm) ECC RED, LTCS A420-WPL6 Welded BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212441627",
+    "Size: 40\" S-XS (Size:1000mm Thk: 12.7mm) WN FLG, LTCS A350-LF2 CL.1 CL150 RF B16.47-SR.A  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194148385",
+    "Size: 12 S-80 (Size:300mm Thk: 17.48mm) WN FLG, CS A105 CL600 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219733871",
+    "Size: 16\" S-80 x 12\" S-80 (Size1: 400mm Thk1: 21.44mm x Size2: 300mm Thk2: 17.48mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192660056",
+    "Size: 18 S-STD x 6 S-STD (Size1: 450mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) WELDOLET, LTCS A350-LF2 CL.1  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212473025",
+    "Size: 18\" S-STD x 8\" S-STD (Size1: 450mm Thk1: 9.53mm x Size2: 200mm Thk2: 8.18mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192677667",
+    "Size: 42 S-XS (Size:1050mm Thk: 12.7mm) TEE, LTCS A420-WPL6 Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191094015",
+    "Size: 18 S-STD x 6 S-STD (Size1: 450mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219741856",
+    "Size: 20\" S-80 x 8\" S-XS (Size1: 500mm Thk1: 26.19mm x Size2: 200mm Thk2: 12.7mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219741680",
+    "Size: 20\" S-80 x 18\" S-80 (Size1: 500mm Thk1: 26.19mm x Size2: 450mm Thk2: 23.83mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219735542",
+    "Size: 20\" S-80 x 16\" S-80 (Size1: 500mm Thk1: 26.19mm x Size2: 400mm Thk2: 21.44mm) ECC RED, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219309736",
+    "Size: 18\" S-40 (Size: 450mm Thk: 14.27mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219305992",
+    "Size: 18\" S-40 (Size: 450mm Thk: 14.27mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219315473",
+    "Size: 18\" S-40 x 2\" S-XS (Size1: 450mm Thk1: 14.27mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192033649",
+    "Size: 54 .625 (Size:1350mm Thk: 15.88mm) 45 DEG ELL LR, LTCS A420-WPL6 Welded BE MSS-SP-75",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M220552321",
+    "Size: 10\" S-160 (Size: 250mm Thk: 28.58mm) PIPE, CS A106-B SMLS BE B36.10M  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M220574693",
+    "Size: 10\" S-160 x 8\" S-160 (Size1: 250mm Thk1: 28.58mm x Size2: 200mm Thk2: 23.01mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192825556",
+    "Size: 18 S-STD (Size:450mm Thk: 9.53mm) TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M193015191",
+    "Size: 18 S-STD x 12 S-STD (Size1: 450mm Thk1: 9.53mm x Size2: 300mm Thk2: 9.53mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M212472321",
+    "Size: 18\" S-STD x 10\" S-STD (Size1: 450mm Thk1: 9.53mm x Size2: 250mm Thk2: 9.27mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192867684",
+    "Size: 30 S-STD (Size:750mm Thk: 9.53mm) WN FLG, CS A105 CL150 RF B16.47-SR.A",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222814492",
+    "Size: 30\" S-STD x 3/4\" (Size1: 762mm Sch: 9.53mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192834892",
+    "Size: 20 S-STD x 12 S-STD (Size1: 500mm Thk1: 9.53mm x Size2: 300mm Thk2: 9.53mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M234244871",
+    "Size: 20\" S-STD x 1 1/2\" S-XS (Size1: 500mm Thk1: 9.53mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/150mm, CS A105 CL150 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192888772",
+    "Size: 1 S-XS 100mm NPL, CS A106-B SMLS PBE B36.10M",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194912942",
+    "Size: 12 S-STD x 3 S-STD (Size1: 300mm Thk1: 9.53mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191095126",
+    "Size: 20 S-STD x 6 S-STD (Size1: 500mm Thk1: 9.53mm x Size2: 150mm Thk2: 7.11mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223270982",
+    "Size: 18\" S-XS x 3/4\" (Size1: 457mm Sch: 12.7mm x Size2: 20mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222813354",
+    "Size: 18\" S-STD x 1 1/2\" (Size1: 457mm Sch: 9.53mm x Size2: 40mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M220555031",
+    "Size: 10\" S-160 (Size: 250mm Thk: 28.58mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222749649",
+    "Size: 42\" S-XS x 3/4\" (Size1: 1067mm Sch: 12.7mm x Size2: 20mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223275424",
+    "Size: 20\" S-XS x 3/4\" (Size1: 508mm Sch: 12.7mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194916955",
+    "Size: 20 S-XS x 3 S-STD (Size1: 500mm Thk1: 12.7mm x Size2: 80mm Thk2: 5.49mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191108918",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) WN FLG, CS A105 CL600 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192814367",
+    "Size: 20 S-STD x 2 S-XS (Size1: 500mm Thk1: 9.53mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219099818",
+    "Size: 18\" S-XS (Size: 450mm Thk: 12.7mm) WN FLG, LTCS A350-LF2 CL.1 CL300 RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M197487137",
+    "Size: 18 S-XS x 14 S-STD (Size1: 450mm Thk1: 12.7mm x Size2: 350mm Thk2: 9.53mm) ECC RED, LTCS A420-WPL6 SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192412023",
+    "Size: 8 S-XS (Size:200mm Thk: 12.7mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219740835",
+    "Size: 18\" S-80 x 8\" S-XS (Size1: 450mm Thk1: 23.83mm x Size2: 200mm Thk2: 12.7mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223864209",
+    "Size: 8\" S-XS x 1\" (Size1: 219.1mm Sch: 12.7mm x Size2: 25mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194148534",
+    "Size: 20 S-80 (Size:500mm Thk: 26.19mm) WN FLG, CS A105 CL600 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194134492",
+    "Size: 20 S-80 x 2 S-XS (Size1: 500mm Thk1: 26.19mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223862859",
+    "Size: 20\" S-80 x 3/4\" (Size1: 508mm Sch: 26.19mm x Size2: 20mm) SOCKOLET, CS A105 CL6000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219741346",
+    "Size: 20\" S-80 x 14\" S-80 (Size1: 500mm Thk1: 26.19mm x Size2: 350mm Thk2: 19.05mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222734983",
+    "Size: 18\" S-STD x 3/4\" (Size1: 457mm Sch: 9.53mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M224122365",
+    "Size: 10\" S-160 x 3/4\" (Size1: 273mm Sch: 28.58mm x Size2: 20mm) SOCKOLET, CS A105 CL9000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M220590887",
+    "Size: 10\" S-160 (Size: 250mm Thk: 28.58mm) WN FLG, CS A105 CL1500 RTJ B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M193813573",
+    "Size: 18 S-XS x 16 S-XS (Size1: 450mm Thk1: 12.7mm x Size2: 400mm Thk2: 12.7mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M193795060",
+    "Size: 20 S-XS x 18 S-XS (Size1: 500mm Thk1: 12.7mm x Size2: 450mm Thk2: 12.7mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M218750135",
+    "Size: 20\" S-XS x 14\" S-STD (Size1: 500mm Thk1: 12.7mm x Size2: 350mm Thk2: 9.53mm) RED TEE, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M237044491",
+    "Size: 20\" S-80 x 1 1/2\" S-XS (Size1: 500mm Thk1: 26.19mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/200mm, CS A105 CL600 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M195092702",
+    "Size: 8 S-XS (Size:200mm Thk: 12.7mm) WN FLG, CS A105 CL900 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M223864990",
+    "Size: 18\" S-80 x 3/4\" (Size1: 457mm Sch: 23.83mm x Size2: 20mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192690627",
+    "Size: 42 S-XS x 36 S-XS (Size1: 1050mm Thk1: 12.7mm x Size2: 900mm Thk2: 12.7mm) ECC RED, LTCS A420-WPL6 Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194917146",
+    "Size: 20 S-XS x 6 S-STD (Size1: 500mm Thk1: 12.7mm x Size2: 150mm Thk2: 7.11mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194083006",
+    "Size: 30 S-30 (Size:750mm Thk: 15.88mm) TEE, LTCS A420-WPL6 Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M219717553",
+    "Size: 16\" S-80 (Size: 400mm Thk: 21.44mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M237042027",
+    "Size: 18\" S-80 x 1 1/2\" S-XS (Size1: 450mm Thk1: 23.83mm x Size2: 40mm Thk2: 5.08mm) NIPO FLG W/200mm, CS A105 CL600 BE x RF B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194133547",
+    "Size: 18 S-80 x 2 S-XS (Size1: 450mm Thk1: 23.83mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194915780",
+    "Size: 18 S-XS x 2 S-XS (Size1: 450mm Thk1: 12.7mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M220591636",
+    "Size: 10\" S-160 (Size: 250mm Thk: 28.58mm) WN FLG W/JACK SCREW, CS A105 CL1500 RTJ B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M224122395",
+    "Size: 10\" S-160 x 1\" (Size1: 273mm Sch: 28.58mm x Size2: 25mm) SOCKOLET, CS A105 CL9000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192835398",
+    "Size: 20 S-STD x 18 S-STD (Size1: 500mm Thk1: 9.53mm x Size2: 450mm Thk2: 9.53mm) ECC RED, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M246316340",
+    "Size: 30\" S-30 x 6\" S-STD (Size1: 750mm Thk1: 15.88mm x Size2: 150mm Thk2: 7.11mm) WELDOLET, LTCS A350-LF2 CL.1  BE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M247532377",
+    "Size: 30\" S-30 x 10\" S-STD (Size1: 750mm Thk1: 15.88mm x Size2: 250mm Thk2: 9.27mm) RED TEE, LTCS A420-WPL6 Welded BE B16.9  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192819759",
+    "Size: 18 S-STD x 16 S-STD (Size1: 450mm Thk1: 9.53mm x Size2: 400mm Thk2: 9.53mm) RED TEE, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194148417",
+    "Size: 14 S-80 (Size:350mm Thk: 19.05mm) WN FLG, CS A105 CL600 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M196237700",
+    "Size: 14 S-80 x 2 S-XS (Size1: 350mm Thk1: 19.05mm x Size2: 50mm Thk2: 5.54mm) WELDOLET, CS A105  BE MSS-SP-97",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194928919",
+    "Size: 3 x 2 S-XS (Size1: 80mm x Size2: 50mm Thk2: 5.54mm) RWN FLG, CS A105 CL300 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M258900314",
+    "Size: 16\" S-80 (Size: 400mm Thk: 21.44mm) WN FLG, CS A105 CL1500 RTJ B16.5  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192873870",
+    "Size: 30 S-STD (Size:750mm Thk: 9.53mm) 45 DEG ELL LR, CS A234-WPB Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M193805108",
+    "Size: 18 S-XS (Size:450mm Thk: 12.7mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M246316423",
+    "Size: 30\" S-30 x 8\" S-STD (Size1: 750mm Thk1: 15.88mm x Size2: 200mm Thk2: 8.18mm) WELDOLET, LTCS A350-LF2 CL.1  BE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194093813",
+    "Size: 30 S-30 x 20 S-XS (Size1: 750mm Thk1: 15.88mm x Size2: 500mm Thk2: 12.7mm) ECC RED, LTCS A420-WPL6 Welded BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M191091658",
+    "Size: .75 S-160 75mm NPL, CS A106-B SMLS PBE B36.10M",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192915017",
+    "Size: 3\" S-STD x 1.5 S-XS (Size1: 80mm Thk1: 5.49mm x Size2: 40mm Thk2: 5.08mm) CON SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192915855",
+    "Size: 2 S-XS x .75 S-XS (Size1: 50mm Thk1: 5.54mm x Size2: 20mm Thk2: 3.91mm) ECC SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192909709",
+    "Size: 1 S-XS (Size:25mm Thk: 4.55mm) SW FLG, CS A105 CL300 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192914793",
+    "Size: 2\" S-XS x 1 S-XS (Size1: 50mm Thk1: 5.54mm x Size2: 25mm Thk2: 4.55mm) CON SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192914757",
+    "Size: 2\" S-XS x .75 S-XS (Size1: 50mm Thk1: 5.54mm x Size2: 20mm Thk2: 3.91mm) CON SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222814333",
+    "Size: 3\" S-STD x 1\" (Size1: 88.9mm Sch: 5.49mm x Size2: 25mm) SOCKOLET, CS A105 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192915944",
+    "Size: 3 S-STD x 1.5 S-XS (Size1: 80mm Thk1: 5.49mm x Size2: 40mm Thk2: 5.08mm) ECC SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192914835",
+    "Size: 2\" S-XS x 1.5 S-XS (Size1: 50mm Thk1: 5.54mm x Size2: 40mm Thk2: 5.08mm) CON SWG, CS A234-WPB SMLS BLE x PSE MSS-SP-95  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192909668",
+    "Size: 1 S-XS (Size:25mm Thk: 4.55mm) SW FLG, CS A105 CL150 RF B16.5",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M222748781",
+    "Size: 3\" S-STD x 1 1/2\" (Size1: 88.9mm Sch: 5.49mm x Size2: 40mm) SOCKOLET, LTCS A350-LF2 CL.1 CL3000 BE x SWE MSS-SP-97  ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192047310",
+    "Size: 3\" S-STD (Size:80mm Thk: 5.49mm) CAP, CS A234-WPB SMLS BE B16.9",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M259348893",
+    "Size: 8\" S-STD x 1/2\" (Size1: 219.1mm Sch: 8.18mm x Size2: 15mm) THREDOLET, CS A105 CL3000 BE x FTE MSS-SP-97 HOT DIP GALV. ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M267356934",
+    "Size: 2\" S-XS (Size: 50mm Thk: 5.54mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9 HOT DIP GALV. ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M267227865",
+    "Size: 2\" S-XS (Size: 50mm Thk: 5.54mm) PIPE, CS A106-B SMLS BE B36.10M HOT DIP GALV. ",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M192130478",
+    "Size: 8 S-STD (Size:200mm Thk: 8.18mm) 45 DEG ELL LR, CS A234-WPB SMLS BE B16.9 HOT DIP GALV.",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194480897",
+    "Size: 3 S-STD (Size:80mm Thk: 5.49mm) 90 DEG ELL LR, CS A234-WPB SMLS BE B16.9 HOT DIP GALV.",
+    "0",
+    null,
+    null
+  ],
+  [
+    "M194473689",
+    "Size: 3 S-STD (Size: 80mm Thk: 5.49mm) PIPE, CS A106-B SMLS BE B36.10M HOT DIP GALV. ",
+    "0",
+    null,
+    null
+  ],
+  [null, null, null, null, "0"],
+  [null, null, null, null, "0"],
+  [null, null, null, null, "0"],
+  [null, null, null, null, "0"],
+  [null, null, null, null, "0"]
+]

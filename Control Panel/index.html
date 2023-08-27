@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  </head>
+  <body>
+    <form id="uploadForm" onsubmit="uploadImage()">
+      <input type="file" name="image" id="image" />
+      <input type="hidden" name="id" value="115805" id="elementId">
+      <button type="submit">Upload</button>
+    </form>
+    <div id="status"></div>
+    <button onclick="activateInputImageModal()">Active</button>
+    <div class="fixed top-0 w-full h-screen z-10 bg-black bg-opacity-30" id="ImageModal">
+      <div class="flex justify-center items-center w-full h-full">
+        <div class="w-[90%] md:w-[50%] lg:w-[25%] bg-white rounded flex flex-col justify-center items-center overflow-hidden">
+          <div class="w-full flex">
+            <div class="text-xl font-bold hover:bg-red-500 p-4 hover:text-white hover:cursor-pointer" onclick="deleteImageModal()">
+              <img src="../Assets/x-symbol-svgrepo-com.svg" class="w-4" alt="">
+            </div>
+          </div>
+          <div class="w-full flex flex-col justify-center items-center p-6 gap-4">
+            <h1 class="font-semibold text-xl uppercase">
+              Title
+            </h1>
+            <img src="../Assets/Logo_single.png" alt="">
+            <div class="">
+              <label
+                for="formFile"
+                class="mb-2 inline-block text-neutral-700"
+                >Select Image File!</label
+              >
+              <input
+                class="relative m-0 block w-full min-w-0 flex-auto rounded border border-solid border-neutral-300 bg-clip-padding px-3 py-[0.32rem] text-base font-normal text-neutral-700 transition duration-300 ease-in-out file:-mx-3 file:-my-[0.32rem] file:overflow-hidden file:rounded-none file:border-0 file:border-solid file:border-inherit file:bg-neutral-100 file:px-3 file:py-[0.32rem] file:text-neutral-700 file:transition file:duration-150 file:ease-in-out file:[border-inline-end-width:1px] file:[margin-inline-end:0.75rem] hover:file:bg-neutral-200 focus:border-primary focus:text-neutral-700 focus:shadow-te-primary focus:outline-none "
+                type="file"
+                id="formFile" />
+            </div>
+            <button type="submit" class="w-full py-2 bg-[#2E3192] text-white font-semibold border rounded">Upload</button>
+          </div>          
+        </div>
+      </div>
+    </div>
+    <script src="./js.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js" onload="if (AOS) {AOS.init();}"></script>
+  </body>
+</html>

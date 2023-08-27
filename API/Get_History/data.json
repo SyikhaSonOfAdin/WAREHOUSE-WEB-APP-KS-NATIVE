@@ -1,0 +1,94 @@
+[
+  {
+    "spool": "1R31-WF-10009-01-4",
+    "id": [
+      {
+        "Ident Code": "M191090737",
+        "spool": "1R31-WF-10009-01-4",
+        "description": "PIPE SIZE : 8'' S-STD CS A106-B SMLS BE B36.10M ",
+        "stock": "442.967",
+        "reservation": [
+          {
+            "batch": "Batch-001",
+            "spool": "1R31-WF-10009-01-4",
+            "Ident Code": "M191090737",
+            "bm qty": "6.7"
+          }
+        ],
+        "issued": [
+          {
+            "Ident Code": "M191090737",
+            "batch": "Batch-001",
+            "spool": "1R31-WF-10009-01-4",
+            "qty": "6.7",
+            "date": "2023-02-11",
+            "fitter": "MUKLIS",
+            "by": "syikha"
+          }
+        ]
+      },
+      {
+        "Ident Code": "M192034167",
+        "spool": "1R31-WF-10009-01-4",
+        "description": "90 DEG ELL LR SIZE : 8'' S-STD CS A234-WPB SMLS BE B16.9 ",
+        "stock": "8",
+        "reservation": [
+          {
+            "batch": "Batch-001",
+            "spool": "1R31-WF-10009-01-4",
+            "Ident Code": "M192034167",
+            "bm qty": "2"
+          },
+          {
+            "batch": "Batch-009",
+            "spool": "1R31-WF-10009-01-4",
+            "Ident Code": "M192034167",
+            "bm qty": "3"
+          }
+        ],
+        "issued": [
+          {
+            "Ident Code": "M192034167",
+            "batch": "Batch-001",
+            "spool": "1R31-WF-10009-01-4",
+            "qty": "2",
+            "date": "2023-02-11",
+            "fitter": "MUKLIS",
+            "by": "syikha"
+          }
+        ]
+      },
+      {
+        "Ident Code": "M192034167",
+        "spool": "1R31-WF-10009-01-4",
+        "description": "90 DEG ELL LR SIZE : 8'' S-STD CS A234-WPB SMLS BE B16.9 ",
+        "stock": "8",
+        "reservation": [
+          {
+            "batch": "Batch-001",
+            "spool": "1R31-WF-10009-01-4",
+            "Ident Code": "M192034167",
+            "bm qty": "2"
+          },
+          {
+            "batch": "Batch-009",
+            "spool": "1R31-WF-10009-01-4",
+            "Ident Code": "M192034167",
+            "bm qty": "3"
+          }
+        ],
+        "issued": [
+          {
+            "Ident Code": "M192034167",
+            "batch": "Batch-001",
+            "spool": "1R31-WF-10009-01-4",
+            "qty": "2",
+            "date": "2023-02-11",
+            "fitter": "MUKLIS",
+            "by": "syikha"
+          }
+        ]
+      }
+    ]
+  }
+]

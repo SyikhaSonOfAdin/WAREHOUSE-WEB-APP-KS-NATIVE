@@ -1,0 +1,6393 @@
+[
+  {
+    "Batch No": "Batch-003",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90001-01-1",
+    "Qty": "0.589",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-003",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90001-02-1",
+    "Qty": "0.589",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-003",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90001-07-1",
+    "Qty": "0.589",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-003",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90001-01-2",
+    "Qty": "0.589",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-003",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90001-06-1",
+    "Qty": "0.589",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-003",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90001-02-3",
+    "Qty": "0.589",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-003",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PW-90001-06-3",
+    "Qty": "2.706",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-003",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PW-90001-05-1",
+    "Qty": "2.156",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-009",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90001-03-1",
+    "Qty": "0.99",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-003",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PW-90001-03-1",
+    "Qty": "0.606",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-004",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90038-01-4",
+    "Qty": "2.706",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-004",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92702-01-2",
+    "Qty": "1.086",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92703-02-1",
+    "Qty": "9.449",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-01-3",
+    "Qty": "1.046",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-005",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WF-20065-02-2",
+    "Qty": "0.861",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-005",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WF-20065-02-2",
+    "Qty": "5.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-01-2",
+    "Qty": "1.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-01-3",
+    "Qty": "1.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90011-01-3",
+    "Qty": "0.995",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30018-01-1",
+    "Qty": "0.723",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-10009-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-06-2",
+    "Qty": "7.471",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-01-2",
+    "Qty": "3.608",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30018-01-2",
+    "Qty": "0.332",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-06-2",
+    "Qty": "4.544",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-06-1",
+    "Qty": "3.223",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-05-2",
+    "Qty": "2.219",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-04-1",
+    "Qty": "0.921",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-NA-30022-06-1",
+    "Qty": "0.26",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90007-02-3",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-05-2",
+    "Qty": "1.471",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MS-80001-06-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-06-1",
+    "Qty": "0.771",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90007-02-2",
+    "Qty": "0.542",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-90004-02-4",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-06-2",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-NA-30022-06-1",
+    "Qty": "0.1",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-NA-30022-05-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30019-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-04-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WF-20065-03-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30005-01-1",
+    "Qty": "9.946",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-P-30144-01-4",
+    "Qty": "1.496",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-FW-04903-01-1",
+    "Qty": "9.812",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-90001-03-2",
+    "Qty": "1.503",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90004-01-1",
+    "Qty": "0.098",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-01-1",
+    "Qty": "9.539",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-02-3",
+    "Qty": "1.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90001-04-1",
+    "Qty": "0.098",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWR-90030-01-1",
+    "Qty": "9.236",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92703-02-2",
+    "Qty": "1.926",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-HS-90005-04-2",
+    "Qty": "0.257",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92703-02-1",
+    "Qty": "9.046",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-ME-50005-01-2",
+    "Qty": "2.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWR-90030-01-2",
+    "Qty": "0.229",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91701-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-30144-02-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-10009-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30005-01-3",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-ME-30001-01-1",
+    "Qty": "0.833",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-PA-90006-03-1",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-N-90038-02-1",
+    "Qty": "0.806",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91701-01-2",
+    "Qty": "0.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-90015-02-1",
+    "Qty": "0.732",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90004-01-1",
+    "Qty": "0.702",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWR-30028-01-1",
+    "Qty": "0.695",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWS-30028-01-2",
+    "Qty": "0.695",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-HS-90005-04-2",
+    "Qty": "0.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-HS-90005-02-4",
+    "Qty": "0.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-ME-50005-01-1",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30015-01-2",
+    "Qty": "8.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWS-30028-01-1",
+    "Qty": "2.566",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92703-02-2",
+    "Qty": "0.276",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-30144-03-1",
+    "Qty": "7.986",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92701-02-2",
+    "Qty": "3.149",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92701-02-3",
+    "Qty": "0.276",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90007-01-1",
+    "Qty": "7.826",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91702-01-1",
+    "Qty": "3.607",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWS-30028-01-2",
+    "Qty": "7.706",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-02-1",
+    "Qty": "2.958",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91702-01-1",
+    "Qty": "0.753",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91704-01-1",
+    "Qty": "7.686",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92701-02-1",
+    "Qty": "2.958",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-02-1",
+    "Qty": "0.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91701-01-2",
+    "Qty": "7.299",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-20006-01-2",
+    "Qty": "3.864",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-MS-90013-02-2",
+    "Qty": "0.257",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWR-30028-01-2",
+    "Qty": "7.236",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92701-01-1",
+    "Qty": "1.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-01-3",
+    "Qty": "1.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30005-01-1",
+    "Qty": "1.196",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-90026-03-3",
+    "Qty": "0.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91703-01-4",
+    "Qty": "6.766",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWR-90030-01-2",
+    "Qty": "4.416",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-90026-02-2",
+    "Qty": "0.158",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-ME-50005-01-1",
+    "Qty": "6.656",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91703-01-1",
+    "Qty": "4.256",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90004-03-1",
+    "Qty": "0.502",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91704-01-2",
+    "Qty": "6.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90003-02-1",
+    "Qty": "4.823",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-FW-04903-01-1",
+    "Qty": "0.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-HS-90005-04-2",
+    "Qty": "6.208",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91703-01-2",
+    "Qty": "4.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-90015-04-2",
+    "Qty": "0.968",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90007-01-3",
+    "Qty": "6.096",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91703-01-3",
+    "Qty": "4.196",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90003-02-1",
+    "Qty": "1.121",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-BFW-30005-01-2",
+    "Qty": "5.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WF-20065-02-1",
+    "Qty": "5.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91701-01-1",
+    "Qty": "5.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90003-02-2",
+    "Qty": "5.699",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30018-01-3",
+    "Qty": "0.549",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-01-1",
+    "Qty": "0.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-MS-90013-02-2",
+    "Qty": "0.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-90015-04-2",
+    "Qty": "0.537",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91702-01-2",
+    "Qty": "0.496",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-90007-04-2",
+    "Qty": "0.495",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91704-01-3",
+    "Qty": "0.481",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30005-01-3",
+    "Qty": "0.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30005-01-3",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91703-01-4",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91704-01-3",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-OWS-90007-01-1",
+    "Qty": "0.342",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-ME-50005-01-2",
+    "Qty": "0.266",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-HS-90005-02-4",
+    "Qty": "0.257",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92703-02-1",
+    "Qty": "0.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92703-01-2",
+    "Qty": "0.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-90026-03-3",
+    "Qty": "0.158",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91703-01-1",
+    "Qty": "0.153",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-OWS-90007-01-1",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30015-01-3",
+    "Qty": "5.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-01-3",
+    "Qty": "4.156",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91704-01-1",
+    "Qty": "1.803",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90003-01-2",
+    "Qty": "4.071",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-90026-03-3",
+    "Qty": "4.059",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90003-01-2",
+    "Qty": "2.908",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90005-01-1",
+    "Qty": "0.348",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-FW-04903-01-2",
+    "Qty": "2.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-90015-01-1",
+    "Qty": "2.54",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92701-02-2",
+    "Qty": "2.486",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91704-01-1",
+    "Qty": "2.396",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90001-04-1",
+    "Qty": "1.09",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-01-2",
+    "Qty": "2.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92703-01-2",
+    "Qty": "2.776",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92701-01-1",
+    "Qty": "2.754",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWR-30028-01-2",
+    "Qty": "2.566",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91701-01-1",
+    "Qty": "0.407",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWS-90030-01-1",
+    "Qty": "2.359",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-02-1",
+    "Qty": "2.286",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30015-01-3",
+    "Qty": "1.858",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WF-20065-02-1",
+    "Qty": "1.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-BMX-60014-01-1",
+    "Qty": "1.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-ME-50005-02-2",
+    "Qty": "1.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-90001-01-3",
+    "Qty": "1.803",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92703-01-2",
+    "Qty": "1.786",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-02-3",
+    "Qty": "1.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30015-01-4",
+    "Qty": "1.714",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30015-01-5",
+    "Qty": "1.596",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90003-01-1",
+    "Qty": "1.348",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-ME-50005-02-3",
+    "Qty": "1.316",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-20006-01-2",
+    "Qty": "1.3",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90007-02-1",
+    "Qty": "1.295",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-02-3",
+    "Qty": "1.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-BFW-30005-01-1",
+    "Qty": "1.196",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91702-01-3",
+    "Qty": "1.182",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90002-01-1",
+    "Qty": "1.158",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90005-01-1",
+    "Qty": "1.158",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-ME-50005-02-3",
+    "Qty": "1.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90003-01-1",
+    "Qty": "1.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-30144-03-1",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-FW-04903-01-2",
+    "Qty": "1.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92703-01-2",
+    "Qty": "1.116",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-01-4",
+    "Qty": "1.068",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-ME-50005-01-1",
+    "Qty": "1.031",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92701-02-1",
+    "Qty": "1.016",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWS-90030-01-1",
+    "Qty": "0.996",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWR-90030-01-2",
+    "Qty": "0.996",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-P-30144-01-3",
+    "Qty": "0.996",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90011-11-2",
+    "Qty": "0.995",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91704-01-2",
+    "Qty": "0.982",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BMX-60014-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30015-01-5",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-03-4",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-ME-30001-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-01-4",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-P-30144-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-10009-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-BMX-60014-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91702-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-30144-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90007-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LSC-90015-06-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-30144-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-20006-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-NA-30022-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWS-30028-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWR-30028-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92703-01-1",
+    "Qty": "9.466",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-P-30144-01-2",
+    "Qty": "1.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-03-3",
+    "Qty": "0.096",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-02-2",
+    "Qty": "9.396",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-90007-02-3",
+    "Qty": "2.045",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30005-01-2",
+    "Qty": "5.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-MS-90013-04-2",
+    "Qty": "5.633",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-P-30144-02-2",
+    "Qty": "0.137",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-02-1",
+    "Qty": "5.286",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92702-01-1",
+    "Qty": "0.968",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WH-30045-01-1",
+    "Qty": "0.946",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-02-3",
+    "Qty": "0.905",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30005-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-02-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30018-05-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-90015-02-2",
+    "Qty": "0.648",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-02-2",
+    "Qty": "3.536",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-02-2",
+    "Qty": "3.486",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-02-1",
+    "Qty": "3.428",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-02-3",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92703-01-1",
+    "Qty": "3.388",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-05-1",
+    "Qty": "2.927",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WF-90021-01-3",
+    "Qty": "2.766",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-02-1",
+    "Qty": "2.286",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30005-01-2",
+    "Qty": "2.696",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WF-90021-01-2",
+    "Qty": "2.598",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-05-1",
+    "Qty": "1.877",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WH-30045-02-2",
+    "Qty": "1.806",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92703-01-2",
+    "Qty": "1.786",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WF-90021-01-3",
+    "Qty": "0.565",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-03-3",
+    "Qty": "1.647",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-P-30144-02-2",
+    "Qty": "0.996",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-BFW-60001-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PW-90007-02-1",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-02-1",
+    "Qty": "0.806",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-MS-90013-04-2",
+    "Qty": "0.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-05-1",
+    "Qty": "0.453",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92703-01-1",
+    "Qty": "0.341",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92703-01-2",
+    "Qty": "0.276",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-02-2",
+    "Qty": "0.276",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-02-2",
+    "Qty": "0.276",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92703-01-1",
+    "Qty": "0.258",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-MS-90013-04-2",
+    "Qty": "0.257",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LS-90015-05-1",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-90015-04-1",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-90015-02-2",
+    "Qty": "1.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WF-90021-01-1",
+    "Qty": "1.395",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30005-02-1",
+    "Qty": "1.366",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-02-2",
+    "Qty": "1.308",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92702-01-1",
+    "Qty": "1.276",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WH-30045-02-1",
+    "Qty": "1.219",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-02-2",
+    "Qty": "1.168",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-02-1",
+    "Qty": "1.158",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-90015-03-1",
+    "Qty": "0.809",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WH-30045-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-BFW-60001-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-P-30144-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92702-01-1",
+    "Qty": "0.62",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92702-01-1",
+    "Qty": "0.182",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-02-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30018-05-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30005-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30005-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WH-30045-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-LSC-90013-03-3",
+    "Qty": "11.192",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-P-30144-02-1",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BMX-60014-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-90015-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-30005-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30015-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-P-30144-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-BMX-60014-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-BFW-30005-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-ME-50005-02-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90003-03-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LSC-90015-06-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-OWS-90007-01-1",
+    "Qty": "10.931",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90003-03-1",
+    "Qty": "0.502",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWS-90030-01-2",
+    "Qty": "10.046",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90007-01-1",
+    "Qty": "1.39",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92701-02-3",
+    "Qty": "0.978",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92701-01-2",
+    "Qty": "0.956",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91703-01-4",
+    "Qty": "0.915",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-30013-04-1",
+    "Qty": "0.909",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90003-03-1",
+    "Qty": "0.896",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90007-01-3",
+    "Qty": "0.896",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWR-90030-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-NA-30022-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-20006-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-30144-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-BMX-60014-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-CWS-90030-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-DR-90004-03-1",
+    "Qty": "0.498",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-90016-01-2",
+    "Qty": "0.407",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-90016-01-2",
+    "Qty": "0.206",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWR-90018-01-6",
+    "Qty": "0.946",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-90011-08-1",
+    "Qty": "0.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90078-01-2",
+    "Qty": "0.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-N-10051-02-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-02-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90099-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-N-10051-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90078-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90099-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PW-90007-03-1",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PW-90007-07-2",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PW-90007-06-2",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-N-10051-01-1",
+    "Qty": "0.806",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-80001-02-1",
+    "Qty": "0.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90011-02-2",
+    "Qty": "0.503",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-N-10051-01-3",
+    "Qty": "7.046",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90078-01-1",
+    "Qty": "3.996",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-02-1",
+    "Qty": "0.316",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-02-2",
+    "Qty": "6.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-01-2",
+    "Qty": "4.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-01-2",
+    "Qty": "0.181",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90099-01-2",
+    "Qty": "6.396",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90078-01-2",
+    "Qty": "4.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90099-01-1",
+    "Qty": "0.744",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-80001-02-1",
+    "Qty": "5.61",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-N-10051-02-1",
+    "Qty": "3.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-HSC-90003-01-1",
+    "Qty": "1.679",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-P-10009-02-1",
+    "Qty": "0.176",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-01-1",
+    "Qty": "3.696",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWR-90018-01-3",
+    "Qty": "3.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-13002-01-2",
+    "Qty": "3.209",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90078-01-1",
+    "Qty": "1.045",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-N-10051-01-1",
+    "Qty": "2.506",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-01-1",
+    "Qty": "2.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWR-90018-01-1",
+    "Qty": "2.122",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MSC-90003-01-1",
+    "Qty": "1.679",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-004",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90011-08-1",
+    "Qty": "1.595",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-HSC-90003-01-1",
+    "Qty": "1.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-90011-08-1",
+    "Qty": "1.521",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWS-90018-01-1",
+    "Qty": "1.436",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PW-90007-05-1",
+    "Qty": "1.331",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MSC-90003-01-1",
+    "Qty": "1.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-01-2",
+    "Qty": "1.096",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWS-90018-01-1",
+    "Qty": "1.09",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWR-90018-01-6",
+    "Qty": "1.09",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-P-20034-01-1",
+    "Qty": "0.996",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90011-07-1",
+    "Qty": "0.995",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-80001-02-1",
+    "Qty": "0.156",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-90011-08-1",
+    "Qty": "0.156",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-P-10009-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-N-10051-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PA-90099-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWR-90018-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-P-20034-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MSC-90003-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90078-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92701-01-2",
+    "Qty": "9.826",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90001-04-5",
+    "Qty": "1.49",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80001-08-2",
+    "Qty": "0.106",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80059-01-2",
+    "Qty": "9.697",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80004-01-1",
+    "Qty": "1.549",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-11003-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80001-01-2",
+    "Qty": "9.662",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LSC-90015-06-3",
+    "Qty": "1.777",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-13002-01-1",
+    "Qty": "9.208",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-14002-01-1",
+    "Qty": "2.058",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80001-01-2",
+    "Qty": "0.156",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80007-01-1",
+    "Qty": "9.067",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-01-1",
+    "Qty": "2.368",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MSC-80001-05-1",
+    "Qty": "8.829",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-90004-02-3",
+    "Qty": "2.436",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-90004-02-3",
+    "Qty": "0.156",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80019-01-1",
+    "Qty": "8.747",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80059-01-3",
+    "Qty": "2.576",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MS-80005-02-4",
+    "Qty": "0.098",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LSC-90015-06-3",
+    "Qty": "3.127",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-P-10009-02-1",
+    "Qty": "0.745",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80001-03-1",
+    "Qty": "0.708",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-17005-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-01-2",
+    "Qty": "0.17",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-16010-02-1",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-17010-02-1",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80006-02-3",
+    "Qty": "2.549",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-ME-50001-01-1",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80006-02-3",
+    "Qty": "0.207",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-01-2",
+    "Qty": "7.597",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90078-03-1",
+    "Qty": "3.612",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80002-02-2",
+    "Qty": "7.188",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MS-80005-02-4",
+    "Qty": "4.087",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91701-01-3",
+    "Qty": "0.135",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWS-90018-01-3",
+    "Qty": "6.896",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MS-80001-06-1",
+    "Qty": "0.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90016-03-2",
+    "Qty": "0.407",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90016-04-2",
+    "Qty": "0.407",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MSC-80001-05-1",
+    "Qty": "0.396",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-15002-01-1",
+    "Qty": "0.358",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80005-01-1",
+    "Qty": "0.358",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LSC-90015-06-3",
+    "Qty": "0.349",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80009-01-1",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80023-01-1",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80003-01-3",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-11010-02-1",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80005-01-1",
+    "Qty": "6.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80001-08-1",
+    "Qty": "0.207",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80001-01-5",
+    "Qty": "0.204",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-90011-02-4",
+    "Qty": "0.204",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80005-01-3",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80002-02-2",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90016-01-2",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80005-01-5",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LSC-90015-06-3",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-11005-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-12003-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-12005-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-13003-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-13005-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-14003-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-14005-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-15003-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-15005-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-16003-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-16005-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-12010-02-1",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80011-02-2",
+    "Qty": "6.772",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80006-01-1",
+    "Qty": "0.575",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80001-08-1",
+    "Qty": "0.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80006-02-3",
+    "Qty": "0.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80006-01-6",
+    "Qty": "0.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80006-01-4",
+    "Qty": "0.527",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80001-08-2",
+    "Qty": "0.479",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80001-08-2",
+    "Qty": "0.476",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-91701-01-3",
+    "Qty": "0.452",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80006-01-6",
+    "Qty": "0.308",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWR-90018-01-4",
+    "Qty": "6.696",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-01-1",
+    "Qty": "4.578",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-13010-02-1",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-17002-01-1",
+    "Qty": "6.671",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80001-08-2",
+    "Qty": "0.705",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80001-04-1",
+    "Qty": "0.681",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-N-80001-04-2",
+    "Qty": "0.681",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80001-01-5",
+    "Qty": "0.679",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-90011-02-4",
+    "Qty": "0.679",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-ME-90008-01-1",
+    "Qty": "0.66",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-30144-03-2",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-14010-02-1",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-14002-01-1",
+    "Qty": "6.671",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-17002-01-1",
+    "Qty": "4.058",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80057-01-2",
+    "Qty": "0.685",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-15002-01-2",
+    "Qty": "6.588",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80021-01-1",
+    "Qty": "0.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80019-01-1",
+    "Qty": "0.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-PA-90006-02-3",
+    "Qty": "0.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-01-1",
+    "Qty": "0.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80011-01-1",
+    "Qty": "0.745",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80007-01-1",
+    "Qty": "0.745",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90078-03-1",
+    "Qty": "0.225",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-N-80002-01-1",
+    "Qty": "6.547",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-14002-01-2",
+    "Qty": "4.008",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80002-02-1",
+    "Qty": "0.866",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-15002-01-1",
+    "Qty": "5.721",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-03-1",
+    "Qty": "5.696",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-16002-01-1",
+    "Qty": "5.621",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80006-01-2",
+    "Qty": "1.002",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-005",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90011-10-1",
+    "Qty": "0.995",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80059-01-4",
+    "Qty": "0.971",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80059-01-3",
+    "Qty": "0.958",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-01-2",
+    "Qty": "0.806",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWR-90018-01-5",
+    "Qty": "4.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92702-01-1",
+    "Qty": "1.416",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80005-01-1",
+    "Qty": "1.385",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-ME-90008-01-1",
+    "Qty": "1.368",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PW-90007-07-1",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-15010-02-1",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-01-1",
+    "Qty": "4.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90078-03-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-30005-02-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BMX-60014-02-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30005-02-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30019-01-3",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80005-01-4",
+    "Qty": "0.845",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80005-01-2",
+    "Qty": "0.833",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80001-01-1",
+    "Qty": "0.611",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWS-90018-01-2",
+    "Qty": "4.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80059-01-2",
+    "Qty": "1.039",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80011-02-1",
+    "Qty": "0.906",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-17002-01-1",
+    "Qty": "0.888",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90078-03-1",
+    "Qty": "0.877",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92702-01-1",
+    "Qty": "0.858",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80001-01-3",
+    "Qty": "0.858",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30019-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-ME-90008-02-1",
+    "Qty": "0.238",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-N-10051-02-2",
+    "Qty": "3.992",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92703-01-1",
+    "Qty": "3.388",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-01-2",
+    "Qty": "3.388",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-03-1",
+    "Qty": "0.608",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80006-01-6",
+    "Qty": "3.939",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-ME-50001-01-3",
+    "Qty": "3.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30019-01-1",
+    "Qty": "3.537",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80006-01-4",
+    "Qty": "3.763",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92703-01-1",
+    "Qty": "0.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-02-2",
+    "Qty": "0.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-N-90033-03-1",
+    "Qty": "0.641",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-N-90033-04-2",
+    "Qty": "0.641",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80001-01-2",
+    "Qty": "0.596",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-90004-02-3",
+    "Qty": "0.596",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MS-80005-02-4",
+    "Qty": "0.596",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MS-80005-01-4",
+    "Qty": "0.596",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80007-01-1",
+    "Qty": "0.575",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80017-01-2",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92703-01-1",
+    "Qty": "0.341",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MSC-80001-05-1",
+    "Qty": "0.298",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92703-02-2",
+    "Qty": "0.276",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MS-80005-01-4",
+    "Qty": "0.25",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-ME-50001-01-4",
+    "Qty": "3.505",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWS-90018-01-4",
+    "Qty": "3.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-90011-02-4",
+    "Qty": "3.354",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PW-90007-08-1",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-ME-90008-02-2",
+    "Qty": "0.224",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-ME-50001-01-1",
+    "Qty": "3.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-02-2",
+    "Qty": "2.836",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MS-80005-01-4",
+    "Qty": "2.644",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-90007-01-3",
+    "Qty": "2.595",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80059-01-4",
+    "Qty": "2.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-HS-80001-01-2",
+    "Qty": "2.293",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80006-01-2",
+    "Qty": "1.364",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80007-01-1",
+    "Qty": "2.258",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80006-01-2",
+    "Qty": "2.244",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-16002-01-1",
+    "Qty": "2.208",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80059-01-1",
+    "Qty": "2.204",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-30144-03-2",
+    "Qty": "2.196",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-17003-02-1",
+    "Qty": "0.173",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30005-02-2",
+    "Qty": "2.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80004-01-2",
+    "Qty": "1.979",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LSC-10201-03-1",
+    "Qty": "1.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-N-10051-02-2",
+    "Qty": "1.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-N-80002-01-1",
+    "Qty": "1.826",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-LS-92703-02-2",
+    "Qty": "1.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-MS-16002-01-1",
+    "Qty": "1.758",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80001-01-5",
+    "Qty": "1.753",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-02-2",
+    "Qty": "1.716",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80007-01-1",
+    "Qty": "1.549",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90016-01-2",
+    "Qty": "1.307",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-PW-90007-06-1",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80003-01-1",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80003-01-2",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-PA-90006-03-2",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80003-01-2",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80001-03-1",
+    "Qty": "0.828",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80006-01-1",
+    "Qty": "0.802",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-92701-01-2",
+    "Qty": "0.758",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80011-01-1",
+    "Qty": "0.758",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MS-80002-02-5",
+    "Qty": "0.75",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80004-01-2",
+    "Qty": "1.508",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80005-01-1",
+    "Qty": "1.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80059-01-1",
+    "Qty": "1.296",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80004-01-1",
+    "Qty": "1.273",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-01-1",
+    "Qty": "1.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80001-01-1",
+    "Qty": "1.196",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-01-2",
+    "Qty": "1.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-PA-92701-01-1",
+    "Qty": "0.654",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80003-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80006-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-WO-30019-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWS-90018-01-6",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-CWS-90018-01-5",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80001-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80023-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80001-03-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80017-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80009-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BMX-60014-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80011-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80001-03-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-P-10009-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-P-10009-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-N-80002-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-008",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-BFW-30005-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-ME-50001-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80057-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80011-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80002-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-N-80004-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80023-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80011-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80009-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-010",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-P-90282-03-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80057-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PW-80001-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MSC-80001-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80017-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-HSC-90003-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-011",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-LSC-90015-07-1",
+    "Qty": "11.431",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-N-80002-01-3",
+    "Qty": "11.288",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-007",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MS-80001-06-1",
+    "Qty": "0.156",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-02-1",
+    "Qty": "10.85",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80006-01-1",
+    "Qty": "0.596",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80021-01-1",
+    "Qty": "10.688",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-012",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-N-80004-01-1",
+    "Qty": "0.758",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-009",
+    "Ident Code": "M192809156",
+    "Spool No": "1R71-N-90001-03-4",
+    "Qty": "0.49",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-03-1",
+    "Qty": "0.896",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NA-30017-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WO-30019-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-P-90284-01-3",
+    "Qty": "0.819",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80002-01-1",
+    "Qty": "0.758",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-02-3",
+    "Qty": "0.696",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-PA-90180-01-1",
+    "Qty": "0.634",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80001-02-3",
+    "Qty": "0.504",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NA-30017-01-1",
+    "Qty": "0.308",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80057-01-1",
+    "Qty": "0.304",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-02-5",
+    "Qty": "0.271",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-03-4",
+    "Qty": "0.27",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-01-2",
+    "Qty": "8.376",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90197-01-1",
+    "Qty": "2.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80005-01-4",
+    "Qty": "0.291",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WO-30019-01-1",
+    "Qty": "7.422",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-02-2",
+    "Qty": "3.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80001-06-4",
+    "Qty": "0.554",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-PW-90195-01-1",
+    "Qty": "6.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-N-90180-01-1",
+    "Qty": "1.684",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80005-01-2",
+    "Qty": "1.603",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-02-3",
+    "Qty": "1.466",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90197-01-1",
+    "Qty": "0.407",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-PA-90180-01-1",
+    "Qty": "6.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-02-5",
+    "Qty": "5.296",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-N-90180-01-1",
+    "Qty": "6.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-03-4",
+    "Qty": "5.296",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30195-02-3",
+    "Qty": "5.859",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30195-01-2",
+    "Qty": "3.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30195-02-1",
+    "Qty": "1.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NAS-30001-01-4",
+    "Qty": "0.331",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-02-4",
+    "Qty": "5.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-P-90284-01-3",
+    "Qty": "2.396",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-30043-02-4",
+    "Qty": "1.37",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-PW-90195-01-1",
+    "Qty": "1.335",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30195-02-3",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-P-90289-02-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80002-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NA-30017-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-03-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80057-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-02-1",
+    "Qty": "10.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80069-01-3",
+    "Qty": "0.855",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80069-01-3",
+    "Qty": "0.211",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-02-5",
+    "Qty": "5.859",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30137-01-2",
+    "Qty": "1.785",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30137-02-1",
+    "Qty": "1.773",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30195-02-4",
+    "Qty": "1.431",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-02-5",
+    "Qty": "0.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30060-04-1",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-02-6",
+    "Qty": "1.431",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-91252-01-4",
+    "Qty": "1.429",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-BFW-30006-01-2",
+    "Qty": "1.185",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-BFW-30006-02-1",
+    "Qty": "1.172",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-02-1",
+    "Qty": "0.946",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-01-4",
+    "Qty": "0.946",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-01-2",
+    "Qty": "0.851",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-01-2",
+    "Qty": "0.578",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-04-1",
+    "Qty": "0.171",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-04-2",
+    "Qty": "0.171",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-91252-01-4",
+    "Qty": "0.158",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-91252-01-4",
+    "Qty": "0.158",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30060-04-2",
+    "Qty": "0.148",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-91252-01-4",
+    "Qty": "0.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-91252-01-4",
+    "Qty": "0.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MSC-80001-03-1",
+    "Qty": "9.611",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30005-01-2",
+    "Qty": "1.706",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-02-2",
+    "Qty": "0.098",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-QO-20045-01-1",
+    "Qty": "9.486",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30044-01-2",
+    "Qty": "1.785",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-QO-20045-01-1",
+    "Qty": "0.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-40002-02-2",
+    "Qty": "9.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MS-90016-01-2",
+    "Qty": "2.096",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NA-30017-01-2",
+    "Qty": "9.095",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-WW-30001-01-1",
+    "Qty": "2.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MS-90016-01-2",
+    "Qty": "8.996",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-01-2",
+    "Qty": "2.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-BFW-30006-01-1",
+    "Qty": "0.158",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30021-01-1",
+    "Qty": "8.958",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-02-2",
+    "Qty": "2.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30005-01-2",
+    "Qty": "0.209",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-01-1",
+    "Qty": "0.858",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30060-01-3",
+    "Qty": "0.851",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90197-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-WF-60020-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-01-3",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-40002-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MSC-80001-03-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-03-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-WO-30004-01-3",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-02-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-WW-30001-01-4",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-03-3",
+    "Qty": "0.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-02-3",
+    "Qty": "0.704",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-40002-01-2",
+    "Qty": "0.256",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30060-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30137-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30144-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-40002-01-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-03-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NA-20001-01-3",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30195-02-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-QO-20045-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30044-02-1",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-40002-02-1",
+    "Qty": "0.806",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80017-01-1",
+    "Qty": "0.796",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-02-3",
+    "Qty": "0.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-03-1",
+    "Qty": "0.258",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-01-1",
+    "Qty": "8.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-WW-30001-01-4",
+    "Qty": "2.99",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-03-1",
+    "Qty": "8.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-40002-02-3",
+    "Qty": "2.796",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30018-01-2",
+    "Qty": "0.267",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-P-90284-01-1",
+    "Qty": "8.321",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MS-90016-01-1",
+    "Qty": "2.679",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-WF-60020-02-2",
+    "Qty": "0.416",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-01-1",
+    "Qty": "7.436",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-40002-02-1",
+    "Qty": "3.745",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30005-01-1",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80069-01-2",
+    "Qty": "7.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80017-01-1",
+    "Qty": "3.716",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80069-01-1",
+    "Qty": "0.504",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MSC-80001-03-2",
+    "Qty": "7.046",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-WF-60020-02-2",
+    "Qty": "4.159",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30018-02-1",
+    "Qty": "0.196",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30044-01-1",
+    "Qty": "6.858",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30015-01-6",
+    "Qty": "4.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-03-2",
+    "Qty": "0.371",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-BFW-30006-01-1",
+    "Qty": "6.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90197-01-5",
+    "Qty": "3.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30005-01-1",
+    "Qty": "0.91",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-P-30111-01-1",
+    "Qty": "6.759",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-03-2",
+    "Qty": "3.196",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80004-02-2",
+    "Qty": "1.462",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-WF-60020-01-2",
+    "Qty": "6.676",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-02-2",
+    "Qty": "1.496",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-P-90284-01-1",
+    "Qty": "1.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-03-6",
+    "Qty": "1.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-01-4",
+    "Qty": "0.282",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-03-3",
+    "Qty": "5.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-90282-01-3",
+    "Qty": "5.556",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30195-01-1",
+    "Qty": "5.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-03-2",
+    "Qty": "5.336",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30060-03-1",
+    "Qty": "0.258",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-01-1",
+    "Qty": "5.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90197-01-6",
+    "Qty": "5.206",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-04-1",
+    "Qty": "0.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-P-90284-01-2",
+    "Qty": "5.096",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-N-90180-01-2",
+    "Qty": "5.006",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-03-3",
+    "Qty": "1.306",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-30043-02-1",
+    "Qty": "4.946",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-PA-90180-01-2",
+    "Qty": "4.836",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30018-01-2",
+    "Qty": "1.586",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-PW-90195-01-2",
+    "Qty": "4.666",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-02-2",
+    "Qty": "3.196",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30018-02-1",
+    "Qty": "3.054",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80017-01-1",
+    "Qty": "0.478",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-01-3",
+    "Qty": "2.596",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90197-01-4",
+    "Qty": "2.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-30043-02-3",
+    "Qty": "2.515",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30018-01-2",
+    "Qty": "2.504",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30060-01-1",
+    "Qty": "1.158",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80004-02-2",
+    "Qty": "2.413",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80069-01-1",
+    "Qty": "2.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-MSC-80001-03-1",
+    "Qty": "2.346",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80005-01-1",
+    "Qty": "2.196",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30044-02-1",
+    "Qty": "1.996",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-30043-02-2",
+    "Qty": "2.196",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-03-5",
+    "Qty": "2.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-01-4",
+    "Qty": "2.096",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30044-02-2",
+    "Qty": "1.773",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-03-2",
+    "Qty": "1.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30060-01-2",
+    "Qty": "1.358",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-02-1",
+    "Qty": "1.726",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-02-2",
+    "Qty": "1.726",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-03-3",
+    "Qty": "1.726",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-02-1",
+    "Qty": "1.716",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-02-2",
+    "Qty": "1.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-WF-60020-01-2",
+    "Qty": "1.559",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R11-LS-90011-01-4",
+    "Qty": "1.153",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30005-01-1",
+    "Qty": "1.516",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-03-3",
+    "Qty": "1.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-02-4",
+    "Qty": "1.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-03-5",
+    "Qty": "1.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30137-01-1",
+    "Qty": "1.408",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-03-6",
+    "Qty": "1.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-01-1",
+    "Qty": "1.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-P-90284-01-2",
+    "Qty": "1.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-01-1",
+    "Qty": "0.458",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NA-20001-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-WW-30001-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30005-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-02-4",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-03-4",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-QO-20045-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-WO-30004-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-03-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30144-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-QO-20045-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80017-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90197-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-30043-02-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-03-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MS-90016-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-02-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80023-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30195-02-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-PW-90002-01-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-04-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-03-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-DR-80004-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-WF-60020-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-40002-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-WW-30001-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-WO-30004-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30144-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NA-30022-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-03-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-PW-90002-02-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NA-20001-01-4",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LSC-80031-02-3",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-90282-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NA-30004-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-01-1",
+    "Qty": "1.111",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30195-01-1",
+    "Qty": "0.858",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R41-WO-30015-01-6",
+    "Qty": "0.858",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-01-1",
+    "Qty": "0.701",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-03-2",
+    "Qty": "0.696",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-N-30043-02-1",
+    "Qty": "0.695",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80017-02-3",
+    "Qty": "0.686",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80011-02-1",
+    "Qty": "0.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-LS-80069-01-2",
+    "Qty": "0.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-WF-60020-02-2",
+    "Qty": "0.587",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30060-01-2",
+    "Qty": "0.578",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80023-01-3",
+    "Qty": "0.578",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-01-2",
+    "Qty": "0.573",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30018-02-1",
+    "Qty": "0.498",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-VOC-30016-01-1",
+    "Qty": "0.245",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30060-03-2",
+    "Qty": "1.108",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-03-2",
+    "Qty": "1.108",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30194-02-3",
+    "Qty": "1.098",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-LS-90197-01-6",
+    "Qty": "1.046",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-01-1",
+    "Qty": "0.958",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-QO-20045-01-2",
+    "Qty": "0.956",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-WW-30001-01-1",
+    "Qty": "0.946",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-WO-30005-01-2",
+    "Qty": "0.908",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-WF-80026-01-3",
+    "Qty": "0.871",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-NA-30022-01-1",
+    "Qty": "0.858",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30044-02-1",
+    "Qty": "0.858",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R51-P-30111-01-1",
+    "Qty": "0.458",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-01-2",
+    "Qty": "10.782",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-BFW-30006-01-1",
+    "Qty": "0.558",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30060-03-1",
+    "Qty": "0.073",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-WO-30004-01-2",
+    "Qty": "10.184",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30137-01-1",
+    "Qty": "1.158",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-P-30061-03-1",
+    "Qty": "0.073",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-P-90289-01-3",
+    "Qty": "9.796",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-P-20006-01-2",
+    "Qty": "1.621",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-PW-90002-01-1",
+    "Qty": "9.69",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-02-3",
+    "Qty": "1.446",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-20013-04-2",
+    "Qty": "0.279",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-20013-04-1",
+    "Qty": "7.685",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-P-20008-01-1",
+    "Qty": "2.296",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-P-20006-01-2",
+    "Qty": "1.432",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-P-90289-01-1",
+    "Qty": "7.386",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-BMX-60014-01-2",
+    "Qty": "2.144",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-NA-20001-01-1",
+    "Qty": "1.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-91252-01-2",
+    "Qty": "5.396",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-91252-01-3",
+    "Qty": "4.646",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-91252-01-1",
+    "Qty": "1.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-PW-90002-02-3",
+    "Qty": "4.091",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-PW-90002-01-1",
+    "Qty": "1.806",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R31-MSC-90016-02-3",
+    "Qty": "1.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-P-90289-01-3",
+    "Qty": "1.246",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-P-90289-01-1",
+    "Qty": "1.108",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-BMX-60014-01-1",
+    "Qty": "1.046",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-P-20006-01-1",
+    "Qty": "0.746",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-PW-90002-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-P-90289-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-NA-20001-01-2",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-P-20008-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-P-20006-01-1",
+    "Qty": "11.5",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-P-20006-01-3",
+    "Qty": "1.031",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-P-90289-01-2",
+    "Qty": "0.846",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-PW-90006-01-3",
+    "Qty": "0.831",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-NA-20001-01-1",
+    "Qty": "0.796",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-91252-01-2",
+    "Qty": "0.796",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-20013-04-1",
+    "Qty": "0.694",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-20013-04-2",
+    "Qty": "0.452",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-P-20006-01-2",
+    "Qty": "0.434",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R61-BMX-60014-01-1",
+    "Qty": "10.45",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-20013-04-1",
+    "Qty": "0.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "Batch-013",
+    "Ident Code": "M192809156",
+    "Spool No": "1R21-MS-91252-01-1",
+    "Qty": "0.304",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80030-01-3 ",
+    "Qty": "8.066",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80032-01-1 ",
+    "Qty": "0.358",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80030-01-2 ",
+    "Qty": "2.546",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80060-02-1 ",
+    "Qty": "1.066",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80030-01-4 ",
+    "Qty": "1.384",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80032-01-2 ",
+    "Qty": "1.371",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80030-01-2 ",
+    "Qty": "1.096",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-PA-80060-02-1 ",
+    "Qty": "0.596",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80032-01-4 ",
+    "Qty": "0.213",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80030-01-6 ",
+    "Qty": "0.213",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80032-01-3 ",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80030-01-5 ",
+    "Qty": "0.198",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80030-01-3 ",
+    "Qty": "0.146",
+    "Found": "Founded"
+  },
+  {
+    "Batch No": "",
+    "Ident Code": "M192809156",
+    "Spool No": "1R81-FO-80030-01-1 ",
+    "Qty": "11.5",
+    "Found": "Founded"
+  }
+]
