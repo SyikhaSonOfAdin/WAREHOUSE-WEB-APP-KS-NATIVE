@@ -8,7 +8,7 @@ $ic = $_POST["ic"];
 
 if ($_SERVER["REQUEST_METHOD"] === 'POST') {
     if ($p == 'reservation') {
-        $table = "data_mir";
+        $table = "data_mir_kine";
         $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
         $conn = conn();
     
@@ -40,7 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
             '</table>';
         echo $data;
     } else if ($p == 'receive') {
-        $table = "material_receive_hein";
+        $table = "material_receive_kine";
         $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
         $conn = conn();
     
@@ -75,7 +75,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
             '</table>';
         echo $data;
     } else if ($p == 'issued') {
-        $table = "material_used_hein";
+        $table = "material_used_kine";
         $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
         $conn = conn();
     
@@ -114,16 +114,16 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
             '</table>';
         echo $data;
     } else if ($p == 'stock') {
-        $table = "data_mir";
+        $table = "data_mir_kine";
         $query = "SELECT * FROM $table WHERE IDENT_CODE = '$ic'";
         $conn = conn();
         $resultData = mysqli_query($conn, $query);
     
         $tempData = [];
     
-        $table1 = "material_used_hein";
+        $table1 = "material_used_kine";
         $query1 = "SELECT * FROM $table1 WHERE IDENT_CODE = '$ic'";
-        $conn1 = conn(1);
+        $conn1 = conn();
         $resultUsed = mysqli_query($conn1, $query1);
     
         while ($rowData = mysqli_fetch_assoc($resultData)) {
@@ -271,8 +271,8 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
         ] ;
 
         $reservation = [] ;
-        $reservationTable = 'data_mir' ;
-        $reservationConn = conn($user, $pass, $db, $reservationTable) ;
+        $reservationTable = 'data_mir_kine' ;
+        $reservationConn = conn() ;
         $reservationQuery = "SELECT * FROM $reservationTable WHERE IDENT_CODE = '$ic'" ;
         $reservationResult = mysqli_query($reservationConn, $reservationQuery) ;
         while ($reservationData = mysqli_fetch_assoc($reservationResult)) {
@@ -285,7 +285,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
 
         $receive = [] ;
         $receiveTable = 'material_receive_hein' ;
-        $receiveConn = conn($user, $pass, $db, $receiveTable) ;
+        $receiveConn = conn() ;
         $receiveQuery = "SELECT * FROM $receiveTable WHERE IDENT_CODE = '$ic'" ;
         $receiveResult = mysqli_query($receiveConn, $receiveQuery) ;
         while ($receiveData = mysqli_fetch_assoc($receiveResult)) {

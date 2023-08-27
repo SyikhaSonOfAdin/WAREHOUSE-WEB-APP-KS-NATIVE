@@ -1,10 +1,7 @@
 <?php
 require '../function.php';
-$host = 'localhost';
-$db = 'kokohsemesta';
-$user = 'root';
-$password = '';
-$mysqli = conn($user, $password, $db, "material");
+
+$mysqli = conn();
 
 require '../vendor/autoload.php'; // Lokasi file autoload.php dari library PhpSpreadsheet
 
@@ -12,8 +9,8 @@ use PhpOffice\PhpSpreadsheet\IOFactory;
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Pastikan file Excel telah terunggah
-    // mysqli_query($mysqli, "DELETE FROM material") ;
-    $db = 'material';
+    // mysqli_query($mysqli, "DELETE FROM material_kine") ;
+    $db = 'material_kine';
     if (isset($_FILES['excelFile']) && $_FILES['excelFile']['error'] === UPLOAD_ERR_OK) {
         $excelFilePath = $_FILES['excelFile']['tmp_name'];
         $targetDir = "uploaded/Warehouse/";

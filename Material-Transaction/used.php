@@ -12,14 +12,12 @@ if (isset($_SESSION["login"]) == "true") {
 }
 
 require '../function.php';
-$user = "root";
-$pass = "";
-$db = "kokohsemesta";
-$table = "material_used_hein";
+
+$table = "material_used_kine";
 
 $limit = 50;
 
-$connection = conn($user, $pass, $db, $table);
+$connection = conn();
 
 $get_allData = mysqli_query($connection, "SELECT * FROM $table");
 $totalData = mysqli_num_rows($get_allData);
@@ -62,7 +60,7 @@ if (isset($_POST["search"])) {
       <div id="title">
         <img src="../Assets/Logo_single.png" alt="Kokoh Semesta" />
         <h1>KOKOH SEMESTA :</h1>
-        <h1>HEIN PROJECT</h1>
+        <h1>KINE PROJECT</h1>
       </div>
       <a href="../login.php" id="login"
         class="text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-neutral-100 rounded">

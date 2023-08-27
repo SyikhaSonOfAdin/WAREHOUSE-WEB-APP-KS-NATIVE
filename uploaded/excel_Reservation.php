@@ -1,24 +1,21 @@
 <?php
 require '../function.php';
-$host = 'localhost';
-$db = 'kokohsemesta';
-$user = 'root';
-$password = '';
-$mysqli = conn($user, $password, $db, "data_mir");
+
+$mysqli = conn();
 
 require '../vendor/autoload.php'; // Lokasi file autoload.php dari library PhpSpreadsheet
 
 use PhpOffice\PhpSpreadsheet\IOFactory;
 
-$getAllData = "SELECT * FROM data_mir" ;
+$getAllData = "SELECT * FROM data_mir_kine" ;
 $result = mysqli_query($mysqli, $getAllData) ;
 if( mysqli_num_rows($result) > 0 ) {
-    $query = "DELETE FROM data_mir" ;
+    $query = "DELETE FROM data_mir_kine" ;
     mysqli_query($mysqli, $query) ;
 
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // Pastikan file Excel telah terunggah
-        $db = "data_mir";
+        $db = "data_mir_kine";
         if (isset($_FILES['excelFile']) && $_FILES['excelFile']['error'] === UPLOAD_ERR_OK) {
             $excelFilePath = $_FILES['excelFile']['tmp_name'];
             $targetDir = "Reservation/";
@@ -88,7 +85,7 @@ if( mysqli_num_rows($result) > 0 ) {
 } else {
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // Pastikan file Excel telah terunggah
-        $db = "data_mir";
+        $db = "data_mir_kine";
         if (isset($_FILES['excelFile']) && $_FILES['excelFile']['error'] === UPLOAD_ERR_OK) {
             $excelFilePath = $_FILES['excelFile']['tmp_name'];
             $targetDir = "Reservation/";

@@ -1,7 +1,7 @@
 <?php
 require '../../function.php';
 
-$table = "data_mir";
+$table = "data_mir_kine";
 
 $connection = conn();
 // Dapatkan nilai selectedValue dari JavaScript

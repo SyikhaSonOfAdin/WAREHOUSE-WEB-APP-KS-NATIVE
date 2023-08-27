@@ -11,24 +11,24 @@ $counter = 0;
 
 
 // MATERIAL GET DATA PROCESS 
-$conn_material = conn($user, $pass, $db, 'material');
-$queryMaterial = "SELECT * FROM material";
+$conn_material = conn();
+$queryMaterial = "SELECT * FROM material_kine";
 $material = mysqli_query($conn_material, $queryMaterial);
 
 
 
 
 // RECEIVE GET DATA PROCESS
-$conn_receive = conn($user, $pass, $db, 'material_receive_hein');
-$queryReceive = "SELECT * FROM material_receive_hein";
+$conn_receive = conn();
+$queryReceive = "SELECT * FROM material_receive_kine";
 $receive = mysqli_query($conn_receive, $queryReceive);
 
 
 
 
 // ISSUED GET DATA PROCESS
-$conn_issued = conn($user, $pass, $db, 'material_used_hein');
-$queryIssued = "SELECT * FROM material_used_hein";
+$conn_issued = conn();
+$queryIssued = "SELECT * FROM material_used_kine";
 $issued = mysqli_query($conn_issued, $queryIssued);
 
 
@@ -67,7 +67,7 @@ foreach ( $data as &$item ) {
 foreach ( $data as $item ) {
     $stock = $item["Stock"] ;
     $identCode = $item["Ident Code"] ;
-    $queryUpdate = "UPDATE material SET stock = '$stock' WHERE IDENT_CODE = '$identCode'" ;
+    $queryUpdate = "UPDATE material_kine SET stock = '$stock' WHERE IDENT_CODE = '$identCode'" ;
     mysqli_query($conn_material, $queryUpdate) ;
 }
 

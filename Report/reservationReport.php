@@ -17,7 +17,7 @@ if ($connection->connect_error) {
 }
 
 // Query data dari tabel MySQL
-$queryWSpool = "SELECT * FROM data_mir";
+$queryWSpool = "SELECT * FROM data_mir_kine";
 $result = $connection->query($queryWSpool);
 
 $date = date('Y-m-d');

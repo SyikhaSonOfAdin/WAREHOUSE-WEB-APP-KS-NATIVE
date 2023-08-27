@@ -9,7 +9,7 @@ $data = 0 ;
 
 
 // GET BM QTY
-$table = "data_mir";
+$table = "data_mir_kine";
 
 $connection = conn();
 
@@ -25,7 +25,7 @@ while ($bm = mysqli_fetch_assoc($result)) {
 
 
 // MINUS RECEIVED DATA
-$table = "material_receive_hein" ;
+$table = "material_receive_kine" ;
 
 $connection = conn();
 

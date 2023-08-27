@@ -18,7 +18,7 @@ $false = "Password yang anda masukkan salah!" ;
 
 if (isset($_POST["email"])) {
   $search = $_POST["email"];
-  $query = "SELECT * FROM login WHERE email = '$search'";
+  $query = "SELECT * FROM login_kine WHERE email = '$search'";
   $result = mysqli_query($conn, $query);
 
   if ($result !== false) {

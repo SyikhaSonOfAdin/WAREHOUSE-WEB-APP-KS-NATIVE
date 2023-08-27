@@ -2,7 +2,7 @@
 
 require '../../function.php';
 
-$table = "material_receive_hein";
+$table = "material_receive_kine";
 
 $connection = conn();
 
@@ -15,7 +15,7 @@ $final = mysqli_fetch_assoc($result) ;
 $qty = $final["qty"] ;
 $identCode = $final["IDENT_CODE"] ;
 
-$query = "UPDATE material SET stock = stock - $qty WHERE IDENT_CODE = '$identCode'" ;
+$query = "UPDATE material_kine SET stock = stock - $qty WHERE IDENT_CODE = '$identCode'" ;
 $result = mysqli_query($connection, $query);
 
 $query = "DELETE FROM $table WHERE id = $indexOf";

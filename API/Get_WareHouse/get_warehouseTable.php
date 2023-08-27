@@ -1,9 +1,9 @@
 <?php
 require '../../function.php';
-$get_material = selectAll("material");
-$get_MIR = selectAll("data_mir");
-$receive = selectAll("material_receive_hein");
-$issued = selectAll("material_used_hein");
+$get_material = selectAll("material_kine");
+$get_MIR = selectAll("data_mir_kine");
+$receive = selectAll("material_receive_kine");
+$issued = selectAll("material_used_kine");
 
 $limit = 15;
 $dataIC = []; // Inisialisasi variabel $dataIC sebagai array kosong
@@ -12,7 +12,7 @@ $i = 0;
 
 
 // SEARCHING MECHANISM
-$db = "material";
+$db = "material_kine";
 if ($_POST["search"] != '') {
     $search = $_POST["search"];
     $based_on = $_POST["based_on"];
@@ -24,13 +24,13 @@ if ($_POST["search"] != '') {
         $query = "SELECT * FROM `$db` WHERE `$based_on` LIKE '%$search%'";
         $get_material = mysqli_query(conn(), $query);
 
-        $query = "SELECT * FROM data_mir";
+        $query = "SELECT * FROM data_mir_kine";
         $get_MIR = mysqli_query(conn(), $query);
 
-        $query = "SELECT * FROM material_receive_hein";
+        $query = "SELECT * FROM material_receive_kine";
         $receive = mysqli_query(conn(), $query);
 
-        $query = "SELECT * FROM material_used_hein";
+        $query = "SELECT * FROM material_used_kine";
         $issued = mysqli_query(conn(), $query);
 
         while ($data = mysqli_fetch_assoc($get_material)) {
@@ -99,13 +99,13 @@ if ($_POST["search"] != '') {
         $query = "SELECT * FROM `$db` WHERE `$based_on` LIKE '%$search%'";
         $get_material = mysqli_query(conn(), $query);
 
-        $query = "SELECT * FROM data_mir";
+        $query = "SELECT * FROM data_mir_kine";
         $get_MIR = mysqli_query(conn(), $query);
 
-        $query = "SELECT * FROM material_receive_hein";
+        $query = "SELECT * FROM material_receive_kine";
         $receive = mysqli_query(conn(), $query);
 
-        $query = "SELECT * FROM material_used_hein";
+        $query = "SELECT * FROM material_used_kine";
         $issued = mysqli_query(conn(), $query);
 
         while ($data = mysqli_fetch_assoc($get_material)) {
@@ -169,7 +169,7 @@ if ($_POST["search"] != '') {
         echo $table;
     }
 } else {
-    $query = "SELECT * FROM material LIMIT $limit";
+    $query = "SELECT * FROM material_kine LIMIT $limit";
     $connMaterial = conn();
     $get_material = mysqli_query($connMaterial, $query);
     while ($data = mysqli_fetch_assoc($get_material)) {

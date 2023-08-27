@@ -1,7 +1,7 @@
 <?php
 require '../../function.php';
 
-$tableName = "data_mir";
+$tableName = "data_mir_kine";
 
 $connection = conn();
 

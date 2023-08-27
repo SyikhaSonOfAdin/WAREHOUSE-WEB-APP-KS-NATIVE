@@ -2,7 +2,7 @@
 session_start() ;
 require '../../function.php' ;
 
-$table = 'material_receive_hein' ;
+$table = 'material_receive_kine' ;
 $connection = conn() ;
 $response = '' ;
 

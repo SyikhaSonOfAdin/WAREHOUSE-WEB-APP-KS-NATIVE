@@ -1,7 +1,7 @@
 <?php
 require '../../function.php';
 
-$table = "material";
+$table = "material_kine";
 
 $connection = conn();
 
@@ -12,7 +12,7 @@ $selectedMir = $_POST["selectedMir"];
 $selectedSpool = $_POST["selectedSpool"];
 
 if ( isset($_POST["GetReal_Quantity"]) == "active") {
-    $table = "data_mir";
+    $table = "data_mir_kine";
     $connection = conn();
     $query = "SELECT * FROM $table WHERE IDENT_CODE = '$selectedIdentCode' AND batch = '$selectedMir' AND spool = '$selectedSpool'";
     $result = mysqli_query($connection, $query);
@@ -23,7 +23,7 @@ if ( isset($_POST["GetReal_Quantity"]) == "active") {
         $data += $bmQty["bm_qty"]; // Menggunakan operator += untuk penjumlahan
     }
 
-    $table = "material_used_hein";
+    $table = "material_used_kine";
     $connection = conn();
     $query = "SELECT * FROM $table WHERE IDENT_CODE = '$selectedIdentCode' AND mir = '$selectedMir' AND spool = '$selectedSpool'";
     $result = mysqli_query($connection, $query);

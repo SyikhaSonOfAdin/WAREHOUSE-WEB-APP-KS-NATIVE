@@ -1,7 +1,7 @@
 <?php
 require '../../function.php';
 
-$table = "material";
+$table = "material_kine";
 
 $connection = conn();
 // Dapatkan nilai selectedValue dari JavaScript

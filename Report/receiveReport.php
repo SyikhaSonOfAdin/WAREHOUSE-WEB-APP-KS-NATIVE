@@ -17,7 +17,7 @@ if ($connection->connect_error) {
 }
 
 // Query data dari tabel MySQL
-$query = "SELECT IDENT_CODE, mir, qty, tanggal, uploader, surat_jalan, area FROM material_receive_hein";
+$query = "SELECT IDENT_CODE, mir, qty, tanggal, uploader, surat_jalan, area FROM material_receive_kine";
 $result = $connection->query($query);
 
 $date = date('Y-m-d');

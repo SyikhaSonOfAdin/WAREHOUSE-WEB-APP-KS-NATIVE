@@ -1,8 +1,8 @@
 <?php 
 require '../../function.php';
 
-$table1 = "data_mir";
-$table2 = "material_used_hein";
+$table1 = "data_mir_kine";
+$table2 = "material_used_kine";
 
 $query = "SELECT * FROM $table1";
 $conn = conn();

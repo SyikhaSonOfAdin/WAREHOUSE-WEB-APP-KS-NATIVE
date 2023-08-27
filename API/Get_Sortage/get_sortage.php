@@ -1,15 +1,15 @@
 <?php
 require '../../function.php';
 
-$table1 = "data_mir";
-$table2 = "material_receive_hein";
+$table1 = "data_mir_kine";
+$table2 = "material_receive_kine";
 
 $search = $_POST["what"] ;
 $based = $_POST["based"] ;
 
 if ($search != '' && $based != '') {
 
-    // Mengambil data dari tabel "data_mir"
+    // Mengambil data dari tabel "data_mir_kine"
     $queryMir = "SELECT * FROM $table1 WHERE $based LIKE '%$search%' " ;
     $connMir = conn() ;
     $dataMir = mysqli_query($connMir, $queryMir) ;
@@ -97,7 +97,7 @@ if ($search != '' && $based != '') {
         '</table>';
     echo $view;
 } else {
-    // Mengambil data dari tabel "data_mir"
+    // Mengambil data dari tabel "data_mir_kine"
     $dataMir = selectAll($table1);
 
     $mir = [];

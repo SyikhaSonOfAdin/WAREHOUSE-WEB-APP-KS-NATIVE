@@ -6,10 +6,10 @@ use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 
 
-$table1 = "data_mir";
-$table2 = "material_receive_hein";
+$table1 = "data_mir_kine";
+$table2 = "material_receive_kine";
 
-// Mengambil data dari tabel "data_mir"
+// Mengambil data dari tabel "data_mir_kine"
 $dataMir = selectAll($table1);
 
 $mir = [];

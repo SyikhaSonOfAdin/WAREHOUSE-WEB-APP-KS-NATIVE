@@ -1,18 +1,15 @@
 <?php
 session_start() ;
 require '../function.php';
-$host = 'localhost';
-$db = 'kokohsemesta';
-$user = 'root';
-$password = '';
-$mysqli = conn($user, $password, $db, "material_used_hein");
-$mysqliUpdate = conn($user, $password, $db, "material");
+
+$mysqli = conn();
+$mysqliUpdate = conn();
 
 require '../vendor/autoload.php'; // Lokasi file autoload.php dari library PhpSpreadsheet
 
 use PhpOffice\PhpSpreadsheet\IOFactory;
 
-$query = "SELECT * FROM material_used_hein";
+$query = "SELECT * FROM material_used_kine";
 $result = $mysqli->query($query);
 
 if (mysqli_num_rows($result) > 0) {
@@ -24,12 +21,12 @@ if (mysqli_num_rows($result) > 0) {
         // $updateQuery = "UPDATE material SET stock = stock + $qty WHERE IDENT_CODE = '$identCode'";
         // mysqli_query($mysqliUpdate, $updateQuery);
 
-        // $deleteQuery = "DELETE FROM material_used_hein WHERE id = $id";
+        // $deleteQuery = "DELETE FROM material_used_kine WHERE id = $id";
         // mysqli_query($mysqli, $deleteQuery);
     }
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // Pastikan file Excel telah terunggah
-        $db = "material_used_hein";
+        $db = "material_used_kine";
         if (isset($_FILES['excelFile']) && $_FILES['excelFile']['error'] === UPLOAD_ERR_OK) {
             $excelFilePath = $_FILES['excelFile']['tmp_name'];
             $targetDir = "Issued/";
@@ -106,7 +103,7 @@ if (mysqli_num_rows($result) > 0) {
 } else {
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // Pastikan file Excel telah terunggah
-        $db = "material_used_hein";
+        $db = "material_used_kine";
         if (isset($_FILES['excelFile']) && $_FILES['excelFile']['error'] === UPLOAD_ERR_OK) {
             $excelFilePath = $_FILES['excelFile']['tmp_name'];
             $targetDir = "Issued/";

@@ -1,11 +1,9 @@
 <?php
 require '../function.php';
-$user = 'root' ;
-$pass = '' ;
-$db = 'kokohsemesta' ;
-$table = 'material_receive_hein';
 
-$conn = conn($user, $pass, $db, $table) ;
+$table = 'material_receive_kine';
+
+$conn = conn() ;
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['image'])) {
     $targetDir = 'Receive/Images/';
@@ -15,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['image'])) {
 
     $targetFile = $targetDir . $image_id;
 
-    $query = "UPDATE material_receive_hein SET image_id = '$image_id' WHERE id = '$id'" ;
+    $query = "UPDATE material_receive_kine SET image_id = '$image_id' WHERE id = '$id'" ;
     $execute = mysqli_query($conn, $query) ;
     
     // Pindahkan file ke direktori tujuan

@@ -1,10 +1,10 @@
 <?php
 require '../../function.php';
 
-$table = "material_receive_hein";
-$table2 = "material_used_hein";
-$table3 = "data_mir" ;
-$table4 = "material" ;
+$table = "material_receive_kine";
+$table2 = "material_used_kine";
+$table3 = "data_mir_kine" ;
+$table4 = "material_kine" ;
 
 $search = $_POST["what"];
 $based = $_POST["based"];
@@ -21,8 +21,8 @@ $result2 = mysqli_query($connIssued, $queryIssued);
 if ($_SERVER["REQUEST_METHOD"] === 'POST') {
   if ($search != '') {
     if ($based == "IDENT_CODE") {
-      $query = "SELECT * FROM material WHERE IDENT_CODE LIKE '%$search%'";
-      $connection = conn($user, $pass, $db, 'material');
+      $query = "SELECT * FROM material_kine WHERE IDENT_CODE LIKE '%$search%'";
+      $connection = conn();
       $materialData = mysqli_query($connection, $query);
   
       $temp = [];
@@ -177,18 +177,18 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
       $issued = [] ;
       
       $queryMir = "SELECT DISTINCT spool FROM $table3 WHERE spool LIKE '%$search%'";
-      $connMir = conn(3);
+      $connMir = conn();
       $materialData = mysqli_query($connMir, $queryMir);
   
       $queryRaw = "SELECT * FROM $table3 WHERE spool LIKE '%$search%'";
-      $connRaw = conn(3);
+      $connRaw = conn();
       $allMir = mysqli_query($connRaw, $queryRaw);
   
-      $warehouse = selectAll(4) ;
-      $allDataReservation = selectAll(3) ;
+      $warehouse = selectAll('material_kine') ;
+      $allDataReservation = selectAll('data_mir_kine') ;
   
       $queryIssued = "SELECT * FROM $table2 WHERE spool LIKE '%$search%'";
-      $connIssued = conn(2);
+      $connIssued = conn();
       $issuedRawData = mysqli_query($connIssued, $queryIssued);
   
   
@@ -426,8 +426,8 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
     }
   } else {
   
-    $query = "SELECT * FROM material";
-    $connection = conn($user, $pass, $db, 'material');
+    $query = "SELECT * FROM material_kine";
+    $connection = conn();
     $materialData = mysqli_query($connection, $query);
   
     $temp = [];

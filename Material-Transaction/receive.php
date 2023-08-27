@@ -12,9 +12,7 @@ if (isset($_SESSION["login"]) == "true") {
 }
 
 require '../function.php';
-$user = "root";
-$pass = "";
-$db = "kokohsemesta";
+
 $table = "material_receive_hein";
 
 
@@ -43,7 +41,7 @@ $table = "material_receive_hein";
       <div id="title">
         <img src="../Assets/Logo_single.png" alt="Kokoh Semesta" />
         <h1>KOKOH SEMESTA :</h1>
-        <h1>HEIN PROJECT</h1>
+        <h1>KINE PROJECT</h1>
       </div>
       <a href="../login.php" id="login"
         class="text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-neutral-100 rounded">

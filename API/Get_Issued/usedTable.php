@@ -2,7 +2,7 @@
 
 require '../../function.php';
 
-$table = "material_used_hein";
+$table = "material_used_kine";
 
 $connection = conn();
 
