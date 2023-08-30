@@ -178,9 +178,11 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
       
       $queryMir = "SELECT DISTINCT spool FROM $table3 WHERE spool LIKE '%$search%'";
       $connMir = conn();
+      $connMir = conn();
       $materialData = mysqli_query($connMir, $queryMir);
   
       $queryRaw = "SELECT * FROM $table3 WHERE spool LIKE '%$search%'";
+      $connRaw = conn();
       $connRaw = conn();
       $allMir = mysqli_query($connRaw, $queryRaw);
   
@@ -188,6 +190,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
       $allDataReservation = selectAll('data_mir_kine') ;
   
       $queryIssued = "SELECT * FROM $table2 WHERE spool LIKE '%$search%'";
+      $connIssued = conn();
       $connIssued = conn();
       $issuedRawData = mysqli_query($connIssued, $queryIssued);
   

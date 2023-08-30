@@ -13,28 +13,6 @@ if (isset($_SESSION["login"]) == "true") {
 
 require '../function.php';
 
-$table = "material_used_kine";
-
-$limit = 50;
-
-$connection = conn();
-
-$get_allData = mysqli_query($connection, "SELECT * FROM $table");
-$totalData = mysqli_num_rows($get_allData);
-$totalPage = ceil($totalData / $limit);
-$activePage = (isset($_GET["page"])) ? $_GET["page"] : 1;
-$dataView = ($limit * $activePage) - $limit;
-
-$query = "SELECT * FROM `$table` ORDER BY date DESC LIMIT $dataView, $limit";
-$result = mysqli_query($connection, $query);
-
-if (isset($_POST["search"])) {
-  $search = $_POST["search"];
-  $based_on = $_POST["based_on"];
-  $query = "SELECT * FROM `$table` WHERE `$based_on` LIKE '%$search%'";
-  $result = mysqli_query($connection, $query);
-}
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -78,7 +56,7 @@ if (isset($_POST["search"])) {
       class="block mx-2 w-full rounded-md border-0 py-1.5 pl-7 pr-20 text-gray-400 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:outline-0 focus:ring-inset focus:ring-2 focus:ring-[#2E3192] sm:text-sm sm:leading-6"
         placeholder="Search by" />
       <div class="absolute inset-y-0 right-0 flex items-center">
-        <select name="based_on"
+        <select name="based_on" id="based_on"
           class="h-full rounded-md border-0 bg-transparent py-0 pl-2 pr-7 text-gray-500 focus:outline-0 focus:ring-inset focus:ring-2 focus:ring-[#2E3192] sm:text-sm">
           <option value="IDENT_CODE">IDENT CODE</option>
           <option value="mir">MIR No</option>
@@ -124,75 +102,11 @@ if (isset($_POST["search"])) {
     </div>
   </div>
   <div id="table" class="flex justify-center sm:flex-col lg:flex-row">
-    <div class="relative overflow-x-auto shadow-md mx-2 my-4 sm:rounded-lg bg-white flex-grow">
-      <table class="w-full text-sm text-left text-gray-500">
-        <thead class="text-xs text-gray-700 uppercase bg-gray-50">
-          <tr>
-            <th scope="col" class="px-6 py-3">Ident Code</th>
-            <th scope="col" class="px-6 py-3">MIR No</th>
-            <th scope="col" class="px-6 py-3">Spool</th>
-            <th scope="col" class="px-6 py-3">Quantity</th>
-            <th scope="col" class="px-6 py-3">Date</th>
-            <th scope="col" class="px-6 py-3">fitter</th>
-            <th scope="col" class="px-6 py-3">By</th>
-            <?php if ($parameter != "helper"): ?>
-              <th scope="col" class="px-6 py-3">Action</th>
-            <?php endif; ?>
-          </tr>
-        </thead>
-        <tbody id="usedTable">
-          <?php while ($mhs = mysqli_fetch_assoc($result)): ?>
-            <tr class="bg-white border-b">
-              <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-gray-500">
-                <?php echo $mhs["IDENT_CODE"]; ?>
-              </th>
-              <td class="px-6 py-4">
-                <?php echo $mhs["mir"]; ?>
-              </td>
-              <td class="px-6 py-4">
-                <?php echo $mhs["spool"]; ?>
-              </td>
-              <td class="px-6 py-4">
-                <?php echo $mhs["qty"]; ?>
-              </td>
-              <td class="px-6 py-4">
-                <?php echo $mhs["date"]; ?>
-              </td>
-              <td class="px-6 py-4">
-                <?php echo $mhs["uploader"]; ?>
-              </td>
-              <td class="px-6 py-4">
-                <?php echo $mhs["bywho"]; ?>
-              </td>
-              <?php if ($parameter != "helper"): ?>
-                <td class="px-6 py-4">
-                  <input type="text" name="changeIndex" value="<?php echo $mhs["id"] ?>" class="hidden" id="changeIndex">
-                  <button name="changeIndexButton" onclick="editButton(event)"
-                    class="w-max border rounded-2xl font-semibold text-sm py-1 px-3 hover:bg-red-500 hover:text-white hover:border-red-500 transition-all duration-200">Delete</button>
-                </td>
-              <?php endif; ?>
-
-            </tr>
-          <?php endwhile; ?>
-        </tbody>
-      </table>
+    <div id="usedTable" class="relative overflow-x-auto shadow-md mx-2 my-4 sm:rounded-lg bg-white flex-grow">
+      
     </div>
   </div>
-  <div class="flex justify-between w-[25%] mt-3 md:w-[15%]">
-    <div class="flex w-full justify-between">
-      <?php if ($activePage != 1): ?>
-        <a href="?page=<?php echo $activePage - 1 ?>" class="font-black text-2xl text-gray-500">&lt;</a>
-      <?php endif; ?>
-      <div class="font-black text-xl text-white w-10 text-center bg-[#2E3192] rounded-md">
-        <?php echo $activePage ?>
-      </div>
-      <?php if (mysqli_num_rows($get_allData) > 50): ?>
-        <?php if ($activePage != $totalPage): ?>
-          <a href="?page=<?php echo $activePage + 1 ?>" class="font-black text-2xl text-gray-500">&gt;</a>
-        <?php endif; ?>
-      <?php endif; ?>
-    </div>
-  </div>
+  
 
   <div id="footer">
     <h3 class="text-center">

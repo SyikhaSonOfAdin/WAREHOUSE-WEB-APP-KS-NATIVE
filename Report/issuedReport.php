@@ -6,9 +6,9 @@ use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 
 // Koneksi ke database MySQL
 $host = 'localhost';
-$db = 'syih2943_kokohsemesta';
-$user = 'syih2943_admin';
-$password = 'syikhaakmal19';
+$user = 'syih2943_admin' ;
+$password = 'syikhaakmal19' ;
+$db = 'syih2943_kokohsemesta' ;
 
 $connection = new mysqli($host, $user, $password, $db);
 

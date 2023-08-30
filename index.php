@@ -90,16 +90,16 @@ if (isset($_SESSION["login"]) == "true") {
         <h1>download data</h1>
       </button>
       <?php if ($parameter == "manager" || $parameter == "developer"): ?>
-        <a class="text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-[#2E3192] hover:text-white rounded"
-          href="./optimize.php">
-          optimize stock
-        </a>
+            <a class="text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-[#2E3192] hover:text-white rounded"
+              href="./optimize.php">
+              optimize stock
+            </a>
       <?php endif; ?>
       <?php if ($parameter == "manager" || $parameter == "developer"): ?>
-        <button onclick="trigger()" id="modalButton"
-          class="<?php echo $display ?> text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-[#2E3192] hover:text-white rounded">
-          upload
-        </button>
+            <button onclick="trigger()" id="modalButton"
+              class="<?php echo $display ?> text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-[#2E3192] hover:text-white rounded">
+              upload
+            </button>
       <?php endif; ?>
     </div>
   </div>
@@ -131,6 +131,37 @@ if (isset($_SESSION["login"]) == "true") {
       Copyright © 2023 Syikha Creative Production. All Right Reserved
     </h3>
   </div>
+        
+  <!-- SUCCESS COMPONENT -->
+  <div id="successComponent" class="z-50 fixed -bottom-full p-4 bg-green-500/70 rounded-md transition-all duration-500">
+        <div class="flex justify-center items-center gap-4">
+          <img src="./Assets/check.png" alt="" class="w-12">
+          <h1 class="text-sm font-bold text-white">
+            Upload Completed Successfully
+          </h1>
+        </div>
+    </div>
+        <!-- WARNING component -->
+    <div id="warn_Stock" onclick="warn_Stock_Dissapear()"
+      class="z-20 fixed p-3 -right-80 flex font-semibold text-white w-[250px] h-[125px] bg-red-500 hover:scale-95 hover:bg-red-400 hover:cursor-pointer rounded-md bottom-5 items-center justify-evenly transition-all duration-200 ease-in-out">
+      <div class="self-start">
+        <script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
+        <lord-icon src="https://cdn.lordicon.com/wdqztrtx.json" trigger="loop" delay="2000" colors="primary:#ffffff"
+          state="hover" style="width: 50px; height: 50px">
+        </lord-icon>
+      </div>
+      <div class="w-[90%] mx-3">
+        <h5 class="font-bold">DENIED!</h5>
+        <div class="text-sm font-normal">
+          <strong id="icWarn">
+            Inappropriate Templates!
+          </strong> <br>
+          <span class="text-xs">
+            Please upload a file with the correct template.
+          </span>
+        </div>
+      </div>
+    </div>
   <script src="./JS/mt.js"></script>
   <script src="./JS/index.js"></script>
 </body>

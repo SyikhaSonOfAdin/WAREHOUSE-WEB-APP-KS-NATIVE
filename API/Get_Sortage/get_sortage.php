@@ -9,8 +9,8 @@ $based = $_POST["based"] ;
 
 if ($search != '' && $based != '') {
 
-    // Mengambil data dari tabel "data_mir_kine"
-    $queryMir = "SELECT * FROM $table1 WHERE $based LIKE '%$search%' ORDER BY batch ASC" ;
+    // Mengambil data dari tabel "data_mir"
+    $queryMir = "SELECT * FROM $table1 WHERE $based LIKE '%$search%' ORDER BY batch DESC" ;
     $connMir = conn() ;
     $dataMir = mysqli_query($connMir, $queryMir) ;
 
