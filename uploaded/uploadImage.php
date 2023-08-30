@@ -5,7 +5,7 @@ $pass = '' ;
 $db = 'kokohsemesta' ;
 $table = 'material_receive_hein';
 
-$conn = conn($user, $pass, $db, $table) ;
+$conn = conn() ;
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['image'])) {
     $targetDir = 'Receive/Images/';

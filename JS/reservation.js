@@ -1,20 +1,40 @@
-// FUNGSI UNTUK MEMUNCULKAN FORM
+const modalBg  = document.getElementById('modal-bg') ;
+const modalBg2 = document.getElementById('modal-bg-input') ;
+
 const trigger = () => {
-    modalbg.style = "display : flex;";
-    document.body.style.overflow = 'hidden';
+    modalBg.classList.toggle('hidden');
+    modalBg.classList.toggle('fixed');
+}
+const triggerInput = () => {
+    modalBg2.classList.toggle('hidden');
+    modalBg2.classList.toggle('fixed');
 }
 
-
-// FUNGSI UNTUK MENGHILANGKAN FORM
-const dissapear = () => {
-    modalbg.style = "display : none;"
-    document.body.style.overflow = 'auto';
-    document.getElementById("modal").style.display = "flex";
-    document.getElementById("newID").style.display = "none";
+function deleteItems(element) {
+    const items_id = element.getAttribute('items-id') ;
+    toDelete(items_id) ;
 }
-const changeForm = () => {
-    document.getElementById("modal").style.display = "none";
-    document.getElementById("newID").style.display = "flex";
+
+async function toDelete(items_id) {
+    try {
+        const response = await fetch('../API/Get_Reservation/get_DeleteItems.php', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded'
+            },
+            body: 'id=' + items_id
+        })
+        if (response.ok) {
+            const result = await response.text() ;
+            if ( result != 'denied' ) {
+                // console.log(result) ;
+                createWarn() ;
+                get_mirSpoolData() ;
+            }
+        }
+    } catch (err) {
+        console.log(err) ;
+    }
 }
 
 // LAIN LAIN

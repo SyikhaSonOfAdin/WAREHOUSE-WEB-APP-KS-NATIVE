@@ -1,31 +1,24 @@
 <?php
 require '../function.php';
-$host = 'localhost';
-$db = 'kokohsemesta';
-$user = 'root';
-$password = '';
-$mysqli = conn($user, $password, $db, "material");
 
-require '../vendor/autoload.php'; // Lokasi file autoload.php dari library PhpSpreadsheet
+$table = 'material';
+$mysqli = conn();
+
+require '../vendor/autoload.php';
 
 use PhpOffice\PhpSpreadsheet\IOFactory;
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    // Pastikan file Excel telah terunggah
-    // mysqli_query($mysqli, "DELETE FROM material") ;
-    $db = 'material';
-    if (isset($_FILES['excelFile']) && $_FILES['excelFile']['error'] === UPLOAD_ERR_OK) {
-        $excelFilePath = $_FILES['excelFile']['tmp_name'];
-        $targetDir = "uploaded/Warehouse/";
-        $targetFile = $targetDir . basename($_FILES['excelFile']['name']);
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['file'])) {
+    
+    if (isset($_FILES['file']) && $_FILES['file']['error'] === UPLOAD_ERR_OK) {
+        $excelFilePath = $_FILES['file']['tmp_name'];
+        $targetDir = "Warehouse/";
+        $targetFile = $targetDir . basename($_FILES['file']['name']);
 
-        // Baca file Excel
         $spreadsheet = IOFactory::load($excelFilePath);
 
-        // Ambil data dari sheet pertama (indeks 0)
         $worksheet = $spreadsheet->getSheet(0);
 
-        // Ambil data sebagai objek
         $data = [];
         $highestRow = $worksheet->getHighestRow();
         $highestColumn = $worksheet->getHighestColumn();
@@ -42,36 +35,38 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
         $length = count($data);
         $realdata = [];
-        for ($i = 0; $i < $length; $i++) {
-            if (isset($data[$i]["Ident Code"])) {
-                $realdata[] = $data[$i];
+
+        if (isset($data[0]["Ident Code"]) && isset($data[0]["Description"]) && isset($data[0]["Stock"])) {
+            
+            for ($i = 0; $i < $length; $i++) {
+                if (isset($data[$i]["Ident Code"])) {
+                    $realdata[] = $data[$i];
+                }
             }
-        }
-        unset($realdata[0]);
+            unset($realdata[0]);
+            mysqli_begin_transaction($mysqli) ;
 
-        foreach ($realdata as $item) {
-            $identCode = $mysqli->real_escape_string($item["Ident Code"]);
-            $description = $mysqli->real_escape_string($item["Description"]);
-            $stock = $mysqli->real_escape_string($item["Stock"]);
+            mysqli_query($mysqli, "DELETE FROM $table") ;
+    
+            foreach ($realdata as $item) {
+                $identCode = $mysqli->real_escape_string($item["Ident Code"]);
+                $description = $mysqli->real_escape_string($item["Description"]);
+                $stock = $mysqli->real_escape_string($item["Stock"]);
+    
+                $query = "INSERT INTO $table (IDENT_CODE, description, stock) VALUES ('$identCode', '$description', '$stock') ON DUPLICATE KEY UPDATE description = '$description', stock = '$stock'";
+    
+                mysqli_query($mysqli, $query);
+            }
 
-            $query = "INSERT INTO $db (IDENT_CODE, description, stock) VALUES ('$identCode', '$description', '$stock') ON DUPLICATE KEY UPDATE description = '$description', stock = '$stock'";
+            mysqli_commit($mysqli);            
 
-            mysqli_query($mysqli, $query);
-        }
-        if (file_exists($targetFile)) {
-            echo "File sudah ada di direktori target.";
         } else {
-            // Memindahkan file ke direktori target
-            if (move_uploaded_file($_FILES['excelFile']['tmp_name'], $targetFile)) {
-                echo "File berhasil diunggah dan dipindahkan ke direktori target.";
-            } else {
-                echo "Terjadi kesalahan saat memindahkan file.";
-            }
+            echo 'Denied' ;
+            exit() ;
         }
-        header("Location: ../");
-    } else {
-        echo 'Terjadi kesalahan saat mengunggah file.';
-    }
+        move_uploaded_file($_FILES['file']['tmp_name'], $targetFile) ;
+        echo "Success" ;
+        exit() ;
 
-}
-?>
+    } 
+} 

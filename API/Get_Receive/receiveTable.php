@@ -16,7 +16,7 @@ if (isset($_POST["s"])) {
   $limit = 50;
 
   if ($search != '') {
-    $query = "SELECT * FROM `$table` WHERE `$based_on` LIKE '%$search%'";
+    $query = "SELECT * FROM `$table` WHERE `$based_on` LIKE '%$search%' ORDER BY tanggal DESC";
   } else {
     $query = "SELECT * FROM `$table` ORDER BY tanggal DESC LIMIT $limit";
   }
@@ -108,11 +108,10 @@ while ($mir = mysqli_fetch_assoc($result)) {
         <button name="changeIndexButton" onclick="editButtonReceive(event)"
           class="w-max border rounded-2xl font-semibold text-sm py-1 px-3 hover:bg-red-500 hover:text-white hover:border-red-500 transition-all duration-200">Delete</button>
       </form>
-    </td>
-  </tr>';
+    </td>';
   }
   $i++;
 }
-$options .= '</tbody></table>';
+$options .= '</tr></tbody></table>';
 
 echo $options;
