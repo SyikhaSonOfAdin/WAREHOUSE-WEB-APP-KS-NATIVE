@@ -30,7 +30,7 @@ if (isset($_POST["s"])) {
     $suratJalan = $_POST["selectedSuratJalan"];
     $area = $_POST["selectedArea"];
 
-    $query = "INSERT INTO material_receive_kine (IDENT_CODE, MIR, tanggal, qty, uploader, surat_jalan, area) VALUES ('$id', '$mir', '$date', '$qty', '$by', '$suratJalan', '$area')";
+    $query = "INSERT INTO material_receive_hein (IDENT_CODE, MIR, tanggal, qty, uploader, surat_jalan, area) VALUES ('$id', '$mir', '$date', '$qty', '$by', '$suratJalan', '$area')";
     mysqli_query($connection, $query);
 
     if (mysqli_affected_rows($connection) > 0) {
