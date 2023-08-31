@@ -84,7 +84,7 @@ if ($_POST["search"] != '') {
     <td class="px-6 py-4">' . $material["description"] . '</td>
     <td class="px-6 py-4"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=reservation">' . $material["MIR"] . '</a></td>
     <td class="px-6 py-4"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=receive">' . $material["receive"] . '</a></td>
-    <td class="px-6 py-4 ' . (($material["balance"] < 0) ? "bg-red-400/70 text-white border border-red-600" : "") . '"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=balance" >' . round($material["balance"], 2) . '</a></td>
+    <td class="px-6 py-4 ' . (($material["balance"] < 0) ? "bg-red-400/70 text-white border border-red-600" : "") . '">' . round($material["balance"], 2) . '</td>
     <td class="px-6 py-4"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=issued">' . $material["issued"] . '</a></td>
     <td class="px-6 py-4 ' . ((round($material["stock"], 2) == round(($material["receive"] - $material["issued"]), 2)) ? "" : "bg-yellow-400 text-white border border-yellow-600") . '"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=stock">' . round($material["stock"], 2) . '</a></td>
 </tr>';
@@ -159,7 +159,7 @@ if ($_POST["search"] != '') {
     <td class="px-6 py-4">' . $material["description"] . '</td>
     <td class="px-6 py-4"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=reservation">' . $material["MIR"] . '</a></td>
     <td class="px-6 py-4"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=receive">' . $material["receive"] . '</a></td>
-    <td class="px-6 py-4 ' . (($material["balance"] < 0) ? "bg-red-400/70 text-white border border-red-600" : "") . '"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=balance" >' . round($material["balance"], 2) . '</a></td>
+    <td class="px-6 py-4 ' . (($material["balance"] < 0) ? "bg-red-400/70 text-white border border-red-600" : "") . '">' . round($material["balance"], 2) . '</td>
     <td class="px-6 py-4"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=issued">' . $material["issued"] . '</a></td>
     <td class="px-6 py-4 ' . ((round($material["stock"], 2) == round(($material["receive"] - $material["issued"]), 2)) ? "" : "bg-yellow-400 text-white border border-yellow-600") . '"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=stock">' . round($material["stock"], 2) . '</a></td>
 </tr>';
@@ -223,7 +223,7 @@ if ($_POST["search"] != '') {
     <td class="px-6 py-4">' . $material["description"] . '</td>
     <td class="px-6 py-4"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=reservation">' . $material["MIR"] . '</a></td>
     <td class="px-6 py-4"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=receive">' . $material["receive"] . '</a></td>
-    <td class="px-6 py-4 ' . (($material["balance"] < 0) ? "bg-red-400/70 text-white border border-red-600" : "") . '"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=balance" >' . round($material["balance"], 2) . '</a></td>
+    <td class="px-6 py-4 ' . (($material["balance"] < 0) ? "bg-red-400/70 text-white border border-red-600" : "") . '">' . round($material["balance"], 2) . '</td>
     <td class="px-6 py-4"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=issued">' . $material["issued"] . '</a></td>
     <td class="px-6 py-4 ' . ((round($material["stock"], 2) == round(($material["receive"] - $material["issued"]), 2)) ? "" : "bg-yellow-400 text-white border border-yellow-600") . '"><a target="_blank" href="detail.php?ic=' . $material["IDENT_CODE"] . '&p=stock">' . round($material["stock"], 2) . '</a></td>
 </tr>';
