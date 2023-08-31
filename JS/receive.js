@@ -13,6 +13,7 @@ async function getReceiveTableContent() {
   var selectedDate = document.getElementById("date").value;
   var selectedQty = document.getElementById("qty").value;
   var selectedSuratJalan = document.getElementById("by").value;
+  var selectedArea = document.getElementById("area").value;
   var selectedWho = document.getElementById("by_who").value;
 
   const response = await fetch("../API/Get_Receive/receiveTable.php", {
@@ -20,7 +21,7 @@ async function getReceiveTableContent() {
     headers: {
       "Content-Type": "application/x-www-form-urlencoded"
     },
-    body: "selectedIdentCode=" + selectedIdentCode + "&selectedMIR=" + selectedMIR + "&selectedDate=" + selectedDate + "&selectedQty=" + selectedQty + "&selectedSuratJalan=" + selectedSuratJalan + "&selectedWho=" + selectedWho
+    body: "selectedIdentCode=" + selectedIdentCode + "&selectedMIR=" + selectedMIR + "&selectedDate=" + selectedDate + "&selectedQty=" + selectedQty + "&selectedSuratJalan=" + selectedSuratJalan + "&selectedArea=" + selectedArea + "&selectedWho=" + selectedWho
   });
 
   if (response.ok) {

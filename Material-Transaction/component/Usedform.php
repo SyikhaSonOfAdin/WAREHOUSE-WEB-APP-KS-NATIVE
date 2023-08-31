@@ -65,9 +65,9 @@
         <input name="bywho" id="by_who" type="text" hidden value="<?php echo $username ?>" />
         <!-- CHANGE FORM -->
         <?php if ( $parameter == "manager" || $parameter == "developer" ) : ?>
-            <div class="w-full text-sm text-red-500 mb-3 hover:cursor-pointer hover:underline" onclick="changeForm()">
+            <!-- <div class="w-full text-sm text-red-500 mb-3 hover:cursor-pointer hover:underline" onclick="changeForm()">
                 Upload data here!
-            </div>
+            </div> -->
         <?php endif; ?>
         <div class="w-full flex justify-between">
             <button name="tombolSubmit" type="submit"

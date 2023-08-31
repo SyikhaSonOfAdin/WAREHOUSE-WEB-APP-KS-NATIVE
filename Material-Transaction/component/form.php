@@ -54,14 +54,20 @@ $resultNew = selectAll("material");
                     class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:outline-0 focus:ring-inset focus:ring-2 focus:ring-[#2E3192] focus:border-[#2E3192] block w-full p-2.5"
                     placeholder="" />
             </div>
-           
+        </div>
+        <div class="w-full mb-3">
+            <label for="area" class="block mb-2 text-sm font-medium text-gray-900">Area</label>
+                <input name="area" id="area" type="text"
+                    class="w-full bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:outline-0 focus:ring-inset focus:ring-2 focus:ring-[#2E3192] focus:border-[#2E3192] block p-2.5"
+                    placeholder="Area" />
+
         </div>
         <input hidden name="by" id="by_who" type="text" value="<?php echo $username ?>" />
         <!-- CHANGE FORM -->
         <?php if ($parameter == "manager" || $parameter == "developer"): ?>
-            <div class="w-full text-sm text-red-500 mb-3 hover:cursor-pointer hover:underline" onclick="changeForm()">
+            <!-- <div class="w-full text-sm text-red-500 mb-3 hover:cursor-pointer hover:underline" onclick="changeForm()">
                 Upload data here!
-            </div>
+            </div> -->
         <?php endif; ?>
         <div class="w-full flex justify-between">
             <button name="tombolSubmit" type="submit"
