@@ -120,7 +120,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
         $resultData = mysqli_query($conn, $query);
 
         $tempData = [];
-    
+
         $table1 = "material_used_kine";
         $query1 = "SELECT * FROM $table1 WHERE IDENT_CODE = '$ic' ORDER BY `mir` DESC, `date` DESC";
         $conn1 = conn();
@@ -270,11 +270,11 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
             'Sorted' => []
         ];
 
-        $reservation = [] ;
-        $reservationTable = 'data_mir_kine' ;
-        $reservationConn = conn() ;
-        $reservationQuery = "SELECT * FROM $reservationTable WHERE IDENT_CODE = '$ic'" ;
-        $reservationResult = mysqli_query($reservationConn, $reservationQuery) ;
+        $reservation = [];
+        $reservationTable = 'data_mir_kine';
+        $reservationConn = conn();
+        $reservationQuery = "SELECT * FROM $reservationTable WHERE IDENT_CODE = '$ic'";
+        $reservationResult = mysqli_query($reservationConn, $reservationQuery);
         while ($reservationData = mysqli_fetch_assoc($reservationResult)) {
             $reservation[] = [
                 'MIR No' => $reservationData["batch"],
@@ -283,11 +283,11 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
             ];
         }
 
-        $receive = [] ;
-        $receiveTable = 'material_receive_kine' ;
-        $receiveConn = conn() ;
-        $receiveQuery = "SELECT * FROM $receiveTable WHERE IDENT_CODE = '$ic'" ;
-        $receiveResult = mysqli_query($receiveConn, $receiveQuery) ;
+        $receive = [];
+        $receiveTable = 'material_receive_kine';
+        $receiveConn = conn();
+        $receiveQuery = "SELECT * FROM $receiveTable WHERE IDENT_CODE = '$ic'";
+        $receiveResult = mysqli_query($receiveConn, $receiveQuery);
         while ($receiveData = mysqli_fetch_assoc($receiveResult)) {
             $receive[] = [
                 'MIR No' => $receiveData["mir"],
@@ -298,14 +298,18 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
         $missingData = [];
 
         // Loop through reservation data and check if it exists in receive data
-        foreach ($reservation as $reservationItem) {
+        foreach ($reservation as &$reservationItem) { // Perhatikan tanda "&" sebelum $reservationItem
             $mirNo = $reservationItem['MIR No'];
             $foundInReceive = false;
 
             foreach ($receive as $receiveItem) {
                 if (trim($receiveItem['MIR No']) === trim($mirNo)) {
-                    $foundInReceive = true;
-                    break;
+                    if ($reservationItem['MIR Qty'] - $receiveItem['Qty'] <= 0) {
+                        $foundInReceive = true;
+                        break;
+                    } else {
+                        $reservationItem['MIR Qty'] -= $receiveItem['Qty'];
+                    }
                 }
             }
 
@@ -316,8 +320,9 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
 
         $data['Sorted'] = $missingData;
 
+
         // Membangun string HTML
-        $htmlData = '<div class="h-full w-full mr-2">' .            
+        $htmlData = '<div class="h-full w-full mr-2">' .
             '<table class="w-full text-sm text-left text-gray-500 h-max">' .
             '<thead class="text-xs text-gray-700 uppercase bg-gray-50">' .
             '<tr>' .
