@@ -74,7 +74,7 @@ if (isset($_SESSION["login"]) == "true") {
                           <select name="keterangan" id="keterangan" required class="w-full rounded px-3 py-2 border outline-none">
                             <option value=""></option>
                             <option value="add">Just Add New Items</option>
-                            <option value="audit">Audit All Items In Table</option>
+                            <option value="audit">Replace All Items In Table</option>
                           </select>
                         </div>
                         <div class="mb-3 w-full flex flex-col">
@@ -186,9 +186,9 @@ if (isset($_SESSION["login"]) == "true") {
         Reservation
         <div class="flex flex-col gap-1 md:flex-row">
             <button id="downloadBtn"
-                class="flex flex-row gap-1 items-center text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-[#2E3192] hover:text-white rounded disabled:bg-gray-100 disabled:text-gray-400">
+                class="group flex flex-row gap-1 items-center text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-[#2E3192] hover:text-white rounded disabled:bg-gray-100 disabled:text-gray-400">
                 <svg id="downloadProcess" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-                    class="hidden" style="
+                    class="hidden group-disabled:block" style="
                     margin: auto;
                     background: none;
                     shape-rendering: auto;
