@@ -28,12 +28,13 @@ if (isset($_POST["s"])) {
     $qty = $_POST["selectedQty"];
     $by = $_POST["selectedWho"];
     $suratJalan = $_POST["selectedSuratJalan"];
+    $area = $_POST["selectedArea"];
 
-    $query = "INSERT INTO material_receive_hein (IDENT_CODE, MIR, tanggal, qty, uploader, surat_jalan) VALUES ('$id', '$mir', '$date', '$qty', '$by', '$suratJalan')";
+    $query = "INSERT INTO material_receive_hein (IDENT_CODE, MIR, tanggal, qty, uploader, surat_jalan, area) VALUES ('$id', '$mir', '$date', '$qty', '$by', '$suratJalan', '$area')";
     mysqli_query($connection, $query);
 
     if (mysqli_affected_rows($connection) > 0) {
-      $updateQuery = "UPDATE material SET stock = stock + $qty WHERE IDENT_CODE = '$id'";
+      $updateQuery = "UPDATE material_kine SET stock = stock + $qty WHERE IDENT_CODE = '$id'";
       mysqli_query(conn(), $updateQuery);
 
     }

@@ -298,14 +298,18 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
         $missingData = [];
 
         // Loop through reservation data and check if it exists in receive data
-        foreach ($reservation as $reservationItem) {
+        foreach ($reservation as &$reservationItem) { // Perhatikan tanda "&" sebelum $reservationItem
             $mirNo = $reservationItem['MIR No'];
             $foundInReceive = false;
 
             foreach ($receive as $receiveItem) {
                 if (trim($receiveItem['MIR No']) === trim($mirNo)) {
-                    $foundInReceive = true;
-                    break;
+                    if ($reservationItem['MIR Qty'] - $receiveItem['Qty'] <= 0) {
+                        $foundInReceive = true;
+                        break;
+                    } else {
+                        $reservationItem['MIR Qty'] -= $receiveItem['Qty'];
+                    }
                 }
             }
 
@@ -316,8 +320,9 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
 
         $data['Sorted'] = $missingData;
 
+
         // Membangun string HTML
-        $htmlData = '<div class="h-full w-full mr-2">' .            
+        $htmlData = '<div class="h-full w-full mr-2">' .
             '<table class="w-full text-sm text-left text-gray-500 h-max">' .
             '<thead class="text-xs text-gray-700 uppercase bg-gray-50">' .
             '<tr>' .
@@ -347,6 +352,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
             '</tbody></table></div>';
 
         echo $htmlData;
+
 
 
 
