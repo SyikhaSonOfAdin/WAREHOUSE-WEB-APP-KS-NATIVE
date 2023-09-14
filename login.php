@@ -70,7 +70,7 @@ if (isset($_POST["email"])) {
   <section class="bg-white">
     <div class="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
       <div class="flex items-center mb-4 text-3xl font-bold uppercase text-gray-700">
-        <img class="w-8 h-8 mr-2" src="./assets/Logo_single.png" alt="logo" />
+        <img class="w-8 h-8 mr-2" src="./Assets/Logo_single.png" alt="logo" />
         PM2S
       </div>
       <div class="w-full bg-white rounded-lg shadow-md dark:border md:mt-0 sm:max-w-md xl:p-0">
