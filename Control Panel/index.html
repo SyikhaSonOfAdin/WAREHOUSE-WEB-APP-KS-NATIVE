@@ -1,77 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Document</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="../src/tailwind.css">
 </head>
-
 <body>
-  <div class="fixed top-0 left-0 w-full h-screen bg-black/40 z-30" id="modal-bg-input">
-    <div class="flex w-full h-screen justify-center items-center">
-      <form id="uploadForm"
-        class="w-[90%] md:w-1/2 lg:w-[25%] rounded p-3 md:px-6 bg-white flex flex-col gap-3 shadow-md"
-        enctype="multipart/form-data">
-        <div class="w-full text-center text-lg font-bold p-2 uppercase">
-          New Reservation
-        </div>
-        <div class="w-full flex flex-col gap-1">
-          <label for="mir" class="text-sm font-semibold">MIR No <span class="text-red-500 font-bold">*</span></label>
-          <div class="flex">
-            <label for="mir" class="w-full bg-[#2E3192] text-white rounded-s border-l border-t border-b flex justify-center items-center font-semibold">Batch -</label>
-            <input required type="text" id="mir" placeholder="000"
-            class="w-full border outline-none px-3 py-2 rounded-e focus:border-[#2E3192]">
+    <div id="navbar" class="w-full h-max flex flex-col items-center bg-white justify-between shadow-md">
+        <div id="nav-content" class="w-[90%] flex items-center justify-between">
+          <div id="title" class="flex items-center text-sm md:text-2xl font-extrabold text-gray-800">
+            <img src="../Assets/Logo_single.png" alt="Kokoh Semesta" class="w-[30px] md:w-[50px] m-3 md:my-5 md:mr-3 md:ml-8"/>
+            <h1 class="hidden md:block">KOKOH SEMESTA :</h1>
+            <h1>HEIN PROJECT</h1>
           </div>
+          <a href="../login.php" id="login"
+            class="text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-neutral-100 rounded">
+            
+          </a>
         </div>
-        <div class="w-full flex flex-col gap-1">
-          <label for="spool" class="text-sm font-semibold">Spool No <span
-              class="text-red-500 font-bold">*</span></label>
-          <input required type="text" id="spool" placeholder="Spool No"
-            class="w-full border outline-none px-3 py-2 rounded focus:ring focus:ring-[#2E3192]">
-        </div>
-        <div class="w-full flex flex-col gap-1">
-          <label for="ic" class="text-sm font-semibold">Ident Code <span class="text-red-500 font-bold">*</span></label>
-          <input required type="text" id="ic" placeholder="MIR No"
-            class="w-full border outline-none px-3 py-2 rounded focus:ring focus:ring-[#2E3192]">
-        </div>
-        <div class="w-full flex flex-col gap-1">
-          <label for="qty" class="text-sm font-semibold">Quantity <span class="text-red-500 font-bold">*</span></label>
-          <input required type="text" id="qty" placeholder="MIR No"
-            class="w-full border outline-none px-3 py-2 rounded focus:ring focus:ring-[#2E3192]">
-        </div>
-
-        <!-- ACTION BUTTON -->
-          <button id="submitButton" type="submit"
-            class="group w-full py-[5px] px-[15px] font-semibold text-white bg-[#2E3192] hover:text-white hover:border-[#2E3192] rounded disabled:cursor-not-allowed disabled:bg-opacity-60 disabled:text-neutral-100">
-            <svg id="downloadProcess" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-              class="hidden group-disabled:block" style="
-                                  margin: auto;
-                                  background: none;
-                                  shape-rendering: auto;
-                                  animation-play-state: running;
-                                  animation-delay: 0s;" width="24px" height="24px" viewBox="0 0 100 100"
-              preserveAspectRatio="xMidYMid">
-              <circle cx="50" cy="50" fill="none" stroke="#2e3192" stroke-width="10" r="35"
-                stroke-dasharray="164.93361431346415 56.97787143782138"
-                style="animation-play-state: running; animation-delay: 0s">
-                <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="1s"
-                  values="0 50 50;360 50 50" keyTimes="0;1" style="animation-play-state: running; animation-delay: 0s">
-                </animateTransform>
-              </circle>
-            </svg>
-            <h1 class="block group-disabled:hidden">
-              Upload
-            </h1>
-          </button>
-          <input type="reset" value="Cancel" name="" onclick="trigger()"
-            class="w-full py-[5px] px-[15px] font-semibold text-white bg-red-500 rounded">
       </div>
-      </form>
-    </div>
-  </div>
 </body>
-
 </html>
