@@ -24,7 +24,7 @@ $table = "material_receive_hein";
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Kokoh Semesta</title>
+  <title>Warehouse System</title>
   <link rel="stylesheet" href="../style.css" />
   <link rel="icon" href="../Assets/Logo_single.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -40,8 +40,8 @@ $table = "material_receive_hein";
     <div id="nav-content">
       <div id="title">
         <img src="../Assets/Logo_single.png" alt="Kokoh Semesta" />
-        <h1>KOKOH SEMESTA :</h1>
-        <h1>KINE PROJECT</h1>
+        <!-- <h1>KOKOH SEMESTA :</h1> -->
+        <h1>PM2S</h1>
       </div>
       <a href="../login.php" id="login"
         class="text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-neutral-100 rounded">

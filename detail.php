@@ -44,8 +44,8 @@ if ( $p == 'stock' ) {
     <div id="nav-content">
       <div id="title">
         <img src="./Assets/Logo_single.png" alt="Kokoh Semesta" />
-        <h1>KOKOH SEMESTA :</h1>
-        <h1>KINE PROJECT</h1>
+        <!-- <h1>KOKOH SEMESTA :</h1> -->
+        <h1>PM2S</h1>
       </div>
       <div class="flex">
         <a href="./Material-Transaction/receive.php" id="login"
