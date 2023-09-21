@@ -2,7 +2,7 @@
 
 function conn()
 {
-    return $conn = mysqli_connect("localhost", "root", "", "kokohsemesta");
+    return $conn = mysqli_connect("localhost", "syih2943_admin", "syikhaakmal19", "syih2943_kokohsemesta");
 }
 
 function selectAll($table)
@@ -41,7 +41,7 @@ function tryCookie($username, $role)
 
 function getCookie() 
 {
-    $getData = selectAll("login") ;
+    $getData = selectAll("login_kine") ;
     while ($data = mysqli_fetch_assoc($getData)) {
         $user = hash("sha256", $data["username"] );
         $level = hash("sha256", $data["role"] ); 
