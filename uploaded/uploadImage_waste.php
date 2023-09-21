@@ -1,21 +1,21 @@
 <?php
-require '../../function.php';
+require '../function.php';
 $user = 'root' ;
 $pass = '' ;
 $db = 'kokohsemesta' ;
-$table = 'material_receive_hein';
+$table = 'waste_hein';
 
-$conn = conn($user, $pass, $db, $table) ;
+$conn = conn() ;
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['image'])) {
-    $targetDir = '../../uploaded/Receive/Images/';
+    $targetDir = 'Receive/waste_evidence_images/';
 
     $image_id = uniqid() . basename($_FILES['image']['name']) ;
     $id = $_POST["id"] ;
 
     $targetFile = $targetDir . $image_id;
 
-    $query = "UPDATE material_receieve_hein SET image_id = $image_id WHERE id = '$id'" ;
+    $query = "UPDATE $table SET image_id = '$image_id' WHERE id = '$id'" ;
     $execute = mysqli_query($conn, $query) ;
     
     // Pindahkan file ke direktori tujuan

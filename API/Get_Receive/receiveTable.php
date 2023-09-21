@@ -35,6 +35,7 @@ if (isset($_POST["s"])) {
 
     if (mysqli_affected_rows($connection) > 0) {
       $updateQuery = "UPDATE material_kine SET stock = stock + $qty WHERE IDENT_CODE = '$id'";
+      $updateQuery = "UPDATE material_kine SET stock = stock + $qty WHERE IDENT_CODE = '$id'";
       mysqli_query(conn(), $updateQuery);
 
     }

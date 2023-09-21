@@ -33,6 +33,7 @@ if (isset($_POST['s'])) {
     $bywho = $_POST["selectedWho"];
   
     $query = "INSERT INTO $table (IDENT_CODE, mir, spool, qty, date, uploader, bywho) VALUES ('$id', '$mir', '$spool', '$qty', '$date', '$by', '$bywho')";
+    mysqli_query($connection, $query) ;
   
     if (mysqli_affected_rows($connection) > 0) {
       $updateQuery = "UPDATE $table2 SET stock = stock - $qty WHERE IDENT_CODE = '$id'";
