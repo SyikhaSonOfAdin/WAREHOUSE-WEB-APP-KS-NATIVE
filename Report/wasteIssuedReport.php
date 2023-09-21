@@ -16,7 +16,7 @@ if ($connection->connect_error) {
     die("Koneksi ke database gagal: " . $connection->connect_error);
 }
 
-$query = "SELECT IDENT_CODE, description, heatNumber, length, width, date, area, uploader, issuedDate, issuedBy FROM  waste_hein_issued";
+$query = "SELECT IDENT_CODE, description, heatNumber, length, width, date, area, uploader, issuedDate, issuedBy FROM  waste_kine_issued";
 // Query data dari tabel MySQL
 $result = $connection->query($query);
 
