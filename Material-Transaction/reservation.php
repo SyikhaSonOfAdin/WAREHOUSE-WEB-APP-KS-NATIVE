@@ -74,7 +74,7 @@ if (isset($_SESSION["login"]) == "true") {
                           <select name="keterangan" id="keterangan" required class="w-full rounded px-3 py-2 border outline-none">
                             <option value=""></option>
                             <option value="add">Just Add New Items</option>
-                            <option value="audit">Audit All Items In Table</option>
+                            <option value="audit">Replace All Items In Table</option>
                           </select>
                         </div>
                         <div class="mb-3 w-full flex flex-col">
