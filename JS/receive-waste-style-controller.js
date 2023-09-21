@@ -12,7 +12,7 @@ function deleteImageModal() {
 
 async function ImageModalHandler(id) {
     try {
-        const response = await fetch('../../API/Get_Waste/get_ImageInModal.php', {
+        const response = await fetch('../../API/Get_Waste/get_imageInModal.php', {
             method: 'POST',
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded" 
