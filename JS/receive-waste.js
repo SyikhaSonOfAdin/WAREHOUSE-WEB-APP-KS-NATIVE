@@ -191,4 +191,36 @@ searchBar.addEventListener('submit', async (e) => {
 
 })
 
+const downloadButton = document.getElementById('downloadBtn') ;
+const process = document.getElementById('downloadProcess') ;
+// DOWNLOAD MECHANISM 
+downloadButton.addEventListener('click', async () => {
+    downloadButton.disabled = true;
+    process.classList.replace("hidden", "block");
+    // Lakukan permintaan unduhan ke halaman server yang melakukan pemrosesan data
+    try {
+        const response = await fetch('../../Report/wasteReceiveReport.php');
+        if (!response.ok) {
+            throw new Error('Gagal mengunduh data.');
+        }
+        // Jika permintaan berhasil, ambil file data yang dihasilkan dari server
+        const blob = await response.blob();
+        // Buat URL blob untuk file data
+        const url = URL.createObjectURL(blob);
+        // Buat elemen <a> baru untuk mengunduh file
+        const downloadLink = document.createElement('a');
+        downloadLink.href = url;
+        downloadLink.download = 'Waste_Receive.xlsx'; // Nama file yang akan diunduh
+        downloadLink.click();
+        // Hapus URL blob setelah file diunduh
+        downloadButton.disabled = false;
+        process.classList.replace("block", "hidden");
+        URL.revokeObjectURL(url);
+    } catch (error) {
+        console.error('Terjadi kesalahan:', error);
+        downloadButton.disabled = false;
+        process.classList.replace("block", "hidden");
+    } 
+});
+
 getTabel()
