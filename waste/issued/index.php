@@ -8,7 +8,7 @@ if (isset($_SESSION["login"]) == "true") {
     $display = "block";
   }
 } else {
-  header("Location: ../../index.php");
+  header("Location: ../");
 }
 
 require '../../function.php';
@@ -39,7 +39,7 @@ $table = "material_receive_hein";
 
 <body>
 
-  <div id="modal" class="fixed w-full h-full z-20 bg-black/20">
+  <div id="modal" class="hidden w-full h-full z-20 bg-black/20">
       <div class="flex w-full h-full justify-center items-center">
         <form class="flex flex-col gap-3 bg-white w-[90%] md:w-1/2 lg:w-1/4 rounded px-8 p-6 shadow">
             <div class="w-full text-center text-lg uppercase font-semibold">
@@ -66,7 +66,7 @@ $table = "material_receive_hein";
             </div>
             <div class="w-full flex gap-2 mt-4">
                 <button type="submit" class="w-full py-[5px] px-[15px] bg-[#2E3192] text-white hover:bg-[#3f43bd] rounded">Submit</button>
-                <button type="reset" class="w-full py-[5px] px-[15px] bg-[#cf3131] hover:bg-[#e24949] text-white rounded" >Cancel</button>
+                <button id="cancel" type="reset" class="w-full py-[5px] px-[15px] bg-[#cf3131] hover:bg-[#e24949] text-white rounded" >Cancel</button>
             </div>
         </form>
       </div>
@@ -76,13 +76,19 @@ $table = "material_receive_hein";
     <div id="nav-content">
       <div id="title">
         <img src="../../Assets/Logo_single.png" alt="Kokoh Semesta" />
-        <h1>KOKOH SEMESTA :</h1>
+        <h1>KMS :</h1>
         <h1>HEIN PROJECT</h1>
       </div>
-      <a href="../../login.php" id="login"
-        class="text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-neutral-100 rounded">
-        <?php echo $username ?>
-      </a>
+      <div class="flex">
+        <a href="../" id="login"
+          class="text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-neutral-100 rounded">
+          Waste Receive
+        </a>
+        <a href="../../login-waste.php" id="login"
+          class="text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-neutral-100 rounded">
+          <?php echo $username ?>
+        </a>
+      </div>      
     </div>
   </div>
 
@@ -96,12 +102,16 @@ $table = "material_receive_hein";
       <div class="absolute inset-y-0 right-0 flex items-center">
         <select name="based_on" id="based_on"
           class="h-full rounded-md border-0 bg-transparent py-0 pl-2 pr-7 text-gray-500 focus:outline-0 focus:ring-inset focus:ring-2 focus:ring-[#2E3192] sm:text-sm">
+          <option value="nestingNo">Nesting No</option>
           <option value="IDENT_CODE">Ident Code</option>
-          <option value="mir">MIR No</option>
-          <option value="qty">Quantity</option>
-          <option value="tanggal">Date</option>
-          <option value="uploader">By</option>
-          <option value="surat_jalan">Surat Jalan</option>
+          <option value="heatNumber">Heat Number</option>
+          <option value="length">Length</option>
+          <option value="width">Width</option>
+          <option value="date">Date In</option>
+          <option value="issuedDate">Date Issued</option>
+          <option value="uploader">Input By</option>
+          <option value="issuedBy">Issued By</option>
+          <option value="area">Area</option>
         </select>
       </div>
     </div>
@@ -109,7 +119,7 @@ $table = "material_receive_hein";
 
 
   <div class="mt-4 uppercase text-start w-[83%] font-semibold text-xl text-gray-700 flex justify-between">
-    Material Waste Issued
+    Issued Waste
     <div class="flex flex-col gap-1 md:flex-row">
       <button id="downloadBtn"
         class="flex flex-row gap-1 items-center text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-[#2E3192] hover:text-white rounded disabled:bg-gray-100 disabled:text-gray-400">
@@ -130,13 +140,7 @@ $table = "material_receive_hein";
           </circle>
         </svg>
         <h1>download data</h1>
-      </button>
-      <?php if ($parameter != "helper"): ?> 
-          <button onclick="trigger()" id="modalButton"
-            class="<?php echo $display ?> text-xs text-gray-700 uppercase border font-bold mx-3 py-[5px] px-[15px] bg-white hover:bg-[#2E3192] hover:text-white rounded">
-            input
-          </button>
-      <?php endif; ?>
+      </button>      
     </div>
   </div>
   <div id="table" class="flex justify-center sm:flex-col lg:flex-row">
@@ -150,6 +154,9 @@ $table = "material_receive_hein";
     </h3>
   </div>
   
+  <script src="../../JS/mt.js"></script>
+  <script src="../../JS/issued-waste.js"></script>
+  <script src="../../JS/issued-waste-style-controller.js"></script>
 </body>
 
 </html>
