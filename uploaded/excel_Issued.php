@@ -5,8 +5,8 @@ $host = 'localhost';
 $db = 'kokohsemesta';
 $user = 'root';
 $password = '';
-$mysqli = conn($user, $password, $db, "material_used_hein");
-$mysqliUpdate = conn($user, $password, $db, "material");
+$mysqli = conn();
+$mysqliUpdate = conn();
 
 require '../vendor/autoload.php'; // Lokasi file autoload.php dari library PhpSpreadsheet
 
