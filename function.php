@@ -2,7 +2,7 @@
 
 function conn()
 {
-    return $conn = mysqli_connect("localhost", "root", "", "kokohsemesta");
+    return $conn = mysqli_connect("localhost", "syih2943_admin", "syikhaakmal19", "syih2943_kokohsemesta");
 }
 
 function selectAll($table)
