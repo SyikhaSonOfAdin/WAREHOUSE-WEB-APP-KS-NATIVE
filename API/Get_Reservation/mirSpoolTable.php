@@ -35,6 +35,8 @@ while ($material = mysqli_fetch_assoc($result)) {
 
         $tableHTML .= '<td class="px-6 py-4"><button onclick="deleteItems(this)" id="deleteButton" items-id="' . $material["id"] . '"
         class="w-max border rounded-2xl font-semibold text-sm py-1 px-3 hover:bg-red-500 hover:text-white hover:border-red-500 transition-all duration-200">Delete</button></td>' ;
+        $tableHTML .= '<td class="px-6 py-4"><button onclick="editItems(' . $material["id"] . ')"
+        class="w-max border rounded-2xl font-semibold text-sm py-1 px-3 hover:bg-red-500 hover:text-white hover:border-red-500 transition-all duration-200">Edit</button></td>' ;
     }
     $tableHTML .= '</tr>';
 }

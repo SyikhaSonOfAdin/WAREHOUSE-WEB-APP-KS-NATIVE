@@ -171,10 +171,73 @@ if (isset($_SESSION["login"]) == "true") {
                 </circle>
               </svg>
               <h1 class="block group-disabled:hidden">
-                Upload
+                Add
               </h1>
             </button>
             <input type="reset" value="Cancel" name="" onclick="triggerInput()"
+              class="w-full py-[5px] px-[15px] font-semibold text-white bg-red-500 rounded">
+        </div>
+        </form>
+      </div>
+    </div>
+
+
+
+        <div class="hidden top-0 left-0 w-full h-screen bg-black/40 z-30" id="modal-bg-edit">
+      <div class="flex text-neutral-600 w-full h-screen justify-center items-center">
+        <form id="editForm"
+          class="w-[90%] md:w-1/2 lg:w-[25%] rounded p-3 md:px-6 md:py-4 bg-white flex flex-col gap-3 shadow-md"
+          enctype="multipart/form-data">
+          <div class="w-full text-center text-lg font-bold p-2 uppercase">
+            Edit Reservation
+          </div>
+          <input type="hidden" id="hidden-id">
+          <div class="w-full flex flex-col gap-1">
+            <label for="mir" class="text-sm">MIR No <span class="text-red-500 font-bold">*</span></label>
+            <input required type="text" id="mir-edit" placeholder="MIR No"
+              class="w-full border outline-none px-3 py-2 rounded focus:ring focus:ring-[#2E3192]">
+          </div>
+          <div class="w-full flex flex-col gap-1">
+            <label for="spool" class="text-sm">Spool No <span
+                class="text-red-500 font-bold">*</span></label>
+            <input required type="text" id="spool-edit" placeholder="Spool No"
+              class="w-full border outline-none px-3 py-2 rounded focus:ring focus:ring-[#2E3192]">
+          </div>
+          <div class="w-full flex flex-col gap-1">
+            <label for="ic" class="text-sm">Ident Code <span class="text-red-500 font-bold">*</span></label>
+            <input required type="text" id="ic-edit" placeholder="MIR No"
+              class="w-full border outline-none px-3 py-2 rounded focus:ring focus:ring-[#2E3192]">
+          </div>
+          <div class="w-full flex flex-col gap-1">
+            <label for="qty" class="text-sm">Quantity <span class="text-red-500 font-bold">*</span></label>
+            <input required type="text" id="qty-edit" placeholder="MIR No"
+              class="w-full border outline-none px-3 py-2 rounded focus:ring focus:ring-[#2E3192]">
+          </div>
+
+          <!-- ACTION BUTTON -->
+            <button id="submitButton" type="submit"
+              class="group w-full py-[5px] px-[15px] font-semibold text-white bg-[#2E3192] hover:text-white hover:border-[#2E3192] rounded disabled:cursor-not-allowed disabled:bg-opacity-60 disabled:text-neutral-100">
+              <svg id="downloadProcess" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                class="hidden group-disabled:block" style="
+                                  margin: auto;
+                                  background: none;
+                                  shape-rendering: auto;
+                                  animation-play-state: running;
+                                  animation-delay: 0s;" width="24px" height="24px" viewBox="0 0 100 100"
+                preserveAspectRatio="xMidYMid">
+                <circle cx="50" cy="50" fill="none" stroke="#2e3192" stroke-width="10" r="35"
+                  stroke-dasharray="164.93361431346415 56.97787143782138"
+                  style="animation-play-state: running; animation-delay: 0s">
+                  <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="1s"
+                    values="0 50 50;360 50 50" keyTimes="0;1" style="animation-play-state: running; animation-delay: 0s">
+                  </animateTransform>
+                </circle>
+              </svg>
+              <h1 class="block group-disabled:hidden">
+                Edit
+              </h1>
+            </button>
+            <input type="reset" value="Cancel" name="" onclick="triggerEdit()"
               class="w-full py-[5px] px-[15px] font-semibold text-white bg-red-500 rounded">
         </div>
         </form>
@@ -229,7 +292,8 @@ if (isset($_SESSION["login"]) == "true") {
                         <th scope="col" class="px-6 py-3">Ident Code</th>
                         <th scope="col" class="px-6 py-3">Quantity</th>
                         <?php if ($parameter == "manager" || $parameter == "developer"): ?>
-                              <th scope="col" class="px-6 py-3">Action</th>
+                              <th scope="col" class="px-6 py-3">Delete</th>
+                              <th scope="col" class="px-6 py-3">Edit</th>
                         <?php endif; ?>
                     </tr>
                 </thead>
