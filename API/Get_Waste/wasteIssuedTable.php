@@ -19,12 +19,12 @@ if (isset($_POST["s"])) {
     $based_on = $_POST["based_on"];
 
     if ($search != '') {
-        $query = "SELECT * FROM `$table` WHERE `$based_on` LIKE '%$search%' ORDER BY date DESC";
+        $query = "SELECT * FROM `$table` WHERE `$based_on` LIKE '%$search%' ORDER BY issuedDate DESC";
     } else {
-        $query = "SELECT * FROM `$table` ORDER BY date DESC LIMIT $limit";
+        $query = "SELECT * FROM `$table` ORDER BY issuedDate DESC LIMIT $limit";
     }
 } else {
-    $query = "SELECT * FROM `$table` ORDER BY date DESC LIMIT $limit";
+    $query = "SELECT * FROM `$table` ORDER BY issuedDate DESC LIMIT $limit";
 }
 
 $result = mysqli_query($connection, $query);
